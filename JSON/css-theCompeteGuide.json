@@ -1,0 +1,2388 @@
+[
+  {
+    "sectionName": "Getting Started",
+    "videos": [
+      {
+        "name": "Introduction (1:39)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913312",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/AA3BkZIZS2WtpXcQPBmP"
+        ]
+      },
+      {
+        "name": "What is CSS? (2:59)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913316",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CI1vl6KBT1u9OgtZMLkG",
+          "https://cdn.fs.teachablecdn.com/1cM22LXXRTudWq2xXGVA"
+        ]
+      },
+      {
+        "name": "CSS History, Present & Future (1:50)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913311",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/og0W2SGTUezJVpczN8vw"
+        ]
+      },
+      {
+        "name": "Join our Online Learning Community",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14496290"
+      },
+      {
+        "name": "Course Outline (4:34)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913315",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/P5owBTZUQWeaEUiI27d1"
+        ]
+      },
+      {
+        "name": "Course Prerequisites (0:43)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913314",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/66eqYSmMTuSP1I1xsz8t"
+        ]
+      },
+      {
+        "name": "How To Get The Most Out Of This Course (2:49)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913310",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/DAHxjOvESK2aw0McdRDM"
+        ]
+      },
+      {
+        "name": "Recommended Tools (1:26)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913313",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/q7qOuEUNQquBnirkfav2"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14484937"
+      },
+      {
+        "name": "Where to Find the Source Code",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14484940"
+      }
+    ]
+  },
+  {
+    "sectionName": "Diving Into the Basics of CSS",
+    "videos": [
+      {
+        "name": "Module Introduction (0:55)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913349",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/i2Y4dYITIawuio3oU77z"
+        ]
+      },
+      {
+        "name": "Understanding the Course Project Setup (2:44)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913346",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4zG1YbvxScSrvcvleXhD",
+          "https://cdn.fs.teachablecdn.com/zTPC1AcxT2Oxp9FT78a4"
+        ]
+      },
+      {
+        "name": "Adding CSS to our Project with Inline Styles (3:53)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913348",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/GIySHUzyT3iFWx5ipAMX"
+        ]
+      },
+      {
+        "name": "Understanding the 'style' Tag & Creating a .css File (6:27)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913350",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/gfhnJm7SpidRcTHRfJ9n",
+          "https://cdn.fs.teachablecdn.com/VQykmnl6QtuIDE1ytRHP"
+        ]
+      },
+      {
+        "name": "Applying Additional Styles & Importing Google Fonts (6:51)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913356",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/fJHuJkXQQ9WKmHzO7RF0"
+        ]
+      },
+      {
+        "name": "Theory Time - Selectors (8:56)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913353",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/UOVKNiPMS0ygFooScZuC"
+        ]
+      },
+      {
+        "name": "Understanding the 'Cascading' Style & Specificity​(8:14)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913347",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/pbUp1MCSTcGU2ZnQ1wy8"
+        ]
+      },
+      {
+        "name": "Understanding Inheritance (5:47)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913345",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/C2K1aiEiRxuZVbxyRfS7"
+        ]
+      },
+      {
+        "name": "Adding Combinators (6:16)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913357",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/JAOB5WBdSCm8OXGUMbNw"
+        ]
+      },
+      {
+        "name": "Theory Time - Combinators (5:42)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913351",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/tS1Br3h0RPC3xdYafLk3"
+        ]
+      },
+      {
+        "name": "Summarizing Properties & Selectors (3:49)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913358",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CQebHbFRPKbV5zcns7Fw"
+        ]
+      },
+      {
+        "name": "Assignment - The Basics (Problem) (3:15)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913355",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/TKWpFD0HQyKLkmIG70b4"
+        ]
+      },
+      {
+        "name": "Assignment - The Basics (Solution) (12:40)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913352",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/8CEONEoYS0WeVyWl3nRT"
+        ]
+      },
+      {
+        "name": "Wrap Up (2:02)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913354",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ew8hOWlS3SmpUugJvCDw"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456711",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/SyXVJ6lNQd61fDbtLHOZ",
+          "https://cdn.fs.teachablecdn.com/BBQoLWeTvKXXTJyFguyo",
+          "https://cdn.fs.teachablecdn.com/B3r3QiqrTdudVyKl6rPB",
+          "https://cdn.fs.teachablecdn.com/NpLGptNQRahBajvV1zbi",
+          "https://cdn.fs.teachablecdn.com/O2GmMebzRrmubEcHfmfK",
+          "https://cdn.fs.teachablecdn.com/sC28FO1QRScM6Ez1iScs",
+          "https://cdn.fs.teachablecdn.com/j995cRmZT6mfFzJToI8s",
+          "https://cdn.fs.teachablecdn.com/vI3wMJe4Qh61qQTJvPah"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Diving Deeper into CSS",
+    "videos": [
+      {
+        "name": "Module Introduction (1:19)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913394",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/nbjU6N5SGO3w1CLf0RD2"
+        ]
+      },
+      {
+        "name": "Introducing the CSS Box Model (3:36)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913389",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/JnZzFHjIREyGD5SE8JVQ"
+        ]
+      },
+      {
+        "name": "Understanding the Box Model (3:01)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913399",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6hhV3vvPTPGNMyXDJS5Y"
+        ]
+      },
+      {
+        "name": "Understanding Margin Collapsing and Removing Default Margins (3:05)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913385",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/NazHU9sPTA2iAYKogF6x"
+        ]
+      },
+      {
+        "name": "Deep Dive on 'Margin Collapsing'",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14484946"
+      },
+      {
+        "name": "Theory Time - Working with Shorthand Properties (3:48)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913383",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Oy9ykcwwTly9AMBDFDvV"
+        ]
+      },
+      {
+        "name": "Applying Shorthands in Practice (2:05)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913396",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5QQbOgx3RwCpw44FkWpR"
+        ]
+      },
+      {
+        "name": "Diving Into the Height & Width Properties (6:07)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913398",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zePDB5nETfqTsncTFpLS"
+        ]
+      },
+      {
+        "name": "Understanding Box Sizing (6:43)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913391",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bobTTt1LRBWuzeVIAnaj"
+        ]
+      },
+      {
+        "name": "Adding the Header to our Project (5:37)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913380",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6o0DGWroSP20FVHR5Sm1"
+        ]
+      },
+      {
+        "name": "Understanding the Display Property (7:12)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913393",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6QEKtFwaT4KTSnMRHRUZ"
+        ]
+      },
+      {
+        "name": "display: none vs visibility: hidden",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14484949"
+      },
+      {
+        "name": "HTML Refresher: Block-level vs Inline Elements",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14484950"
+      },
+      {
+        "name": "Applying the Display Property & Styling our Navigation Bar (6:53)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913401",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/iHvhKy34Q0CTKTSVst8c"
+        ]
+      },
+      {
+        "name": "Understanding an Unexpected 'inline-block' Behaviour (2:03)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913379",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/KimHmpcoSpCAtpqTES5f"
+        ]
+      },
+      {
+        "name": "Working with 'text-decoration' & 'vertical-align' (4:54)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913387",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/eZtirnpZQSG2do5tiUFE"
+        ]
+      },
+      {
+        "name": "Styling Anchor Tags (4:00)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913388",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/qgMIys0GRieTqSQicmcU"
+        ]
+      },
+      {
+        "name": "Adding Pseudo Classes (1:47)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913395",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6zv0XZ1wTmKy8JsCSHx5"
+        ]
+      },
+      {
+        "name": "Theory Time - Pseudo Classes & Pseudo Elements (5:38)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913386",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/mCgVFyVbR8qSaOHVlmEg"
+        ]
+      },
+      {
+        "name": "Grouping Rules (1:14)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913382",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Pxtvw5US0mEjojq0jZtw"
+        ]
+      },
+      {
+        "name": "Working with 'font-weight' & 'border' (2:04)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913392",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/YEs6PWZT4iQZQu2nrxqA"
+        ]
+      },
+      {
+        "name": "Adding & Styling a CTA-Button (4:09)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913381",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/rm4TZYDyTJqWcpQq0VhM"
+        ]
+      },
+      {
+        "name": "Adding a Background Image to our Project (1:50)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913390",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ji50o12RT5CRSsM2iHk8"
+        ]
+      },
+      {
+        "name": "Properties Worth to Remember (1:29)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913384",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ySy6wpJJQBmgyAXxo0A5"
+        ]
+      },
+      {
+        "name": "Assignment - Diving Deeper (Problem) (3:08)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913397",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/kD3JNUvJQyCklMgg1OUB"
+        ]
+      },
+      {
+        "name": "Assignment - Diving Deeper (Solution) (16:26)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913378",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/hzgphil3RBm4Gjc5TPya"
+        ]
+      },
+      {
+        "name": "Wrap Up (2:31)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913377",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uaY5D0DhRvSLKQu7TtAq"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456712",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/S3fflGMTEeVHCreo0ykg",
+          "https://cdn.fs.teachablecdn.com/AwWZxI3EQU9wrUX3114P",
+          "https://cdn.fs.teachablecdn.com/0pHY394nRaag4uknS5FK",
+          "https://cdn.fs.teachablecdn.com/GY3NTb8ISLKf2HU3Mulg",
+          "https://cdn.fs.teachablecdn.com/VM2XUS3pSJefpzqcc9Ff",
+          "https://cdn.fs.teachablecdn.com/ZNQbHTSey0iOc59OpyzA",
+          "https://cdn.fs.teachablecdn.com/jBtqwDcKRYWSYVaIDYFB",
+          "https://cdn.fs.teachablecdn.com/YotcX59TG6Gm596o7fXd"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "More on Selectors & CSS Features",
+    "videos": [
+      {
+        "name": "Module Introduction (0:41)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913442",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/7dfjMAT7TRKqckR5Va8y"
+        ]
+      },
+      {
+        "name": "Using Multiple CSS Classes & Combined Selectors (7:09)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913444",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/mouMkkhgRuugGmVwoDlg"
+        ]
+      },
+      {
+        "name": "Classes or IDs? (4:05)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913443",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FhSBT0A4SmCxJQYfjTIn"
+        ]
+      },
+      {
+        "name": "(Not) using !important (3:15)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913446",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/YyLIPxp3QHWSsU5SUWRU"
+        ]
+      },
+      {
+        "name": "Selecting the Opposite with :not() (3:29)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913445",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/npee3Pl8RKWG84VJOqge"
+        ]
+      },
+      {
+        "name": "CSS & Browser Support (3:51)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913448",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/IOgQD6MzQn6K9uE3zYmR"
+        ]
+      },
+      {
+        "name": "Wrap Up (1:06)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913447",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bIlay8L2SxuopItAL8S4"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456713",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FcImxYDZQwUvBwLntY4J",
+          "https://cdn.fs.teachablecdn.com/9RFSi7aQXChlhtdtqI1V",
+          "https://cdn.fs.teachablecdn.com/Q2zbtEjS5u3YSDwTR99b",
+          "https://cdn.fs.teachablecdn.com/OlzNpOB4Ti6aLqDlviZr"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Practicing the Basics",
+    "videos": [
+      {
+        "name": "Module Introduction (0:37)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913430",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/rFoeMdQuSZKczvBFopgZ"
+        ]
+      },
+      {
+        "name": "Adding Style to our Plans (8:34)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913422",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/lJXKFwZ9TNiU4BxItxLR"
+        ]
+      },
+      {
+        "name": "Working on the Recommended Plan (6:33)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913417",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/MsG9omKjTluT8veeuBcI"
+        ]
+      },
+      {
+        "name": "Styling the Badge with 'border-radius' (3:22)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913432",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/q8IpO1eQRW4Dd3uDZHaA"
+        ]
+      },
+      {
+        "name": "Styling our List (3:02)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913427",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/r4XrQICdTESHw1JynTIV"
+        ]
+      },
+      {
+        "name": "Working on the Title and the Price of our Packages (4:33)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913425",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/KzLF608XR39zVZdjNyIH"
+        ]
+      },
+      {
+        "name": "Improving our Action Button (6:40)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913421",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/O5u1I9BLTQ6oTPvByJqu"
+        ]
+      },
+      {
+        "name": "Understanding Outlines (2:17)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913429",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zsYfIOoWQwerGR0uoxDW"
+        ]
+      },
+      {
+        "name": "Presenting the Core Features to the User (1:22)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913428",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uGTmiVgYT1KHAgvEucVv"
+        ]
+      },
+      {
+        "name": "Styling the Headline of the Core Features Section (3:38)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913424",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bZdOSN7ZQPmCAmXbGAbr"
+        ]
+      },
+      {
+        "name": "Preparing the Content of the Key Feature Area (7:15)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913431",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zofHYZ7TJydzGMburRXi"
+        ]
+      },
+      {
+        "name": "Adding the Footer (6:49)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913418",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/m74Ia8tLQ4G8YuolOdQk"
+        ]
+      },
+      {
+        "name": "What we Achieved so Far (1:46)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913426",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/9T9kPZIZQti3NjKEJ0Ms"
+        ]
+      },
+      {
+        "name": "Adding the Packages Page (6:24)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913416",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/8eSfJyXQfWE3ud6Ohjqb"
+        ]
+      },
+      {
+        "name": "Your Challenge (1:31)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913419",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/qinTyUrpTqKkrMiush8z"
+        ]
+      },
+      {
+        "name": "Styling the Links (3:55)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913414",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/XJQkQGMcQsHtsVnPVLhQ"
+        ]
+      },
+      {
+        "name": "Styling our Package Boxes (7:15)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913420",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/OFkYyPI3SSaymGzVBjYr"
+        ]
+      },
+      {
+        "name": "Adding 'float' to our Package (5:14)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913423",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/8zo1YLO7SSK7xMlJexRR"
+        ]
+      },
+      {
+        "name": "Fixing the Hover Effect (4:11)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913415",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uzAlylT768ZmQlYaqeAK"
+        ]
+      },
+      {
+        "name": "Adding the Final Touches (3:01)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913413",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/MgB8GscVRWGGoqbpncdl"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456714",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/RTuRnxZQyq7xdDiZLOw1",
+          "https://cdn.fs.teachablecdn.com/xMTTMfzQ1iW24NUpVsg0",
+          "https://cdn.fs.teachablecdn.com/Fo22DTwS2e5qyx26Txxg",
+          "https://cdn.fs.teachablecdn.com/DVLt9HHQBe97zZIOBsdQ",
+          "https://cdn.fs.teachablecdn.com/u06PYXP5Tu6CKjpmu5Za",
+          "https://cdn.fs.teachablecdn.com/iZx9vZJpS1iKFzoGRbm3",
+          "https://cdn.fs.teachablecdn.com/cV2kWbiuT2u6DVAGf1mg",
+          "https://cdn.fs.teachablecdn.com/f6kXINXfRudU9qZcpFm4",
+          "https://cdn.fs.teachablecdn.com/Rb2BAhz9QOWkzJeaPXXn",
+          "https://cdn.fs.teachablecdn.com/iVD8M37ZRK218eSaL9Ub",
+          "https://cdn.fs.teachablecdn.com/jD1TisR1GacNnAEW30QE"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Positioning Elements with CSS",
+    "videos": [
+      {
+        "name": "Module Introduction (2:44)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913502",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/0KwpCDQ02VlBpYA5JVlw"
+        ]
+      },
+      {
+        "name": "Why Positioning will Improve our Website (2:32)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913501",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/DTGRovHTP2Q7IKAjjF0A"
+        ]
+      },
+      {
+        "name": "Understanding Positioning - The Theory (5:54)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913511",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/T7xVvPETze4Km2lwFgzq"
+        ]
+      },
+      {
+        "name": "Working with the 'fixed' Value (9:50)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913509",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FQrA4yB4Q9asUVZWP0DD"
+        ]
+      },
+      {
+        "name": "Creating a Fixed Navigation Bar (3:54)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913510",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ApwWDdzGTGqKw58hdnRH"
+        ]
+      },
+      {
+        "name": "Using 'position' to Add a Background Image (6:03)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913503",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/xDzt2LuQtvJCHCog6Dgh"
+        ]
+      },
+      {
+        "name": "Understanding the Z-Index (6:59)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913504",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/sxzGMUOsQgWDQ1kYLHWK"
+        ]
+      },
+      {
+        "name": "Adding a Badge to our Package (8:00)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913506",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2NlDXO4PR3CdT6jKzUfS"
+        ]
+      },
+      {
+        "name": "Styling & Positioning our Badge with 'absolute' and 'relative' (3:10)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913500",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/LKJyYXBDSeWb3E8odqZB"
+        ]
+      },
+      {
+        "name": "Diving Deeper into Relative Positioning (4:02)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913499",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/wKcCLW8sSFGP8Qvijkaf"
+        ]
+      },
+      {
+        "name": "Working with 'overflow' and Relative Positioning (4:17)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913508",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/olw3lQiuSYS2cZWnFjxQ"
+        ]
+      },
+      {
+        "name": "Introducing 'sticky' Positioning (6:53)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913512",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/PMyID8RVqZCZmsIeflA4"
+        ]
+      },
+      {
+        "name": "Understanding the Stacking Context (5:53)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913513",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/A3Re629hQ6CsCQlldSdi"
+        ]
+      },
+      {
+        "name": "Assignment - Positioning (Problem) (4:41)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913507",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/OjK8rMtZSOh1GCVOJ5x3"
+        ]
+      },
+      {
+        "name": "Assignment - Positioning (Solution) (14:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913505",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/HODOm81fSwqgkQGOxUpi"
+        ]
+      },
+      {
+        "name": "Wrap Up (4:12)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913514",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/G5XaN3e1RLqRDM1TAVN0"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456715",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/9FxX1Uh0S1mqKOA5EYfV",
+          "https://cdn.fs.teachablecdn.com/MP9obudQTcGzmzjE3IOx",
+          "https://cdn.fs.teachablecdn.com/KnBtcoQzQZqQZ3o6BAMS",
+          "https://cdn.fs.teachablecdn.com/oYxB1yXpQM6MODlHMHGD",
+          "https://cdn.fs.teachablecdn.com/MzwSGOW9T2uaQqPUoieg",
+          "https://cdn.fs.teachablecdn.com/SMOnq9ufS0SzWsi4saiL",
+          "https://cdn.fs.teachablecdn.com/30iUn7dOQUaR9u99ACKv",
+          "https://cdn.fs.teachablecdn.com/tf02kvzsQI2VNZaptHiV",
+          "https://cdn.fs.teachablecdn.com/flNTRNE3Tp2u53umfEZS",
+          "https://cdn.fs.teachablecdn.com/WkbC4WlVS6mgn3EkH7za"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Understanding Background Images & Images",
+    "videos": [
+      {
+        "name": "Optional: Advanced Track Introduction (2:22)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13964527",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/9DwEZBcS2CP6dcHmkA2d"
+        ]
+      },
+      {
+        "name": "Module Introduction (1:05)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913554",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/9pp8jgPGQAulRvXWISMj"
+        ]
+      },
+      {
+        "name": "Understanding 'background-size' (8:41)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913549",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/aDWCndcQJyaluy0AlQ1a"
+        ]
+      },
+      {
+        "name": "Working with 'background-position' (5:00)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913555",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/oD33MtyYTauxadZMx1pD"
+        ]
+      },
+      {
+        "name": "The 'background' Shorthand - Theory (2:12)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913559",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bkuR4m3NTWO3EwqPxyhy"
+        ]
+      },
+      {
+        "name": "Applying 'background' Origin, Clip & Attachment (5:51)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913557",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/sUOV9I7uQjKgCILKQ0b7"
+        ]
+      },
+      {
+        "name": "Using the 'background' Shorthand on our Project (2:19)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913560",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ifmWDpC1SqiAtlfnUCGd"
+        ]
+      },
+      {
+        "name": "Styling Images (7:33)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913546",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/sYQfGyAHTlKSW3x7emMX"
+        ]
+      },
+      {
+        "name": "Adding the Customers Page to our Website (3:19)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913553",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/krcObGIXRtCLRs3Jw3bj"
+        ]
+      },
+      {
+        "name": "Working on the Image Layout (8:07)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913547",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/9SvORPg4TZyXED1mUdeZ"
+        ]
+      },
+      {
+        "name": "Understanding Linear Gradients (6:16)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913558",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ZVjEDy0wQIa11n29G6Hs"
+        ]
+      },
+      {
+        "name": "Applying Radial Gradients (5:41)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913551",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/qTxWt2BTtqQTpJSIzGew"
+        ]
+      },
+      {
+        "name": "Stacking Multiple Backgrounds (4:50)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913550",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1ycH7P7eRE2y1ELV1kUL"
+        ]
+      },
+      {
+        "name": "Understanding Filters (4:00)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913548",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/NzkDI1QDTE65dTV2EVbU"
+        ]
+      },
+      {
+        "name": "Adding & Styling SVGs - The Basics (4:20)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913556",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/70kd8GvbQamwO3LIsXH9"
+        ]
+      },
+      {
+        "name": "Wrap Up (2:14)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913552",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FzASAM1jQ7iFAxD9ruOR"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456716",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/VBhnhVFATWupISbfaO4a",
+          "https://cdn.fs.teachablecdn.com/6pMkpQXoTIKSSoIFHqup",
+          "https://cdn.fs.teachablecdn.com/nEVJmUTtQxmG7T5kO0c0",
+          "https://cdn.fs.teachablecdn.com/EW3IwEl0TjuV5NCJYm7V",
+          "https://cdn.fs.teachablecdn.com/h84PjHJvRD2yWY6ei3An",
+          "https://cdn.fs.teachablecdn.com/pvTdM79bQaae24fKUpwS",
+          "https://cdn.fs.teachablecdn.com/PZ89RUyRWuCnl7elfaaq",
+          "https://cdn.fs.teachablecdn.com/1T9diMJRH6UePnkrB21w",
+          "https://cdn.fs.teachablecdn.com/nQR9lzA2SgqYZI4YHPph",
+          "https://cdn.fs.teachablecdn.com/c6j0XKHiTkSWg7fMQ2sR",
+          "https://cdn.fs.teachablecdn.com/1fSiK1iQ42e7rrUSYkxp"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Sizes & Units",
+    "videos": [
+      {
+        "name": "Module Introduction (2:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913582",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FraIEJTReCMEsBmSY912"
+        ]
+      },
+      {
+        "name": "What's Wrong With Our Project Units? (5:21)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913571",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/m3fBQw4RSuPgayzhcnAe"
+        ]
+      },
+      {
+        "name": "Where Units Matter (6:02)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913584",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/rBxfMRQITvCKyrDfReWp"
+        ]
+      },
+      {
+        "name": "An Overview of Available Sizes & Units (4:24)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913586",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/gXkCOrpNQPGUaShv47Jq"
+        ]
+      },
+      {
+        "name": "Rules to Remember: Fixed Positioning & '%' (4:15)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913573",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2sFngRrcShiPDaum7Rys"
+        ]
+      },
+      {
+        "name": "Rules to Remember: Absolute Positioning & '%' (8:14)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913583",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uEplEYghRCC1bKwJwcl5"
+        ]
+      },
+      {
+        "name": "Rules to Remember: Relative / Static Positioning & '%' (8:53)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913585",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/VgJtHusFTRqrlmbhyvTY"
+        ]
+      },
+      {
+        "name": "Fixing the Height 100% Issue (12:02)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913570",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bcgwLTfcQ9Wf74BCZqDF"
+        ]
+      },
+      {
+        "name": "Defining the Font Size in the Root Element (2:18)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913569",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zKQ4U39QCiVNXIs5kySu"
+        ]
+      },
+      {
+        "name": "Using 'min-width/height' & 'max-width/height' (5:27)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913581",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bUXhinFS6uniqFopOvLL"
+        ]
+      },
+      {
+        "name": "Working with 'rem' & 'em' (12:47)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913579",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/HfUZaYlSCiXfIiZt1lBH"
+        ]
+      },
+      {
+        "name": "Adding 'rem' to Additional Properties (8:17)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913580",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/3dLezy8MQraPCo0nfmWw"
+        ]
+      },
+      {
+        "name": "Finishing 'rem' (5:21)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913577",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/JPHMQK49SsKBsODMXMPd"
+        ]
+      },
+      {
+        "name": "Understanding the Viewport Units 'vw' &'vh' (9:47)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913576",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2ZzbibvlTCCNWwOtcQxn"
+        ]
+      },
+      {
+        "name": "Windows, Viewport Units & Scrollbars",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14487902"
+      },
+      {
+        "name": "Choosing the Right Unit (5:30)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913575",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/vkLZjOqSh2rXX2y7Nwkg"
+        ]
+      },
+      {
+        "name": "Using 'auto' to Center Elements (1:42)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913574",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ng1VZfQT4qEMVcRXFQJg"
+        ]
+      },
+      {
+        "name": "Cleaning Up our Code (1:06)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913578",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/oXEsPLLQcepSqAm4CobH"
+        ]
+      },
+      {
+        "name": "Wrap Up (4:23)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913572",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/pI6zGX6DSNi1vmoUhyAV"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456717",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/WnrFDxxT5yEKisDEbjlf",
+          "https://cdn.fs.teachablecdn.com/LvCvM5dpQVqnsQ12Qi5a",
+          "https://cdn.fs.teachablecdn.com/LyMegDqpT9eyzuRibnlb",
+          "https://cdn.fs.teachablecdn.com/3NAUfMTJSACTUyoRVwYb",
+          "https://cdn.fs.teachablecdn.com/p5HKo4eWSLSbUSYglId4",
+          "https://cdn.fs.teachablecdn.com/3HxvWitySPmGdHIZr1ca",
+          "https://cdn.fs.teachablecdn.com/Kvj1rqlAR4e6y2VyZ78q"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Working with JavaScript & CSS",
+    "videos": [
+      {
+        "name": "Module Introduction (1:16)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913621",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4zl0glQQ4GS32tqDoIMB"
+        ]
+      },
+      {
+        "name": "Adding a Modal (4:13)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913618",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/DwbBRjIQKwa9d4yYKVQt"
+        ]
+      },
+      {
+        "name": "Selecting & Manipulating Styles with JavaScript (10:34)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913616",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/lioeFO3LQ6wulvqRHCHS"
+        ]
+      },
+      {
+        "name": "Adding an Event Listener (6:05)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913617",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/irlVfpBvS8iqqykUMyiG"
+        ]
+      },
+      {
+        "name": "Assignment - Adding Style with JavaScript (Problem) (0:45)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913619",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1vM0YpH1TvyWYPyRdbUe"
+        ]
+      },
+      {
+        "name": "Assignment - Adding Style with JavaScript (Solution) (3:58)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913622",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/OhhcxMFCS7qDC2n9Qby5"
+        ]
+      },
+      {
+        "name": "Adding a Side Navigation Bar (7:14)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913624",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Iw7JK0EfTsi2a9pD7iHK"
+        ]
+      },
+      {
+        "name": "Opening and Closing the Hamburger Menu (3:57)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913623",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Q5wgHcZUQLSjxr2nTHUy"
+        ]
+      },
+      {
+        "name": "Manipulating Element Classes (6:40)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913615",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5wySd4PbTFSRCBIuDusu"
+        ]
+      },
+      {
+        "name": "Understanding Property Notations (3:12)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913614",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Rbhj3Sz9S0yGcpEFPJCR"
+        ]
+      },
+      {
+        "name": "Cleaning Up our Code (5:31)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913620",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/9mzIp5BwQMG2dnNiO2sp"
+        ]
+      },
+      {
+        "name": "Wrap Up (1:15)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913613",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/nvTh2xeSHuZQc5AJ5bWC"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456718",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6qkAhIeRPihUv9u561Mg",
+          "https://cdn.fs.teachablecdn.com/Q4OgOVqNTpavmKcrlwIO",
+          "https://cdn.fs.teachablecdn.com/CxyaIiTemKLbXRU1s6gB",
+          "https://cdn.fs.teachablecdn.com/ByVwJQKQwuMXAbfiSTDh",
+          "https://cdn.fs.teachablecdn.com/CJXh19ASZmhCGjZW3lwp"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Responsive Design",
+    "videos": [
+      {
+        "name": "Module Introduction (1:45)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913678",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/9g8PPzTLTOGHP5Spu5tw"
+        ]
+      },
+      {
+        "name": "Why our Project Should Become Responsive (2:25)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913667",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/BPB7LHTaT8uWGOdfIcco"
+        ]
+      },
+      {
+        "name": "Understanding Hardware Pixels vs. Software Pixels (10:29)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913665",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/whrOBXxRRK171qHWbqQQ"
+        ]
+      },
+      {
+        "name": "Comparing the Viewport Metatag (HTML) and Media Queries (CSS) (3:04)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913679",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/0QkjmH6SDKe46vIzgJ9S"
+        ]
+      },
+      {
+        "name": "Understanding the 'viewport' Metatag (7:22)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913676",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/psn0Ieq7StOocmIr4z9o"
+        ]
+      },
+      {
+        "name": "Designing Websites 'Mobile First' (1:54)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913670",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/hsTk6Jn2Qgu3rNffKryU"
+        ]
+      },
+      {
+        "name": "Adding our First Media Queries (12:52)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913668",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Hswuf2UJQ3Sfoes3GKlS"
+        ]
+      },
+      {
+        "name": "Things to Keep in Mind when Working with Media Queries (8:09)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913675",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Lr7OaXHQTKOyvgw7XZN8"
+        ]
+      },
+      {
+        "name": "Finding the Right Breaking Points (3:45)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913669",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ZkdYus0DTwKoMCu0sIN1"
+        ]
+      },
+      {
+        "name": "Creating the Mobile First Design for our Plans (6:37)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913661",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2AAengmHQkGDACo1xsaS"
+        ]
+      },
+      {
+        "name": "Making the Plans Responsive (8:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913677",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/AgDHJVHuS4ak0BUccFKb"
+        ]
+      },
+      {
+        "name": "Your Challenge (6:06)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913671",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Y612GYOUTbGUJ8krKsag"
+        ]
+      },
+      {
+        "name": "Assignment - Responsive Websites (Problem) (3:00)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913666",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ACARseZ5TdOYnwqEAIwk"
+        ]
+      },
+      {
+        "name": "Assignment - Responsive Websites (Solution) (8:07)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913673",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/d2ec7h1pT1iThyUMwiEz"
+        ]
+      },
+      {
+        "name": "Working with Logical Operators (8:13)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913660",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1qZlgIMtQXmqvLGgBiZc"
+        ]
+      },
+      {
+        "name": "Improving the Customers Page (14:58)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913663",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zuaGnjWnQ2m01rUKmj7s"
+        ]
+      },
+      {
+        "name": "Improving the Packages Page (5:41)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913672",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5sl1fMwRrKd6xQ2DaC8R"
+        ]
+      },
+      {
+        "name": "Cleaning Up the Navigation Bar (4:39)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913664",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4XxAI9HYQOew9Mu54olt"
+        ]
+      },
+      {
+        "name": "Positioning our Footer Correctly (10:09)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913674",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/vW0iNtDWQlW7fy4jV87t"
+        ]
+      },
+      {
+        "name": "Wrap Up (2:15)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913662",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/TALpHNTYT4OpilscVfsb"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456719",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/U0bmw75zTv2h3jXJu0x3",
+          "https://cdn.fs.teachablecdn.com/oqs8AMUTO2YmIXcoTHDY",
+          "https://cdn.fs.teachablecdn.com/rh5iuiDkQlqYKqOw4Cuh",
+          "https://cdn.fs.teachablecdn.com/HFhxnJhrTLCVQ8KDuIU5",
+          "https://cdn.fs.teachablecdn.com/tlD6AV8uSWezRa5IwBo4",
+          "https://cdn.fs.teachablecdn.com/g8irQnaNSceuBARs1eZm",
+          "https://cdn.fs.teachablecdn.com/MOUsGxPeTnyXiCv6fNDg"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Adding & Styling Forms",
+    "videos": [
+      {
+        "name": "Module Introduction (1:32)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913695",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ScIgKRJAShqZtldOkVT0"
+        ]
+      },
+      {
+        "name": "Adding the Unstyled Form (2:37)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913700",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zsCzMNuYTEOWJEmFPBSj"
+        ]
+      },
+      {
+        "name": "Page Initialization (6:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913697",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/jposoVdSSrWvfhpR7KBv"
+        ]
+      },
+      {
+        "name": "Understanding Advanced Attribute Selectors (6:02)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913694",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/TqDMZ9GQQVOrHo9i8tWu"
+        ]
+      },
+      {
+        "name": "Working on the General Layout (7:15)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913692",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uZDcmY7TOSvb5IRdpuVY"
+        ]
+      },
+      {
+        "name": "Restyling the Form Elements (6:29)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913693",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/mPOvcBTlQcmOmboByADg"
+        ]
+      },
+      {
+        "name": "Styling the Checkbox (6:52)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913696",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/TB0NcVNSVurBizBjS8bG"
+        ]
+      },
+      {
+        "name": "Providing Validation Feedback (8:50)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913691",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/a08WAdQQDGt7ZmMscdWA"
+        ]
+      },
+      {
+        "name": "Styling the Signup Button (3:42)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913699",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/jVPsZQ2QryQl7UleTVVQ"
+        ]
+      },
+      {
+        "name": "Fixing a Broken Link",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14488028"
+      },
+      {
+        "name": "Wrap Up (1:29)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913698",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/hSn26XsWTLes03uhuW58"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456720",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Tiwqjdh0Q7IO5kpQaSge",
+          "https://cdn.fs.teachablecdn.com/VakLJEMzTbKWGlG1HTyP",
+          "https://cdn.fs.teachablecdn.com/mW0FzuuHT2WuCcRqy0hc",
+          "https://cdn.fs.teachablecdn.com/k2Hl2OhRuarkIpbwEHQm",
+          "https://cdn.fs.teachablecdn.com/PVTCKIM1THqqlKdsyyDt",
+          "https://cdn.fs.teachablecdn.com/JR3JHZRTdWXJccf1j286"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Working with Text and Fonts",
+    "videos": [
+      {
+        "name": "Module Introduction (1:20)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913707",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4OiegLDR7OwcAY8SnGLS"
+        ]
+      },
+      {
+        "name": "Comparing Generic Families & Font Families (2:56)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913717",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ooiSYFU6TmCzt4YHXkBx"
+        ]
+      },
+      {
+        "name": "Understanding the Browser Settings (6:17)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913715",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ca4byGkYS4GaYsgJlQa7"
+        ]
+      },
+      {
+        "name": "Using the Default Font Families (6:53)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913705",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/s988vYhjSTKx1f4np7Bn"
+        ]
+      },
+      {
+        "name": "Understanding the 'font-family' Syntax (6:18)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913708",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/WCpX2p1yQO63SLqQRxoX"
+        ]
+      },
+      {
+        "name": "Working with Locally Saved Fonts (3:50)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913709",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/qUwgPGKSaWAYTtOnG1yg"
+        ]
+      },
+      {
+        "name": "Working with Google Fonts (10:28)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913714",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/gpLdNx0SRzCIsHQ2Y0EP"
+        ]
+      },
+      {
+        "name": "Understanding Font Faces & 'font-style' (6:49)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913716",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5pD4tm4sT0iwwRqFdHix"
+        ]
+      },
+      {
+        "name": "Importing our Custom Fonts (9:03)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913712",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/BJrppRSuT5y534BM23yn"
+        ]
+      },
+      {
+        "name": "Understanding Font Formats (5:41)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913706",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2VSihbAESTC8U1yMKeAb"
+        ]
+      },
+      {
+        "name": "Diving into Font Properties (3:10)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913721",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/h3mwIqvS3SksVPEH4czZ"
+        ]
+      },
+      {
+        "name": "Adding 'letter-spacing' (4:43)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913710",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/AWpC7I8eReC3cnfBNiqF"
+        ]
+      },
+      {
+        "name": "Changing the Line Height (6:07)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913713",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/enCBKJ7OTRqiMHHHY1E3"
+        ]
+      },
+      {
+        "name": "Applying 'text-decoration' & 'text-shadow' (5:51)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913719",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Edj0A7ORlOhutm4pu13e"
+        ]
+      },
+      {
+        "name": "Understanding the 'font' Shorthand (8:39)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913718",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zOIv1yrwT6emOmr3vjVT"
+        ]
+      },
+      {
+        "name": "Loading Performance & 'font-display' (9:49)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913711",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ENaRWGRcyKSBHsOVVRPQ"
+        ]
+      },
+      {
+        "name": "Wrap Up (3:47)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913720",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CotUKwlQfiIzIkeZrMOG"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456721",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CAoyXDjlQ9SZcSd1Y5AN",
+          "https://cdn.fs.teachablecdn.com/uYJqnvlMRkivrIgAabb8",
+          "https://cdn.fs.teachablecdn.com/6TCHyT52TzqRcMca3FAb",
+          "https://cdn.fs.teachablecdn.com/BbTtjNJRTYSB4W4ukbnJ",
+          "https://cdn.fs.teachablecdn.com/Kp966GNjTCKJjq9qA18b",
+          "https://cdn.fs.teachablecdn.com/Q65rLWlhReiTYxNofSIL",
+          "https://cdn.fs.teachablecdn.com/C4z9wYN5TAWuPTWNCy9g",
+          "https://cdn.fs.teachablecdn.com/DhXA2iyTRbSrl3cn7Jy1"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Adding Flexbox to our Project",
+    "videos": [
+      {
+        "name": "Optional: Expert Track Introduction (3:23)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913753",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6mgmN5QDT6OV46JvvWFZ"
+        ]
+      },
+      {
+        "name": "Module Introduction (1:31)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913734",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/t9smiuoISlKznbFEFthe"
+        ]
+      },
+      {
+        "name": "How we Could Improve our Project (2:58)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913751",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/61IeoKmS96DC7Tcopc6K"
+        ]
+      },
+      {
+        "name": "Understanding Flexbox (3:18)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913739",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/8oJCc1FQ8OusD9FI9BaM"
+        ]
+      },
+      {
+        "name": "Creating a Flex Container (5:33)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913742",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bxXdGiYTSmuYLCBeq4GO"
+        ]
+      },
+      {
+        "name": "Using 'flex-direction' & 'flex-wrap' (5:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913737",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/wzCPO0kzS5GsCd2wxapY"
+        ]
+      },
+      {
+        "name": "Understanding the Importance of Main Axis & Cross Axis (7:27)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913740",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/A7bZc8PpSjKodl3pD2Tz"
+        ]
+      },
+      {
+        "name": "Working with 'align-items' & 'justify-content' (10:59)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913747",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1HoPFLtSTTS6VNEKUQvf"
+        ]
+      },
+      {
+        "name": "And What About 'align-content'? (2:40)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913749",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/tXP85KxSwSCizci6dxWw"
+        ]
+      },
+      {
+        "name": "Improving the Navigation Bar with Flexbox (12:02)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913750",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/k9HQ4gIEQISzUhoCr8mj"
+        ]
+      },
+      {
+        "name": "Your Challenge - Working on the Mobile Navigation Bar (4:16)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913752",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/xBMArZkhSTeICUvqAetZ"
+        ]
+      },
+      {
+        "name": "Improving the Footer (5:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913736",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ddndCUOsQ1lbjj0xF7l9"
+        ]
+      },
+      {
+        "name": "Assignment - Flexbox (Problem) (4:19)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913741",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/JPKKd58mSW6p9yxoyXJB"
+        ]
+      },
+      {
+        "name": "Assignment - Flexbox (Solution) (8:32)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913735",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/WlTsBF4sSdajUVCaALJb"
+        ]
+      },
+      {
+        "name": "Flexbox and the Z-Index",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14488070"
+      },
+      {
+        "name": "Adding Flexbox to the Customers Page (3:16)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913738",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ukCm3scRsGiESUCqU59x"
+        ]
+      },
+      {
+        "name": "Using the 'order' Property for a Flex Item (6:07)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913746",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6yWteGGBQUqFsSOv5UBA"
+        ]
+      },
+      {
+        "name": "Working with 'align-self' (2:44)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913733",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/op9BYQllSs6WSARUzNjv"
+        ]
+      },
+      {
+        "name": "Understanding 'flex-grow' (7:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913744",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Zyl5PTLuQmCMZ4WZA0Jc"
+        ]
+      },
+      {
+        "name": "Applying 'flex-shrink' (3:12)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913743",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/lEijxJNHS8WiW4ONLNzX"
+        ]
+      },
+      {
+        "name": "Comparing 'flex-basis' vs 'width' & 'height' (8:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913745",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/DkzaF4H7TByGMrjdlKnH"
+        ]
+      },
+      {
+        "name": "Wrap Up (3:52)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913748",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/3k2nfFSdSkCrSYzMtvOR"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456723",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/g2apfPMmQFVoKViUitEi",
+          "https://cdn.fs.teachablecdn.com/j4cwYWRl66PnvPU0Ke1A",
+          "https://cdn.fs.teachablecdn.com/lACjDdDLTN2CqxmUzk5i",
+          "https://cdn.fs.teachablecdn.com/jaIKp20QRtiOm2BlxFOV",
+          "https://cdn.fs.teachablecdn.com/t7bqkrRrSl6x4kyMZ7eG",
+          "https://cdn.fs.teachablecdn.com/8AmlvloUTkytPZo1sXnn",
+          "https://cdn.fs.teachablecdn.com/7ahDlc5qTEKzqcfVHwF6",
+          "https://cdn.fs.teachablecdn.com/o6C0Br0ITAmW1MGxgGl3",
+          "https://cdn.fs.teachablecdn.com/E5ukMhR5RpCDMOceZnUq"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Using the CSS Grid",
+    "videos": [
+      {
+        "name": "Module Introduction (1:14)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913840",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/QiTQBVajSN28r4IOYiir"
+        ]
+      },
+      {
+        "name": "What is the CSS Grid? (1:27)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913875",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/fjKnQ327SKegVpkFwhbJ"
+        ]
+      },
+      {
+        "name": "Getting Started (2:22)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913859",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/vhglBmORXiZwrYnVS1iP"
+        ]
+      },
+      {
+        "name": "Turning a Container into a Grid (3:21)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913849",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ZSyPY7DNQzOWQcnrUIkq"
+        ]
+      },
+      {
+        "name": "Defining Columns & Rows (5:49)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913841",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4XACXjPaTkGb9nreIvN5"
+        ]
+      },
+      {
+        "name": "Positioning Child Elements in a Grid (4:13)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913846",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/pj6ZUAzRUGVjlfR5QTZd"
+        ]
+      },
+      {
+        "name": "Using 'element-sizing', 'repeat' & 'minmax' (6:45)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913882",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/H2hQgxYQSHapF38tBstk"
+        ]
+      },
+      {
+        "name": "Advanced Element Positioning (6:30)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913843",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/vJP4wu8oSiS84LWL81p7"
+        ]
+      },
+      {
+        "name": "Working with Named Lines (3:53)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913881",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1FvoDpslRse5IGX6X7Dy"
+        ]
+      },
+      {
+        "name": "Assignment - Grid (Problem) (0:49)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913850",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/PQjxgT4LQH6Jhp728trx"
+        ]
+      },
+      {
+        "name": "Assignment - Grid (Solution) (9:14)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913852",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/nsQeMSQR6Omq7syDbhFf"
+        ]
+      },
+      {
+        "name": "Understanding Column & Row Shorthands (2:54)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913877",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/KKGSQLiQv2q7OqMOi8g7"
+        ]
+      },
+      {
+        "name": "Working with Gaps (2:33)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913845",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/eR5T2wdRv25pqPEaz5ni"
+        ]
+      },
+      {
+        "name": "Adding Named Template Areas (6:39)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913879",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/8aODCwJHQJapGDRTYEFQ"
+        ]
+      },
+      {
+        "name": "Assignment - Diving Deeper (Problem) (0:38)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913857",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/N7lviG1uSeKH9AzEnCqn"
+        ]
+      },
+      {
+        "name": "Assignment - Diving Deeper (Solution) (3:22)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913854",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Yg6pKahmQg2BsZgVKHlR"
+        ]
+      },
+      {
+        "name": "Creating Automatically Generated Grid Areas (7:10)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913837",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Sjio1BPeRnGoeFWAjFWM"
+        ]
+      },
+      {
+        "name": "Using the Grid on our Project (9:10)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913853",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/GZQ1WKlTjgsgBIJmbl1w"
+        ]
+      },
+      {
+        "name": "Working with 'fit-content' (3:31)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913839",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/g6jkm7qgTkKLbt53BJVu"
+        ]
+      },
+      {
+        "name": "Positioning Grid Elements (3:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913844",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zcxGm1fASs6Z6YH7jFkt"
+        ]
+      },
+      {
+        "name": "Positioning the Entire Grid Content (3:17)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913876",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/JxnNzmDJShebPaki8kdM"
+        ]
+      },
+      {
+        "name": "Positioning Elements Individually (1:34)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913838",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/SR2xmJGgSDSEX3LgR2zx"
+        ]
+      },
+      {
+        "name": "Understanding Responsive Grids (5:30)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913848",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5f2h2b3BQxeOLDUpxKeF"
+        ]
+      },
+      {
+        "name": "Applying Autoflow (6:39)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913880",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/srtY3LEkTXexAfux3PbL"
+        ]
+      },
+      {
+        "name": "Comparing the Explicit & Implicit Grid (2:31)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913847",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/f1x426Y0RpuM0d0dqQzZ"
+        ]
+      },
+      {
+        "name": "Understanding 'auto-fill' & 'auto-fit' (3:33)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913867",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Dz37vMztRXiHnd5d2JgK"
+        ]
+      },
+      {
+        "name": "Creating a Dense Grid (3:22)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913855",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/g9CcNmwSpy79oDXmMqS3"
+        ]
+      },
+      {
+        "name": "Styling the Project Form with Grid (9:45)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913842",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/KHiPWdlxSDaKCJLUeJVu"
+        ]
+      },
+      {
+        "name": "Comparing Grid & Flexbox (2:27)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913878",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/JhRsP6NR9m2B1ElSz3uA"
+        ]
+      },
+      {
+        "name": "Next Steps (1:31)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913858",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6xgtKlDpTTWOsfZnE8Pr"
+        ]
+      },
+      {
+        "name": "Wrap Up (3:49)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913856",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5qqNrtkTx2N8IrXJ0dPg"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456725",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/PcnslljQgiCjMQy30WQT",
+          "https://cdn.fs.teachablecdn.com/C6RNR7z1RPi9cexy15d0",
+          "https://cdn.fs.teachablecdn.com/6V7AUFMDQKu3MctQxanM",
+          "https://cdn.fs.teachablecdn.com/1uiIeT9LRlamATKrmKLO",
+          "https://cdn.fs.teachablecdn.com/e2v3ir9xTPWmScy5LOR5",
+          "https://cdn.fs.teachablecdn.com/WqkYmDIiQ0uDNKFnS65M",
+          "https://cdn.fs.teachablecdn.com/5KTvbzc0Spe9GhgKkyTz",
+          "https://cdn.fs.teachablecdn.com/jJhSyVtvQD2XAHWeWW6x",
+          "https://cdn.fs.teachablecdn.com/Hp3dE4iTR62ND0HCGZJq",
+          "https://cdn.fs.teachablecdn.com/Ic6RcnarRTiovySSxLN3",
+          "https://cdn.fs.teachablecdn.com/dqxjdOl9SguFzYdvhbqx",
+          "https://cdn.fs.teachablecdn.com/P6mkqgJfSPaWN8WsLI3s",
+          "https://cdn.fs.teachablecdn.com/6IpXJY2cQHaBe90sne2M",
+          "https://cdn.fs.teachablecdn.com/vxYYu5r8SSaVDUXQIDLL",
+          "https://cdn.fs.teachablecdn.com/2Mtz6ELVQ9uVJvjKDWzx",
+          "https://cdn.fs.teachablecdn.com/hm2B4tFkSUGoSab3sqtt"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Transforming Elements with CSS Transforms",
+    "videos": [
+      {
+        "name": "Module Introduction (0:31)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913890",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/lYx0RexT7Kyyd64cDSQg"
+        ]
+      },
+      {
+        "name": "Rotating Elements and setting transform-origin (3:45)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913895",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4tptteS5CMuIRvePtww1"
+        ]
+      },
+      {
+        "name": "Using Rotate and Translate (4:57)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913897",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/NZUAK3ydSqeMrn8mmlxw"
+        ]
+      },
+      {
+        "name": "Working with 'skew' and 'scale' (6:18)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913898",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/EagEQCXNQTygMwkf94bx"
+        ]
+      },
+      {
+        "name": "Applying Transformation Shorthands (2:23)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913891",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5skMcXzNTJy7cpThNRqb"
+        ]
+      },
+      {
+        "name": "Rotating Elements in 3 Dimensions (4:19)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913888",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/UYzSrQBqRakEJL7pKTGg"
+        ]
+      },
+      {
+        "name": "Understanding the 'perspective' Property (3:37)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913889",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/EKEdLUqWS2SWtl5QT5Tn"
+        ]
+      },
+      {
+        "name": "Moving Elements along the Z-Axis with 'translateZ' (3:54)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913892",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/rKGD5cq0SlizEcpD0RSN"
+        ]
+      },
+      {
+        "name": "Rotating the Container with 'transform style' (3:44)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913893",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5B9F6zMRR6qwnO2hZQmD"
+        ]
+      },
+      {
+        "name": "Flipping Elements & 'backface-visibility' (1:15)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913894",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/NyQuAZGFT8uV4lN2Bgcq"
+        ]
+      },
+      {
+        "name": "Wrap Up (1:14)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913896",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/s0ZGyirGRvaC5p4FywVs"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456726",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/u8VfQWy0T3KQc3cqwIV9",
+          "https://cdn.fs.teachablecdn.com/PJuh8QfuQKyvrXtrzZjA",
+          "https://cdn.fs.teachablecdn.com/WeLM85nVTNeuo8RpR1TJ",
+          "https://cdn.fs.teachablecdn.com/5T0rtaSWSnWMvGsNFyPg",
+          "https://cdn.fs.teachablecdn.com/aqnNSeSR2SvT9wfDN1lV",
+          "https://cdn.fs.teachablecdn.com/YnnRjQhCTuWNtD9sCdjV",
+          "https://cdn.fs.teachablecdn.com/64VoZszuTdqx1G7FyTBn",
+          "https://cdn.fs.teachablecdn.com/DfjwBxpSQraP2hJcS3eD"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Transitions & Animations in CSS",
+    "videos": [
+      {
+        "name": "Module Introduction (0:22)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913911",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/MscE6fTEeZ5JnryqusZQ"
+        ]
+      },
+      {
+        "name": "Understanding and Applying Transitions (7:23)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913920",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/fippQpPkQiq9sieMMN6d"
+        ]
+      },
+      {
+        "name": "CSS 'transition' Property Deep Dive",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14488207"
+      },
+      {
+        "name": "Working with Timing Functions (2:50)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913919",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/BswFqSsZT6avMm4JZXXZ"
+        ]
+      },
+      {
+        "name": "Transitions & 'display' (6:11)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913915",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/eSckBd9SQer6tsPLZAlJ"
+        ]
+      },
+      {
+        "name": "Assignment - CSS Transitions (Problem) (0:48)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913913",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/XNRRzsCNS5W6jUNB1a6N"
+        ]
+      },
+      {
+        "name": "Assignment - CSS Transitions (Solution) (2:12)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913916",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4FnapRCFQHifJ8vWStjH"
+        ]
+      },
+      {
+        "name": "Using CSS Animations (9:00)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913912",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ppiiCUk1TQyBfXzOSXUU"
+        ]
+      },
+      {
+        "name": "CSS 'animation' Property Deep Dive",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14488219"
+      },
+      {
+        "name": "Adding Multiple Keyframes (3:22)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913921",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/WU1OZrzfT5mukcD8t8fC"
+        ]
+      },
+      {
+        "name": "Adding Animations to our Customers Page (3:59)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913910",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1Hy6OVZ1Q6FHTPtxMy0a"
+        ]
+      },
+      {
+        "name": "Assignment - Animations (Problem) (0:33)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913917",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/rqLZLG6QU6KP2NpO9arw"
+        ]
+      },
+      {
+        "name": "Assignment - Animations (Solution) (3:03)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913909",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Sune3YTlSQOmdR56IKei"
+        ]
+      },
+      {
+        "name": "Using JavaScript Animation Event Listeners (3:24)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913918",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1ARg6d9TdCHic3CesvA2"
+        ]
+      },
+      {
+        "name": "Wrap Up (1:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913914",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/m5DGgZTKCwZngomrshrw"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456727",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uaBnYRmQEyFXia1vPJh3",
+          "https://cdn.fs.teachablecdn.com/sbQqjwlRRe9DPAzpPR5Q",
+          "https://cdn.fs.teachablecdn.com/EswgeWSoQYOvM8QZ9vGj",
+          "https://cdn.fs.teachablecdn.com/JA7c3Ut3TeS06fg8kWji",
+          "https://cdn.fs.teachablecdn.com/8U925xWZREKNHRI4HgIl",
+          "https://cdn.fs.teachablecdn.com/pPSpfO1kTZq6nVpI5Ho3",
+          "https://cdn.fs.teachablecdn.com/8CG39VINQ2u55d0AMTJT"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Writing Future-Proof CSS Code",
+    "videos": [
+      {
+        "name": "Module Introduction (0:34)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913950",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Uupost6eSnaCtxhQvyxF"
+        ]
+      },
+      {
+        "name": "CSS Modules & Their Working Groups (1:55)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913945",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5uInlTP5QeHdU83QqhYL"
+        ]
+      },
+      {
+        "name": "Using CSS Variables (7:31)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913949",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/GLg6cN1mRrRAso4IJtKD"
+        ]
+      },
+      {
+        "name": "Understanding & Using Vendor Prefixes (4:47)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913952",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/3HR7Vu4QQ3KDA74qDLVa"
+        ]
+      },
+      {
+        "name": "Which Prefixes Should You Use? (2:58)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913947",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bV1WBRSCSUGjjHZBfEc7"
+        ]
+      },
+      {
+        "name": "Detecting Browser Support with @supports (5:09)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913951",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/H7TDIkIKSjORIJacLJNP"
+        ]
+      },
+      {
+        "name": "Polyfills (2:45)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913953",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/USiwE40vS12CMhjbBjyB"
+        ]
+      },
+      {
+        "name": "Eliminating Cross-Browser Inconsistencies (2:58)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913944",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/BVSeoqIUSyaKGdFFptUw"
+        ]
+      },
+      {
+        "name": "How to Name CSS Classes (4:52)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913948",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/JHnXh2fhQ3CWS0zuHEbH"
+        ]
+      },
+      {
+        "name": "Vanilla CSS vs Frameworks (8:36)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913943",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/KgHnjsWQpJCaZ5HKsPAY"
+        ]
+      },
+      {
+        "name": "Wrap Up (4:16)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913946",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/WjlP0L2lTAKJkYxWsBqg"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456728",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/mRPQVmsbT3WQJmdksLQM",
+          "https://cdn.fs.teachablecdn.com/JDvM9eNWQgqFPXs7Vkw9",
+          "https://cdn.fs.teachablecdn.com/ue6yQEHS0azmDfUER380"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Introducing Sass (Syntactically Awesome Style Sheets)",
+    "videos": [
+      {
+        "name": "Module Introduction (0:42)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913982",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6bb3Mf1FRhKQEqYW4TEB"
+        ]
+      },
+      {
+        "name": "What is Sass & Scss? (3:30)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913977",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/mXXokiISE68EpcYs9Qnr"
+        ]
+      },
+      {
+        "name": "Installing Sass (4:25)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913969",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uy5LHVUQ6qWkSsI9YbJe"
+        ]
+      },
+      {
+        "name": "Things to be Improved with Sass (1:33)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913972",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/BoaaNPqZQDQ9vpdfzd1w"
+        ]
+      },
+      {
+        "name": "Nesting Selectors (6:35)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913975",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/tjy50PjQM4jAXQTN5CwG"
+        ]
+      },
+      {
+        "name": "Adding Nested Properties (1:27)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913973",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2pOMG0uiS5GYcUzAKFkg"
+        ]
+      },
+      {
+        "name": "Understanding Variables (3:05)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913967",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/D2yleeAjT16roXn9TIod"
+        ]
+      },
+      {
+        "name": "Storing Lists & Maps in Variables (5:58)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913983",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/cipBtDwHRTehXJEOVIn6"
+        ]
+      },
+      {
+        "name": "Built-In Functions (3:18)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913971",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4twC0VshSydM9bzb33Tx"
+        ]
+      },
+      {
+        "name": "Assignment - Sass (Problem) (0:49)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913978",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1lgpSWCPQhqKFEEHfYgd"
+        ]
+      },
+      {
+        "name": "Assignment - Sass (Solution) (3:42)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913980",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ycHnzJv7Sp6atwl2BTwG"
+        ]
+      },
+      {
+        "name": "Adding Simple Arithmetics (2:24)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913966",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CPUJrjWlTRObt4jvaFxN"
+        ]
+      },
+      {
+        "name": "Adding Better Import and Partials (4:46)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913970",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/s3vToF2Qh6YY0bOBYbXQ"
+        ]
+      },
+      {
+        "name": "Improving Media Queries (2:24)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913981",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/nHFIOUKNTv6VMgcYz8Es"
+        ]
+      },
+      {
+        "name": "Understanding Inheritance (3:33)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913976",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Je9j6MpXTK21XsMuAtAo"
+        ]
+      },
+      {
+        "name": "Adding Mixins (6:45)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913979",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/3amKXYZFSz2D7i8WIwS0"
+        ]
+      },
+      {
+        "name": "Using the Ampersand Operator (2:57)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913968",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/IbiiiGOfQyOFTBQ4JNfZ"
+        ]
+      },
+      {
+        "name": "Wrap Up (1:13)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913974",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/a8bObtzqQjSZKOK8NJuf"
+        ]
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456729",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/859x89sQeOjrHAS2sOqc",
+          "https://cdn.fs.teachablecdn.com/GitYKOwrTty2WPpo1AxC",
+          "https://cdn.fs.teachablecdn.com/ZFI0XSK6SJGWLGBiKwLe",
+          "https://cdn.fs.teachablecdn.com/PcNLkfP6Q6o5UqT5ynpw",
+          "https://cdn.fs.teachablecdn.com/yzRoe7AwSrKjWBoruIPg"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Course Roundup",
+    "videos": [
+      {
+        "name": "Course Roundup (1:56)",
+        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913995",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Z3vJPd0FSsKF2143qDim"
+        ]
+      }
+    ]
+  }
+]

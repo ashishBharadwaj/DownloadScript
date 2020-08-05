@@ -1,0 +1,983 @@
+[
+  {
+    "sectionName": "Getting Started",
+    "videos": [
+      {
+        "name": "Welcome to the Course! (1:53)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15073275",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/jzXSFbnkRaOm1kCJKtBf"
+        ]
+      },
+      {
+        "name": "About this Course (5:14)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15073277",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/OPntpKukRF9FEy9SQAbQ"
+        ]
+      },
+      {
+        "name": "Course Requirements & Info (1:39)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15073278",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/oawWGoJnR4i2t0A8gVuD"
+        ]
+      },
+      {
+        "name": "How To Take This Course (2:05)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15073276",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/kMTTMQmQFenmhvhgJLPA"
+        ]
+      },
+      {
+        "name": "Join the Learning Community",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15275729"
+      }
+    ]
+  },
+  {
+    "sectionName": "Scopes & Hoisting",
+    "videos": [
+      {
+        "name": "Module Introduction (0:30)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662809",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/sAimSlpcS1GmzXgFkKoN"
+        ]
+      },
+      {
+        "name": "Getting Started (2:39)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662811",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/KqgibKjKReCwv1PfER6O",
+          "https://cdn.fs.teachablecdn.com/8tsuJ1TCTwy47ukuqjd7"
+        ]
+      },
+      {
+        "name": "Scope in Theory (2:31)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662812",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2ujlHe68QPuy6vYeZVMO"
+        ]
+      },
+      {
+        "name": "Introducing Global and Local (Function) Scope (4:07)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662813",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/mHebGSI9TPKSaxlXBazG"
+        ]
+      },
+      {
+        "name": "How Scope Works (6:47)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662819",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/t9xB9wSES72rCL06KMyZ"
+        ]
+      },
+      {
+        "name": "Getting to Know 'Block Scope' (7:56)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662822",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uJFa4GVeR3m5QlpQEYX8"
+        ]
+      },
+      {
+        "name": "Scope Overview (1:44)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662820",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/HNwXBeOBQiWCyRlodY8y"
+        ]
+      },
+      {
+        "name": "Special Cases (11:02)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662807",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/NTeuQDJ2T7q6GCM23RJq"
+        ]
+      },
+      {
+        "name": "The Global Object (7:11)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662821",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1uXSNJJZTdGjf9IAQtml"
+        ]
+      },
+      {
+        "name": "Scope Across Files (4:13)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662818",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/AoIfZppGR9aWcLDbn2gB"
+        ]
+      },
+      {
+        "name": "Modules & Scope (7:53)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662810",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/0Er0NmZjT7Oxxr2gAvTc"
+        ]
+      },
+      {
+        "name": "Variable Shadowing (3:54)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662806",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Rd7sJ8WqSmCKkSPuOoHh"
+        ]
+      },
+      {
+        "name": "Quiz: Scope",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14663091"
+      },
+      {
+        "name": "What is 'Hoisting'? (4:00)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662815",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/rRlkI7FQhq4IH1HqXp1S"
+        ]
+      },
+      {
+        "name": "Hoisting in Action (7:32)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662817",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/UJkR1Z8RqYYPieMqVfog",
+          "https://cdn.fs.teachablecdn.com/aLrLG01uRzWxcUAQE9BA"
+        ]
+      },
+      {
+        "name": "Hoisting Inside Of Functions (3:05)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662808",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5xkxbtsGQJi10phG4wlv"
+        ]
+      },
+      {
+        "name": "'let' & 'const' and Hoisting (5:57)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662814",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/UBN97eavSPqBrbdjj5Tj"
+        ]
+      },
+      {
+        "name": "Hoisting Precedence (3:12)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662816",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/cccHOkaQ0GO6w6WMt2Bv"
+        ]
+      },
+      {
+        "name": "Quiz: Hoisting",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14663085"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14663087",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/hnOEiH7Qrur43gVDeNuk",
+          "https://cdn.fs.teachablecdn.com/62bMPBsJS4OBVxo9ur4O",
+          "https://cdn.fs.teachablecdn.com/7KNNX2SUTxm1DAv8JePm"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Direct vs Indirect Function Execution (Callbacks & Events)",
+    "videos": [
+      {
+        "name": "Module Introduction (0:34)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662886",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/AAEycJOxSxGl2ZokPQFr"
+        ]
+      },
+      {
+        "name": "Direct vs Indirect Function Execution (2:38)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662889",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/N5WbZs8pRA6VCxQU773R"
+        ]
+      },
+      {
+        "name": "Direct Execution in Action (3:30)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662891",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/3yQhIAZRIeCJwcvmIhE5",
+          "https://cdn.fs.teachablecdn.com/QBwLtFfRgGYofX6ClUct"
+        ]
+      },
+      {
+        "name": "Indirect Execution in Action (4:53)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662892",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CZG5OilQTGmdLj8ECU9I"
+        ]
+      },
+      {
+        "name": "Indirect Execution With Anonymous Functions (2:24)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662888",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zzR2tZY5R2K8SyZVY8b1"
+        ]
+      },
+      {
+        "name": "Indirect Execution and Passing Arguments (7:49)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662890",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4PUdX30ER3iCl5UxCfB2"
+        ]
+      },
+      {
+        "name": "Quiz: Direct vs Indirect Function Execution",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14663080"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14663081",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2JnrJ6VeSCODIR4X3yZd",
+          "https://cdn.fs.teachablecdn.com/mz2xPl6tS7K4cMTLdhwl",
+          "https://cdn.fs.teachablecdn.com/We3neCJVTZeHOrOAeQWR"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Loops",
+    "videos": [
+      {
+        "name": "Module Introduction (0:21)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662940",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Jta7zua8S1OEqjmDdygn"
+        ]
+      },
+      {
+        "name": "Loops Overview (3:23)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662942",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/kKoCLRiKQQSudrJNpLNL"
+        ]
+      },
+      {
+        "name": "The 'for' Loop (6:09)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662939",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/kvxZfn75QqOBb7baIYBP",
+          "https://cdn.fs.teachablecdn.com/PilXjd4nTfqwSu2zr75k"
+        ]
+      },
+      {
+        "name": "The 'for' Loop with 'let' (2:46)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662945",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/yCHRMNfT6aoPCQAm71sw"
+        ]
+      },
+      {
+        "name": "The 'for ... in ...' Loop (7:04)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662941",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FBxEZ5nIRrqDM05UkivC"
+        ]
+      },
+      {
+        "name": "The 'for ... of ...' Loop (5:09)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662943",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/owzHf14XSYnSsRciYJmT"
+        ]
+      },
+      {
+        "name": "Using forEach() (4:04)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662944",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CIUYRxbRZucvNx5L52Xw"
+        ]
+      },
+      {
+        "name": "Quiz: Loops",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14663069"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14663071",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Ec97tjL3S4a8BiCIyL0g",
+          "https://cdn.fs.teachablecdn.com/0BZT67v4TimS6Rnx2gib"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Primitive vs Reference Values",
+    "videos": [
+      {
+        "name": "Module Introduction (0:39)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662963",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/rcYHzgEySOawMoe4g4qn"
+        ]
+      },
+      {
+        "name": "What are 'Primitive' and 'Reference Values'? (7:03)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662956",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/HQi1EoXRpiDr3qIy8kfQ"
+        ]
+      },
+      {
+        "name": "Primitive Values in Action (6:27)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662961",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/R7cnYBBdTuqEHeUAKNvh",
+          "https://cdn.fs.teachablecdn.com/jVyCj03XThinwLQwMi2g"
+        ]
+      },
+      {
+        "name": "Reference Values in Action (3:00)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662959",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/X0UqhHYVRoSNRKJv8ue0"
+        ]
+      },
+      {
+        "name": "Behind the Scenes (2:32)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662958",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/GHQERO61Qbi0sMhJfP5I"
+        ]
+      },
+      {
+        "name": "Immutability vs Mutability (2:35)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662962",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ZgCGaHQMT4ireATVOVkH"
+        ]
+      },
+      {
+        "name": "Primitive Wrapper Objects (4:37)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662960",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/1zJeCED1TQefdLKBcGor"
+        ]
+      },
+      {
+        "name": "'const' & Mutation (5:32)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662954",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/7igM4kcwRhOQ2X7rAPbs"
+        ]
+      },
+      {
+        "name": "Reference Value Equality (6:06)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662957",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/erExXvrQkysNL7j6TD4B"
+        ]
+      },
+      {
+        "name": "Copying Reference Values (13:01)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14662955",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/LrIt0oP1Sq6c6BmyQTgE"
+        ]
+      },
+      {
+        "name": "Quiz: Primitive vs Reference Values",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14663060"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14663065",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/woiXKUO3QlaK673pTeBi",
+          "https://cdn.fs.teachablecdn.com/SKMXWetSwqdboepCIqAQ",
+          "https://cdn.fs.teachablecdn.com/JmdnAq7RsyzOirAcPsnm",
+          "https://cdn.fs.teachablecdn.com/Lsfm9C3ScKFgd2l7wSQF",
+          "https://cdn.fs.teachablecdn.com/VjgtvBX8T5i4qyX9qmdw",
+          "https://cdn.fs.teachablecdn.com/Hne9LKRQAWuHqr7c7r5q",
+          "https://cdn.fs.teachablecdn.com/SeKSv8ESmeHPTt54O406"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Types & Type Coercion",
+    "videos": [
+      {
+        "name": "Module Introduction (0:45)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356397",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/AtIZO10QTP6s5oYNnwDZ"
+        ]
+      },
+      {
+        "name": "What's Special About Types in JavaScript? (3:17)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356401",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/0wAkX1xMTZGJl1NCImTm"
+        ]
+      },
+      {
+        "name": "What is 'Coercion'? (5:48)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356387",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/XMLkHOWSuCs3pRkODR0l"
+        ]
+      },
+      {
+        "name": "How Operators Influence Types & Coercion (6:14)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356384",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/h4vr7FHSTuCJxTA2sDF9"
+        ]
+      },
+      {
+        "name": "Coercion Rules (9:38)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356386",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FgbkxhL8QqqUW8D89MFr"
+        ]
+      },
+      {
+        "name": "Arithmetic Operators & Basic Comparisons (7:29)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356399",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/0prYxlbRYWLT3yeLscMG"
+        ]
+      },
+      {
+        "name": "Comparison Operators for Booleans & Coercion (5:59)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356395",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/sBcv2iYMTuatZoWBbKFe"
+        ]
+      },
+      {
+        "name": "Truthy and Falsy Values (4:58)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356382",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/WbnH2JCMSGePyiGLS4L2"
+        ]
+      },
+      {
+        "name": "Boolean Return Values (4:45)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356383",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/jNucj9vASg2jzL9DmYGa"
+        ]
+      },
+      {
+        "name": "Explicit Boolean Coercion with the Double Bang Operator (3:46)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356392",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Twn2bAlxQFuF66kbBrAA"
+        ]
+      },
+      {
+        "name": "Semi-explicit Value Coercion (2:57)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356400",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/raRcTzeNQ6yNYP8D1DpB"
+        ]
+      },
+      {
+        "name": "The Special Case of 'null' (7:18)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356391",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/UTo298PuSM6tUbVqVQ9L"
+        ]
+      },
+      {
+        "name": "More on null, undefined and NaN (4:10)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356388",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/DujP48k4RdOj1X6mtIZz"
+        ]
+      },
+      {
+        "name": "Objects & Arrays - Coercion Theory (3:41)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356385",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Ipuuq1xdRQKlIGLKgyVs"
+        ]
+      },
+      {
+        "name": "Objects & Arrays - Coercion in Action (5:18)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356389",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/xR7Dl2mOTqqlsnkNseXe"
+        ]
+      },
+      {
+        "name": "Objects & Comparisons (6:12)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356396",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/crHhWJLGRP6ghtioAfHz"
+        ]
+      },
+      {
+        "name": "Explicit Object Coercion (4:08)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356390",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bZJSMx6pTSikJvLs9Jy0"
+        ]
+      },
+      {
+        "name": "Implicit Number Coercion for Objects (2:33)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356398",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FGRpjmN6Rci8GpMPKb5w"
+        ]
+      },
+      {
+        "name": "Wrap Up (1:47)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356393",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/dYfVVdMRQWsdFjPHz5eF"
+        ]
+      },
+      {
+        "name": "Quiz & Time to Practice (16:29)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356394",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/akDwFvAS2Y5lJ2PK196A",
+          "https://cdn.fs.teachablecdn.com/2IigWraTFGvub5P6VCfQ"
+        ]
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/15356457",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4da9kUyTSyiE4KO638KA",
+          "https://cdn.fs.teachablecdn.com/ZUnMs3FQIOLSTuuRnusk",
+          "https://cdn.fs.teachablecdn.com/BKuvc1sR3a2YoRcET9F2",
+          "https://cdn.fs.teachablecdn.com/UeweTd16SgO0tx2ikw1p",
+          "https://cdn.fs.teachablecdn.com/K32ZdV5RGywJVu5GhOvS"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Recursion",
+    "videos": [
+      {
+        "name": "Module Introduction (0:47)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771703",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/RqW27aTTTAqTEopXKYHm"
+        ]
+      },
+      {
+        "name": "What is 'Recursion'? (8:36)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771704",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/U8blQTqPRKmGyUa5uZZ4",
+          "https://cdn.fs.teachablecdn.com/xc0Jse4PQYKqQhVLxj47"
+        ]
+      },
+      {
+        "name": "A Look Under The Hood (11:45)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771705",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/0AgVpIOrRNi7q3l3VcIi"
+        ]
+      },
+      {
+        "name": "Analyzing Recursion with the Browser DevTools (7:28)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771702",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/jBrBvwJQiO6kMCQhpD83"
+        ]
+      },
+      {
+        "name": "Where Recursion Shines (20:52)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771706",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/0DzT8ysORdCbKIKR8INk"
+        ]
+      },
+      {
+        "name": "Quiz: Recursion",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14776479"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14776483",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/7s6CQibTBuRGlT4nQh2Z",
+          "https://cdn.fs.teachablecdn.com/An3DtlUuRJizUbZx12FB",
+          "https://cdn.fs.teachablecdn.com/OBg4kwwbRxyydGwiN5sV"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Closures",
+    "videos": [
+      {
+        "name": "Module Introduction (0:47)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771764",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/JqU1Q1aTzZbXo8mjfVrg"
+        ]
+      },
+      {
+        "name": "Closures in Theory (4:15)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771768",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/GtBhA6R2Nh5G2ECZs1gI",
+          "https://cdn.fs.teachablecdn.com/rVWwx5hSBSFv34X3e58Q"
+        ]
+      },
+      {
+        "name": "Closures in Practice (2:27)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771763",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2TjizFtCSSqmLy5DszTU"
+        ]
+      },
+      {
+        "name": "Multiple Environments & Closures (3:22)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771767",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/sTc0C62ES1Ch87sIPXGl"
+        ]
+      },
+      {
+        "name": "How Closures Actually Work (5:39)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771765",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/tdWNUUA9QKyqtbxRd6DQ"
+        ]
+      },
+      {
+        "name": "A Special Case (9:37)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14771766",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/qNzQ4pUJTWEzJVxaqOUg"
+        ]
+      },
+      {
+        "name": "Quiz: Closures",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14776486"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14776487",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/hZFuexAdRTSdLOev0xbZ",
+          "https://cdn.fs.teachablecdn.com/DHfiYXi9QeiT62jvebfq",
+          "https://cdn.fs.teachablecdn.com/iqrNq65SKaa9J6JdBdzw",
+          "https://cdn.fs.teachablecdn.com/GYRk7d5R8yhGNyywgURQ",
+          "https://cdn.fs.teachablecdn.com/l4EPwLM8Td2UlqINC8rK",
+          "https://cdn.fs.teachablecdn.com/sLbFU041TOupOzlP2hEt"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Asynchronous Code",
+    "videos": [
+      {
+        "name": "Module Introduction (0:38)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873820",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bLXiHSq5Tc6pgPwnQgRk"
+        ]
+      },
+      {
+        "name": "What is 'Async Code'? (5:24)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873826",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/yDwhLVjSlOLeDKBevjDg"
+        ]
+      },
+      {
+        "name": "JavaScript is Single-Threaded! (4:17)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873824",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/R7l7mQYRIiCSIl1QZX9Z"
+        ]
+      },
+      {
+        "name": "Callbacks (8:05)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873825",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uojV7En0TFqx7wbSDua6",
+          "https://cdn.fs.teachablecdn.com/wRknxCOrSa25lYoAG2wR"
+        ]
+      },
+      {
+        "name": "Another Callback Example (2:50)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873822",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/5fJonsc5Sbq0MNAE5RI7"
+        ]
+      },
+      {
+        "name": "Promises (5:35)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873830",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ZcHIdGOUSN28d5IYNIyn"
+        ]
+      },
+      {
+        "name": "Promises in Action (11:14)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873821",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/bWNx09QzRiqSu54rJvmq"
+        ]
+      },
+      {
+        "name": "Behind the Scenes of Promises (8:04)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873818",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/RG0fPgTOSVYG2MOJe0Sd"
+        ]
+      },
+      {
+        "name": "Working with 'then()' (5:06)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873829",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/y885eJOYTyaXTNRgezbq"
+        ]
+      },
+      {
+        "name": "Promisifying APIs (3:24)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873823",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/NI03QoHJQVaQRMyYZmua"
+        ]
+      },
+      {
+        "name": "Handling Errors (10:16)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873831",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/2AyttYTJRSxWxHoZACsu"
+        ]
+      },
+      {
+        "name": "Using 'catch()' (2:59)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873819",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/tWxJAZqPTCbJBQFTJRzJ"
+        ]
+      },
+      {
+        "name": "Rejecting Promises - Behind the Scenes (3:19)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873827",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4lZST7OESLyPTiuMtqba"
+        ]
+      },
+      {
+        "name": "Using async/ await (8:20)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873828",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/EIiOQztmTDO3kSoicX1b"
+        ]
+      },
+      {
+        "name": "Quiz: Async Code",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14776493"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14776494",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/883qqnL4SICdP1m5DX1Z",
+          "https://cdn.fs.teachablecdn.com/SLh6g1UJQ7qqKoJ4JsIF",
+          "https://cdn.fs.teachablecdn.com/9BMi1BYNRTSBnf5JvWM4",
+          "https://cdn.fs.teachablecdn.com/RzTI4dHjS2aNLMRY8UPy",
+          "https://cdn.fs.teachablecdn.com/02xDn9XTuewjAJyMW9PK",
+          "https://cdn.fs.teachablecdn.com/IVjv37U3QgufMm1bh6W7",
+          "https://cdn.fs.teachablecdn.com/s93imBkRTJG0gUyiyKk5",
+          "https://cdn.fs.teachablecdn.com/VnaDidHOQO6gbEBjUg7e",
+          "https://cdn.fs.teachablecdn.com/8fb32pMOTDaTviV9Kwwf",
+          "https://cdn.fs.teachablecdn.com/sa7kk5kKQkKlJzkfmtmr",
+          "https://cdn.fs.teachablecdn.com/HQ4wuD05RRGg1U9upUkz"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "The 'this' Keyword",
+    "videos": [
+      {
+        "name": "Module Introduction (0:43)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873923",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/8D9aKumCSOCHKiWKsODV"
+        ]
+      },
+      {
+        "name": "What is 'this' about? (6:14)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873924",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/AdTwskJRSCQY7nkcTBiA"
+        ]
+      },
+      {
+        "name": "'this' in Action (3:27)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873925",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CCxxqPCeQvu8xYT44owm",
+          "https://cdn.fs.teachablecdn.com/U0bjMG9lQUOrAEU3UBrd"
+        ]
+      },
+      {
+        "name": "How 'this' works (4:16)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873922",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/89AuHnQHSDyLd7SYXS6w"
+        ]
+      },
+      {
+        "name": "Special & Tricky Cases (10:02)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873926",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/vDQyki2sSJ69RLazbVMw"
+        ]
+      },
+      {
+        "name": "'Fixing' 'this': Helper Variables & bind() (5:48)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873920",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/odyJJXQTBuGGbg1Yt9XZ"
+        ]
+      },
+      {
+        "name": "Working with Arrow Functions (4:22)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873921",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/YZPLuotQiyeWtmgeDmPT"
+        ]
+      },
+      {
+        "name": "Quiz: 'this'",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873988"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14873991",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/LAMlgG03SYOnaAbh6qYC",
+          "https://cdn.fs.teachablecdn.com/mMD0DVdYSAawT5NGXW2u",
+          "https://cdn.fs.teachablecdn.com/KcGFWkgKQIyJV6dHNEAb",
+          "https://cdn.fs.teachablecdn.com/9412q3gBTyqEadFN2OQ6",
+          "https://cdn.fs.teachablecdn.com/MuaNSo6OQlGAApyjkltr",
+          "https://cdn.fs.teachablecdn.com/6Pf5gmiT9aOv2kLjbHVw"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Prototypes & Inheritance",
+    "videos": [
+      {
+        "name": "Module Introduction (0:41)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968152",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/7p0jI8EqQVOuU3kPbl7y"
+        ]
+      },
+      {
+        "name": "JavaScript Objects - Refresher (incl. Constructor Functions) (11:19)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968151",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/UVXcaUrxSDGeeWH1Qin5"
+        ]
+      },
+      {
+        "name": "What are 'Prototypes' in JavaScript? (9:43)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968154",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/TGADhV9mSKarPJNEuUuS"
+        ]
+      },
+      {
+        "name": "Understanding Prototypes (5:49)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968155",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/AM4zroPQaG18sUwiMhQG",
+          "https://cdn.fs.teachablecdn.com/bF3Hp1fSNKH4AH4rnKBM"
+        ]
+      },
+      {
+        "name": "The Prototype Chain (3:15)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968153",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Y8324hqLSWOH2nMjZVSG"
+        ]
+      },
+      {
+        "name": "Setting & Changing Prototypes (3:46)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968150",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/3pnNKLaoQzqeSCTX3gv7"
+        ]
+      },
+      {
+        "name": "Pre-defining the Prototype on Constructor Functions (6:02)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968157",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/nAUwckx2TVOjZEDTh2YI"
+        ]
+      },
+      {
+        "name": "Changing Prototypes (Patching) (6:37)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968147",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/s9D9T3oQgV21q25gx8Tg"
+        ]
+      },
+      {
+        "name": "The Default Prototype and 'Monkey Patching' (4:18)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968149",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/Cq3ojSmYQR6SfTu1FAnJ"
+        ]
+      },
+      {
+        "name": "Prototypes & 'this' (2:51)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968156",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/OfmujXbHRsuu7UdUjEUX"
+        ]
+      },
+      {
+        "name": "Protoypes, Classes & Methods (9:32)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968148",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/RFPvBlOS6OWWT2DZHQVg"
+        ]
+      },
+      {
+        "name": "Prototypes and the 'constructor' Property (Method) (2:24)",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968158",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/w1jVpZn9QwCdmPJkNyff"
+        ]
+      },
+      {
+        "name": "Quiz: Prototypes",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968620"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/javascript-the-tricky-parts/lectures/14968621",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/MzfritCQ2CeQUFBSFBFW",
+          "https://cdn.fs.teachablecdn.com/FqwHQw1GSXSh1FZubRal",
+          "https://cdn.fs.teachablecdn.com/Hyif1UbMR0ectIdgIhZB",
+          "https://cdn.fs.teachablecdn.com/OlifcWcvQ4G3AhFZ04gU",
+          "https://cdn.fs.teachablecdn.com/kQQopwEJQ6WAFiFdG9vt",
+          "https://cdn.fs.teachablecdn.com/rkt4Jz6cSpOzBPGSbNc0",
+          "https://cdn.fs.teachablecdn.com/OmezHISUQbe1GJNcqUWB",
+          "https://cdn.fs.teachablecdn.com/2nAwE2TjuLAypTAgVuKg",
+          "https://cdn.fs.teachablecdn.com/mKZx2YQSRyVe0SSNGSJY"
+        ]
+      }
+    ]
+  }
+]

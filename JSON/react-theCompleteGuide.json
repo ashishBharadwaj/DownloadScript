@@ -1,0 +1,2108 @@
+[
+  {
+    "sectionName": "Getting Started",
+    "videos": [
+      {
+        "name": "Introduction (1:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928167"
+      },
+      {
+        "name": "What is React? (2:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928161"
+      },
+      {
+        "name": "Real-World SPAs & React Web Apps (1:44)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928168"
+      },
+      {
+        "name": "Writing our First React Code (15:07)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928169"
+      },
+      {
+        "name": "Join our Online Learning Community",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/14153298"
+      },
+      {
+        "name": "Why Should we Choose React? (2:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928163"
+      },
+      {
+        "name": "React Alternatives (1:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928165"
+      },
+      {
+        "name": "Understanding Single Page Applications and Multi Page Applications (3:38)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928162"
+      },
+      {
+        "name": "Course Outline (7:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928164"
+      },
+      {
+        "name": "How to get the Most out of This Course (2:29)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928166"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930928"
+      }
+    ]
+  },
+  {
+    "sectionName": "Refreshing Next Generation JavaScript (Optional)",
+    "videos": [
+      {
+        "name": "Module Introduction (1:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928427"
+      },
+      {
+        "name": "Understanding 'let' and 'const' (3:05)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928423"
+      },
+      {
+        "name": "Arrow Functions (5:27)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928421"
+      },
+      {
+        "name": "Exports and Imports (4:43)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928417"
+      },
+      {
+        "name": "Understanding Classes (4:37)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928425"
+      },
+      {
+        "name": "Classes, Properties and Methods (3:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928426"
+      },
+      {
+        "name": "The Spread & Rest Operator (6:30)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928424"
+      },
+      {
+        "name": "Destructuring (3:13)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928418"
+      },
+      {
+        "name": "Reference and Primitive Types Refresher (4:26)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928420"
+      },
+      {
+        "name": "Refreshing Array Functions (2:45)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928419"
+      },
+      {
+        "name": "Wrap Up (0:52)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928422"
+      },
+      {
+        "name": "Next-gen JavaScript Summary",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930945"
+      },
+      {
+        "name": "JavaScript Array Functions",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930984"
+      }
+    ]
+  },
+  {
+    "sectionName": "Understanding the Base Features & Syntax",
+    "videos": [
+      {
+        "name": "Module Introduction (0:38)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928466"
+      },
+      {
+        "name": "The Build Workflow (8:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928465"
+      },
+      {
+        "name": "Using Create React App (6:09)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928474"
+      },
+      {
+        "name": "Understanding the Folder Structure (8:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928481"
+      },
+      {
+        "name": "Understanding Component Basics (5:32)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928471"
+      },
+      {
+        "name": "Understanding JSX (5:38)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928462"
+      },
+      {
+        "name": "JSX Restrictions (3:09)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928469"
+      },
+      {
+        "name": "Creating a Functional Component (8:09)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928480"
+      },
+      {
+        "name": "Working with Components & Re-Using Them (1:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928463"
+      },
+      {
+        "name": "Outputting Dynamic Content (3:02)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928464"
+      },
+      {
+        "name": "Working with Props (4:07)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928470"
+      },
+      {
+        "name": "Understanding the 'children' Prop (2:56)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928472"
+      },
+      {
+        "name": "Understanding & Using State (7:17)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928507"
+      },
+      {
+        "name": "Props & State",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13931021"
+      },
+      {
+        "name": "Handling Events with Methods (3:45)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928477"
+      },
+      {
+        "name": "Manipulating the State (5:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928506"
+      },
+      {
+        "name": "Using the useState() Hook for State Manipulation (13:51)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928505"
+      },
+      {
+        "name": "Stateless vs Stateful Components (3:08)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928508"
+      },
+      {
+        "name": "Passing Method References Between Components (7:05)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928467"
+      },
+      {
+        "name": "Adding Two Way Binding (6:51)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928482"
+      },
+      {
+        "name": "Adding Styling with Stylesheets (5:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928461"
+      },
+      {
+        "name": "Working with Inline Styles (4:15)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928479"
+      },
+      {
+        "name": "Assignment: Basics (Problem) (4:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928468"
+      },
+      {
+        "name": "Assignment: Basics (Solution) (22:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928478"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13931161"
+      }
+    ]
+  },
+  {
+    "sectionName": "Working with Lists and Conditionals",
+    "videos": [
+      {
+        "name": "Module Introduction (1:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928529"
+      },
+      {
+        "name": "Rendering Content Conditionally (10:09)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928536"
+      },
+      {
+        "name": "Handling Dynamic Content 'The JavaScript Way' (4:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928531"
+      },
+      {
+        "name": "Outputting Lists (Intro) (1:31)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928540"
+      },
+      {
+        "name": "Outputting Lists (5:32)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928537"
+      },
+      {
+        "name": "Lists & State (4:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928532"
+      },
+      {
+        "name": "Updating State Immutably (2:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928538"
+      },
+      {
+        "name": "Lists & Keys (4:14)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928534"
+      },
+      {
+        "name": "Flexible Lists (7:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928539"
+      },
+      {
+        "name": "Wrap Up (1:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928530"
+      },
+      {
+        "name": "Assignment: Conditional Content & Lists (Problem) (5:25)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928533"
+      },
+      {
+        "name": "Assignment: Conditional Content & Lists (Solution) (17:16)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928535"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13931469"
+      }
+    ]
+  },
+  {
+    "sectionName": "Styling React Components & Elements",
+    "videos": [
+      {
+        "name": "Module Introduction (1:19)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928589"
+      },
+      {
+        "name": "Outlining the Problem Set (1:58)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928585"
+      },
+      {
+        "name": "Setting Styles Dynamically (3:19)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928586"
+      },
+      {
+        "name": "Setting Class Names Dynamically (7:09)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928588"
+      },
+      {
+        "name": "Adding and Using Radium (7:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928591"
+      },
+      {
+        "name": "Using Radium for Media Queries (5:02)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928590"
+      },
+      {
+        "name": "Introducing Styled Components (8:16)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928592"
+      },
+      {
+        "name": "More on Styled Components (5:51)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928595"
+      },
+      {
+        "name": "Styled Components & Dynamic Styles (5:27)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928593"
+      },
+      {
+        "name": "Working with CSS Modules (15:21)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928587"
+      },
+      {
+        "name": "CSS Modules & Media Queries (3:15)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928594"
+      },
+      {
+        "name": "More on CSS Modules",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13931639"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13931662"
+      }
+    ]
+  },
+  {
+    "sectionName": "Debugging React Apps",
+    "videos": [
+      {
+        "name": "Module Introduction (0:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928605"
+      },
+      {
+        "name": "Understanding Error Messages (2:37)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928606"
+      },
+      {
+        "name": "Finding Logical Errors by using Dev Tools & Sourcemaps (4:17)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928601"
+      },
+      {
+        "name": "Working with the React Developer Tools (3:06)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928603"
+      },
+      {
+        "name": "Using Error Boundaries (React 16+) (8:13)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928604"
+      },
+      {
+        "name": "Wrap Up (0:56)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928602"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13931716"
+      }
+    ]
+  },
+  {
+    "sectionName": "Diving Deeper into Components & React Internals",
+    "videos": [
+      {
+        "name": "Module Introduction (0:42)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928672"
+      },
+      {
+        "name": "A Better Project Structure (7:24)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928673"
+      },
+      {
+        "name": "Splitting an App Into Components (15:54)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928631"
+      },
+      {
+        "name": "Comparing Stateless and Stateful Components (3:46)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928651"
+      },
+      {
+        "name": "Class-based vs Functional Components (5:15)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928648"
+      },
+      {
+        "name": "class Component Lifecycle Overview (5:04)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928649"
+      },
+      {
+        "name": "Component Creation Lifecycle in Action (6:46)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928632"
+      },
+      {
+        "name": "Component Update Lifecycle (for props Changes) (15:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928626"
+      },
+      {
+        "name": "Component Update Lifecycle (for state Changes) (3:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928633"
+      },
+      {
+        "name": "Using useEffect() in Functional Components (3:46)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928644"
+      },
+      {
+        "name": "Controlling the useEffect() Behavior (3:40)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928641"
+      },
+      {
+        "name": "Cleaning up with Lifecycle Hooks & useEffect() (6:48)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928645"
+      },
+      {
+        "name": "Cleanup Work with useEffect() - Example (1:37)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928652"
+      },
+      {
+        "name": "Using shouldComponentUpdate for Optimization (6:45)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928637"
+      },
+      {
+        "name": "Optimizing Functional Components with React.memo() (3:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928650"
+      },
+      {
+        "name": "When should you optimize? (2:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928642"
+      },
+      {
+        "name": "PureComponents instead of shouldComponentUpdate (3:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928643"
+      },
+      {
+        "name": "How React Updates the DOM (4:27)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928627"
+      },
+      {
+        "name": "Rendering Adjacent JSX Elements (9:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928636"
+      },
+      {
+        "name": "Using React.Fragment (1:29)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928628"
+      },
+      {
+        "name": "Higher Order Components (HOC) - Introduction (4:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928653"
+      },
+      {
+        "name": "Another Form of HOCs (5:56)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928646"
+      },
+      {
+        "name": "Passing Unknown Props (4:58)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928647"
+      },
+      {
+        "name": "Setting State Correctly (5:13)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928635"
+      },
+      {
+        "name": "Using PropTypes (6:53)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928640"
+      },
+      {
+        "name": "Using Refs (7:37)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928629"
+      },
+      {
+        "name": "Refs with React Hooks (4:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928654"
+      },
+      {
+        "name": "Understanding Prop Chain Problems (4:56)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928638"
+      },
+      {
+        "name": "Using the Context API (10:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928634"
+      },
+      {
+        "name": "contextType & useContext() (5:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928630"
+      },
+      {
+        "name": "Wrap Up (1:21)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928639"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933481"
+      }
+    ]
+  },
+  {
+    "sectionName": "A Real App- The Burger Builder (Basic Version)",
+    "videos": [
+      {
+        "name": "About React Hooks",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933585"
+      },
+      {
+        "name": "Module Introduction (0:57)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928737"
+      },
+      {
+        "name": "Planning an App in React - Core Steps (2:32)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928721"
+      },
+      {
+        "name": "Planning our App - Layout and Component Tree (10:57)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928751"
+      },
+      {
+        "name": "Planning the State (4:13)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928750"
+      },
+      {
+        "name": "Setting up the Project (5:01)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928744"
+      },
+      {
+        "name": "Creating a Layout Component (10:01)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928724"
+      },
+      {
+        "name": "Starting Implementation of The Burger Builder Container (5:04)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928745"
+      },
+      {
+        "name": "Adding a Dynamic Ingredient Component (8:27)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928748"
+      },
+      {
+        "name": "Adding Prop Type Validation (2:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928731"
+      },
+      {
+        "name": "Starting the Burger Component (6:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928756"
+      },
+      {
+        "name": "Outputting Burger Ingredients Dynamically (9:44)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928733"
+      },
+      {
+        "name": "Calculating the Ingredient Sum Dynamically (5:10)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928732"
+      },
+      {
+        "name": "Adding the Build Control Component (7:26)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928741"
+      },
+      {
+        "name": "Outputting Multiple Build Controls (4:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928728"
+      },
+      {
+        "name": "Connecting State to Build Controls (8:22)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928753"
+      },
+      {
+        "name": "Removing Ingredients Safely (7:30)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928726"
+      },
+      {
+        "name": "Displaying and Updating the Burger Price (2:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928757"
+      },
+      {
+        "name": "Adding the Order Button (10:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928730"
+      },
+      {
+        "name": "Creating the Order Summary Modal (13:58)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928723"
+      },
+      {
+        "name": "Showing & Hiding the Modal (with Animation!) (6:59)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928736"
+      },
+      {
+        "name": "Implementing the Backdrop Component (8:22)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928739"
+      },
+      {
+        "name": "Adding a Custom Button Component (4:46)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928758"
+      },
+      {
+        "name": "Implementing the Button Component (4:54)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928725"
+      },
+      {
+        "name": "Adding the Price to the Order Summary (2:05)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928722"
+      },
+      {
+        "name": "Adding a Toolbar (9:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928727"
+      },
+      {
+        "name": "Using a Logo in our Application (6:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928746"
+      },
+      {
+        "name": "Adding Reusable Navigation Items (11:26)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928720"
+      },
+      {
+        "name": "Creating a Responsive Sidedrawer (7:44)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928738"
+      },
+      {
+        "name": "Working on Responsive Adjustments (4:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928743"
+      },
+      {
+        "name": "More about Responsive Adjustments (7:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928734"
+      },
+      {
+        "name": "Reusing the Backdrop (9:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928759"
+      },
+      {
+        "name": "Adding a Sidedrawer Toggle Button (6:27)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928754"
+      },
+      {
+        "name": "Adding a Hamburger Icon (2:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928740"
+      },
+      {
+        "name": "Improving the App - Introduction (1:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928735"
+      },
+      {
+        "name": "Prop Type Validation (1:17)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928752"
+      },
+      {
+        "name": "Improving Performance (8:48)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928747"
+      },
+      {
+        "name": "Using Component Lifecycle Methods (2:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928742"
+      },
+      {
+        "name": "Changing the Folder Structure (4:57)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928755"
+      },
+      {
+        "name": "Wrap Up (1:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928749"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933638"
+      }
+    ]
+  },
+  {
+    "sectionName": "Reaching out to the Web (Http,Ajax)",
+    "videos": [
+      {
+        "name": "Module Introduction (1:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928847"
+      },
+      {
+        "name": "Understanding Http Requests in React (1:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928838"
+      },
+      {
+        "name": "Understanding our Project and Introducing Axios (4:15)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928842"
+      },
+      {
+        "name": "Creating a Http Request to GET Data (5:29)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928845"
+      },
+      {
+        "name": "Rendering Fetched Data to the Screen (3:46)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928853"
+      },
+      {
+        "name": "Transforming Data (2:40)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928849"
+      },
+      {
+        "name": "Making a Post Selectable (4:01)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928846"
+      },
+      {
+        "name": "Fetching Data on Update (without Creating Infinite Loops) (7:56)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928839"
+      },
+      {
+        "name": "POSTing Data to the Server (3:52)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928852"
+      },
+      {
+        "name": "Sending a DELETE Request (2:23)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928850"
+      },
+      {
+        "name": "Fixing a Bug (0:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928840"
+      },
+      {
+        "name": "Handling Errors Locally (3:23)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928844"
+      },
+      {
+        "name": "Adding Interceptors to Execute Code Globally (6:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928843"
+      },
+      {
+        "name": "Setting a Default Global Configuration for Axios (3:10)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928851"
+      },
+      {
+        "name": "Creating and Using Axios Instances (5:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928848"
+      },
+      {
+        "name": "Wrap Up (0:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928841"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933714"
+      }
+    ]
+  },
+  {
+    "sectionName": "Burger Builder Project- Accessing a Server",
+    "videos": [
+      {
+        "name": "Module Introduction (1:52)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928940"
+      },
+      {
+        "name": "Creating the Firebase Project (3:26)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928938"
+      },
+      {
+        "name": "Creating the Axios Instance (2:42)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928937"
+      },
+      {
+        "name": "Sending a POST Request (7:46)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928935"
+      },
+      {
+        "name": "Displaying a Spinner while Sending a Request (9:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928939"
+      },
+      {
+        "name": "Handling Errors (12:04)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928941"
+      },
+      {
+        "name": "Retrieving Data from the Backend (11:22)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928934"
+      },
+      {
+        "name": "Removing Old Interceptors (8:24)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13928936"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933769"
+      }
+    ]
+  },
+  {
+    "sectionName": "Multi-Page-Feeling in a Single-Page-App - Routing",
+    "videos": [
+      {
+        "name": "Module Introduction (0:51)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929034"
+      },
+      {
+        "name": "Routing and SPAs (2:43)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929027"
+      },
+      {
+        "name": "Setting Up Links (4:22)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929039"
+      },
+      {
+        "name": "Setting Up the Router Package (4:46)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929018"
+      },
+      {
+        "name": "Preparing the Project For Routing (5:13)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929033"
+      },
+      {
+        "name": "Setting Up and Rendering Routes (5:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929036"
+      },
+      {
+        "name": "Rendering Components for Routes (1:57)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929041"
+      },
+      {
+        "name": "Switching Between Pages (2:17)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929040"
+      },
+      {
+        "name": "Using Links to Switch Pages (4:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929030"
+      },
+      {
+        "name": "Using Routing-Related Props (3:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929045"
+      },
+      {
+        "name": "The 'withRouter' HOC & Route Props (3:44)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929043"
+      },
+      {
+        "name": "Absolute vs Relative Paths (2:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929037"
+      },
+      {
+        "name": "Styling the Active Route (5:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929024"
+      },
+      {
+        "name": "Passing Route Parameters (6:54)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929023"
+      },
+      {
+        "name": "Extracting Route Parameters (3:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929032"
+      },
+      {
+        "name": "Parsing Query Parameters & the Fragment",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933894"
+      },
+      {
+        "name": "Using Switch to Load a Single Route (3:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929029"
+      },
+      {
+        "name": "Navigating Programmatically (3:25)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929020"
+      },
+      {
+        "name": "Additional Information Regarding Active Links (2:22)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929047"
+      },
+      {
+        "name": "Understanding Nested Routes (7:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929025"
+      },
+      {
+        "name": "Creating Dynamic Nested Routes (4:38)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929017"
+      },
+      {
+        "name": "Redirecting Requests (2:45)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929031"
+      },
+      {
+        "name": "Conditional Redirects (2:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929046"
+      },
+      {
+        "name": "Using the History Prop to Redirect (Replace) (2:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929042"
+      },
+      {
+        "name": "Working with Guards (3:46)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929038"
+      },
+      {
+        "name": "Handling the 404 Case (Unknown Routes) (3:02)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929026"
+      },
+      {
+        "name": "Loading Routes Lazily (11:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929035"
+      },
+      {
+        "name": "Lazy Loading with React Suspense (16.6) (9:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929019"
+      },
+      {
+        "name": "Routing and Server Deployment (4:19)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929022"
+      },
+      {
+        "name": "Assignment: Routing (Problem) (4:53)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929021"
+      },
+      {
+        "name": "Assignment: Routing (Solution) (29:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929028"
+      },
+      {
+        "name": "Wrap Up (0:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929044"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933917"
+      }
+    ]
+  },
+  {
+    "sectionName": "Adding Routing to our Burger Project",
+    "videos": [
+      {
+        "name": "Module Introduction (1:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929082"
+      },
+      {
+        "name": "Building the Checkout Container (11:32)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929092"
+      },
+      {
+        "name": "Setting Up Routing & Routes (4:41)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929084"
+      },
+      {
+        "name": "Navigating to the Checkout Page (4:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929083"
+      },
+      {
+        "name": "Navigating Back & To Next Page (3:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929085"
+      },
+      {
+        "name": "Passing Ingredients via Query Params (5:27)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929090"
+      },
+      {
+        "name": "Navigating to the Contact Data Component (9:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929087"
+      },
+      {
+        "name": "Order Submission & Passing Data Between Pages (11:44)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929081"
+      },
+      {
+        "name": "Adding an Orders Page (5:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929093"
+      },
+      {
+        "name": "Implementing Navigation Links (5:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929088"
+      },
+      {
+        "name": "Fetching Orders (6:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929089"
+      },
+      {
+        "name": "Outputting the Orders (7:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929086"
+      },
+      {
+        "name": "Wrap Up (1:07)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929091"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933945"
+      }
+    ]
+  },
+  {
+    "sectionName": "Forms and Form Validation",
+    "videos": [
+      {
+        "name": "Module Introduction (0:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929198"
+      },
+      {
+        "name": "Analyzing the App (1:49)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929187"
+      },
+      {
+        "name": "Creating a Custom Dynamic Input Component (11:30)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929194"
+      },
+      {
+        "name": "Setting Up a JS Config for the Form (7:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929192"
+      },
+      {
+        "name": "Dynamically Create Inputs based on JS Config (5:23)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929195"
+      },
+      {
+        "name": "Adding a Dropdown Component (3:52)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929186"
+      },
+      {
+        "name": "Handling User Input (7:43)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929199"
+      },
+      {
+        "name": "Handling Form Submission (4:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929188"
+      },
+      {
+        "name": "Adding Custom Form Validation (8:09)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929191"
+      },
+      {
+        "name": "Fixing a Common Validation Gotcha (1:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929197"
+      },
+      {
+        "name": "Adding Validation Feedback (5:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929185"
+      },
+      {
+        "name": "Improving Visual Feedback (2:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929189"
+      },
+      {
+        "name": "Handling Overall Form Validity (7:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929196"
+      },
+      {
+        "name": "Working on an Error (1:26)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929193"
+      },
+      {
+        "name": "Fixing a Bug (2:09)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929190"
+      },
+      {
+        "name": "Showing Error Messages",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933963"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13933968"
+      }
+    ]
+  },
+  {
+    "sectionName": "Redux",
+    "videos": [
+      {
+        "name": "Module Introduction (1:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929263"
+      },
+      {
+        "name": "Understanding State (1:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929255"
+      },
+      {
+        "name": "The Complexity of Managing State (2:42)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929262"
+      },
+      {
+        "name": "Understanding the Redux Flow (5:17)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929247"
+      },
+      {
+        "name": "Setting Up Reducer and Store (7:09)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929249"
+      },
+      {
+        "name": "Dispatching Actions (6:44)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929259"
+      },
+      {
+        "name": "Adding Subscriptions (2:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929250"
+      },
+      {
+        "name": "Connecting React to Redux (3:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929261"
+      },
+      {
+        "name": "Connecting the Store to React (8:19)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929241"
+      },
+      {
+        "name": "Dispatching Actions from within the Component (5:53)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929242"
+      },
+      {
+        "name": "Assignment: Dispatching Actions (Problem) (1:41)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929245"
+      },
+      {
+        "name": "Assignment: Dispatching Actions (Solution) (4:15)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929258"
+      },
+      {
+        "name": "Passing and Retrieving Data with Action (4:06)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929244"
+      },
+      {
+        "name": "Switch-Case in the Reducer (3:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929246"
+      },
+      {
+        "name": "Updating State Immutably (13:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929260"
+      },
+      {
+        "name": "Updating Arrays Immutably (8:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929243"
+      },
+      {
+        "name": "Immutable Update Patterns",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13934573"
+      },
+      {
+        "name": "Outsourcing Action Types (5:19)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929252"
+      },
+      {
+        "name": "Combining Multiple Reducers (10:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929248"
+      },
+      {
+        "name": "Understanding State Types (4:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929253"
+      },
+      {
+        "name": "Assignment: Redux Basics (Problem) (1:45)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929256"
+      },
+      {
+        "name": "Assignment: Redux Basics (Solution) (14:23)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929257"
+      },
+      {
+        "name": "Combining Local UI State and Redux (7:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929254"
+      },
+      {
+        "name": "Wrap Up (1:42)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929251"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13934578"
+      }
+    ]
+  },
+  {
+    "sectionName": "Adding Redux to our Project",
+    "videos": [
+      {
+        "name": "Module Introduction (5:26)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929320"
+      },
+      {
+        "name": "Installing Redux and React Redux (4:08)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929314"
+      },
+      {
+        "name": "Basic Redux Setup (2:10)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929316"
+      },
+      {
+        "name": "Finishing the Reducer for Ingredients (6:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929321"
+      },
+      {
+        "name": "Connecting the Burger Builder Container to our Store (9:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929317"
+      },
+      {
+        "name": "Working on the Total Price Calculation (6:05)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929315"
+      },
+      {
+        "name": "Redux & UI State (4:08)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929322"
+      },
+      {
+        "name": "Adjusting Checkout and Contact Data (9:10)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929318"
+      },
+      {
+        "name": "Wrap Up (2:38)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929319"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13934605"
+      }
+    ]
+  },
+  {
+    "sectionName": "Redux Advanced",
+    "videos": [
+      {
+        "name": "Module Introduction (0:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929437"
+      },
+      {
+        "name": "Adding Middleware (7:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929430"
+      },
+      {
+        "name": "Using the Redux Devtools (7:32)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929436"
+      },
+      {
+        "name": "Executing Asynchronous Code - Introduction (1:52)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929426"
+      },
+      {
+        "name": "Introducing Action Creators (4:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929439"
+      },
+      {
+        "name": "Action Creators & Async Code (6:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929434"
+      },
+      {
+        "name": "Handling Asynchronous Code (8:13)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929433"
+      },
+      {
+        "name": "Restructuring Actions (6:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929431"
+      },
+      {
+        "name": "Where to Put Data Transforming Logic? (5:42)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929428"
+      },
+      {
+        "name": "Using Action Creators and Get State (3:27)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929432"
+      },
+      {
+        "name": "Using Utility Functions (7:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929438"
+      },
+      {
+        "name": "A Leaner Switch Case Statement (3:14)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929427"
+      },
+      {
+        "name": "An Alternative Folder Structure (2:22)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929429"
+      },
+      {
+        "name": "Diving Much Deeper (2:07)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929435"
+      },
+      {
+        "name": "Wrap Up (1:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929425"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13934640"
+      }
+    ]
+  },
+  {
+    "sectionName": "Redux Advanced- Burger Project",
+    "videos": [
+      {
+        "name": "Module Introduction (1:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929500"
+      },
+      {
+        "name": "Installing the Redux Devtools (2:56)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929508"
+      },
+      {
+        "name": "Preparing the Folder Structure (3:06)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929519"
+      },
+      {
+        "name": "Creating Action Creators (6:15)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929507"
+      },
+      {
+        "name": "Executing Asynchronous Code (4:05)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929506"
+      },
+      {
+        "name": "Fetching Ingredients Asynchronously (7:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929509"
+      },
+      {
+        "name": "Initializing Ingredients in the BurgerBuilder (5:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929518"
+      },
+      {
+        "name": "Changing the Order of our Ingredients Manually (2:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929517"
+      },
+      {
+        "name": "Adding Order Actions (6:40)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929511"
+      },
+      {
+        "name": "Connecting Contact Data Container & Actions (4:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929501"
+      },
+      {
+        "name": "The Order Reducer (5:30)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929505"
+      },
+      {
+        "name": "Working on Order Actions (4:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929512"
+      },
+      {
+        "name": "Redirect to Improve UX (3:08)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929513"
+      },
+      {
+        "name": "Combining Reducers (4:53)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929502"
+      },
+      {
+        "name": "Handling Purchases & Updating the UI (8:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929514"
+      },
+      {
+        "name": "Resetting the Price after Purchases (1:44)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929516"
+      },
+      {
+        "name": "Fetching Orders (via Redux) (13:45)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929503"
+      },
+      {
+        "name": "Checking our Implemented Functionalities (1:23)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929504"
+      },
+      {
+        "name": "Refactoring Reducers (8:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929520"
+      },
+      {
+        "name": "Refactoring Reducers Continued (7:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929510"
+      },
+      {
+        "name": "Wrap Up (0:57)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929515"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13934689"
+      }
+    ]
+  },
+  {
+    "sectionName": "Adding Authentication to our Burger Project",
+    "videos": [
+      {
+        "name": "Module Introduction (1:14)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929550"
+      },
+      {
+        "name": "Understanding Authentication in Single Page Applications (3:01)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929568"
+      },
+      {
+        "name": "Required App Adjustments (0:53)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929549"
+      },
+      {
+        "name": "Adding an Auth Form (13:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929548"
+      },
+      {
+        "name": "Adding Actions (6:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929564"
+      },
+      {
+        "name": "Getting a Token from the Backend (6:59)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929558"
+      },
+      {
+        "name": "Adding Sign-In (5:30)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929553"
+      },
+      {
+        "name": "Storing the Token (9:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929563"
+      },
+      {
+        "name": "Adding a Spinner (6:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929547"
+      },
+      {
+        "name": "Logging Users Out (6:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929556"
+      },
+      {
+        "name": "Accessing Protected Resources (11:17)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929557"
+      },
+      {
+        "name": "Updating the UI Depending on Auth State (7:32)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929560"
+      },
+      {
+        "name": "Adding a Logout Link (6:52)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929565"
+      },
+      {
+        "name": "Forwarding Unauthenticated Users (8:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929562"
+      },
+      {
+        "name": "Redirecting the User to the Checkout Page (13:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929567"
+      },
+      {
+        "name": "Persistent Auth State with localStorage (14:36)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929551"
+      },
+      {
+        "name": "Fixing Connect + Routing Errors (6:58)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929555"
+      },
+      {
+        "name": "Ensuring App Security (2:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929552"
+      },
+      {
+        "name": "Guarding Routes (5:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929554"
+      },
+      {
+        "name": "Displaying User Specific Orders (8:16)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929566"
+      },
+      {
+        "name": "Wrap Up (0:43)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929559"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13934809"
+      }
+    ]
+  },
+  {
+    "sectionName": "Improving our Burger Project",
+    "videos": [
+      {
+        "name": "Module Introduction (0:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929652"
+      },
+      {
+        "name": "Fixing the Redirect to the Frontpage (5:48)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929648"
+      },
+      {
+        "name": "Using updateObject in the Entire App (6:45)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929655"
+      },
+      {
+        "name": "Sharing the Validation Method (2:16)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929653"
+      },
+      {
+        "name": "Using Environment Variables (2:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929649"
+      },
+      {
+        "name": "Removing console.log()s (3:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929651"
+      },
+      {
+        "name": "Adding Lazy Loading (4:58)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929647"
+      },
+      {
+        "name": "Wrap Up (0:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929654"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13934838"
+      }
+    ]
+  },
+  {
+    "sectionName": "Testing",
+    "videos": [
+      {
+        "name": "Module Introduction (1:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929714"
+      },
+      {
+        "name": "What is Testing? (3:08)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929709"
+      },
+      {
+        "name": "Required Testing Tools (2:26)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929713"
+      },
+      {
+        "name": "What To Test? (2:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929708"
+      },
+      {
+        "name": "Writing our First Test (12:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929717"
+      },
+      {
+        "name": "Testing Components Continued (4:05)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929718"
+      },
+      {
+        "name": "Jest and Enzyme Documentations (6:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929715"
+      },
+      {
+        "name": "Testing Components Correctly (2:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929716"
+      },
+      {
+        "name": "Testing Containers (6:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929710"
+      },
+      {
+        "name": "How to Test Redux (5:09)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929711"
+      },
+      {
+        "name": "Wrap Up (1:27)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929712"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935131"
+      }
+    ]
+  },
+  {
+    "sectionName": "Deploying the App to the Web",
+    "videos": [
+      {
+        "name": "Module Introduction (0:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929734"
+      },
+      {
+        "name": "Deployment Steps (2:58)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929731"
+      },
+      {
+        "name": "Building the Project (2:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929735"
+      },
+      {
+        "name": "Example: Deploying on Firebase (4:06)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929732"
+      },
+      {
+        "name": "Wrap Up (0:42)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929733"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935149"
+      }
+    ]
+  },
+  {
+    "sectionName": "Bonus- Working with Webpack",
+    "videos": [
+      {
+        "name": "Module Introduction (1:24)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929982"
+      },
+      {
+        "name": "Introducing Webpack (1:14)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929986"
+      },
+      {
+        "name": "How Webpack works (2:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929996"
+      },
+      {
+        "name": "Basic Workflow Requirements (1:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929988"
+      },
+      {
+        "name": "Project & npm Setup (3:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929983"
+      },
+      {
+        "name": "Creating a Basic Folder & File Structure (3:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929993"
+      },
+      {
+        "name": "Creating the Basic React Application (10:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929991"
+      },
+      {
+        "name": "Installing Production Dependencies (1:10)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929990"
+      },
+      {
+        "name": "Setting Up the Basic Webpack Config (6:41)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929997"
+      },
+      {
+        "name": "Adding File Rules & Babel (7:07)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929995"
+      },
+      {
+        "name": "Loading CSS Files (5:01)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929994"
+      },
+      {
+        "name": "Loading Images & Injecting into HTML Page (5:36)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929989"
+      },
+      {
+        "name": "Production Workflow & Wrap Up (2:43)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13929998"
+      },
+      {
+        "name": "Adding babel-polyfill",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935214"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935220"
+      }
+    ]
+  },
+  {
+    "sectionName": "Bonus- A Brief Introduction to Redux Saga",
+    "videos": [
+      {
+        "name": "Module Introduction (1:29)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930438"
+      },
+      {
+        "name": "Installing Redux Saga (2:40)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930444"
+      },
+      {
+        "name": "Creating our First Saga (6:06)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930441"
+      },
+      {
+        "name": "Hooking the Saga Up (to the Store and Actions) (4:42)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930448"
+      },
+      {
+        "name": "Moving Logic from the Action Creator to a Saga (5:57)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930442"
+      },
+      {
+        "name": "Moving More Logic Into Sagas (10:02)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930447"
+      },
+      {
+        "name": "Handling Authentication with a Saga (11:07)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930439"
+      },
+      {
+        "name": "Handling Auto-Sign-In with a Saga (5:52)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930440"
+      },
+      {
+        "name": "Moving the BurgerBuilder Side Effects into a Saga (7:01)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930446"
+      },
+      {
+        "name": "Moving the Orders Side Effects into Sagas (12:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930445"
+      },
+      {
+        "name": "Why Sagas can be Helpful (1:17)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930443"
+      },
+      {
+        "name": "Diving Deeper into Sagas (6:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930449"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935622"
+      }
+    ]
+  },
+  {
+    "sectionName": "React Hooks",
+    "videos": [
+      {
+        "name": "Introduction (0:40)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930036"
+      },
+      {
+        "name": "What are 'React Hooks'? (7:08)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930035"
+      },
+      {
+        "name": "The Starting Project (4:57)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930029"
+      },
+      {
+        "name": "Getting Started with useState() (9:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930012"
+      },
+      {
+        "name": "More on useState() & State Updating (11:54)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930014"
+      },
+      {
+        "name": "Array Destructuring (2:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930010"
+      },
+      {
+        "name": "Multiple States (3:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930013"
+      },
+      {
+        "name": "Rules of Hooks (2:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930031"
+      },
+      {
+        "name": "Passing State Data Across Components (7:56)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930033"
+      },
+      {
+        "name": "Assignment: Hooks Basics (Problem) (1:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930021"
+      },
+      {
+        "name": "Assignment: Hooks Basics (Solution) (2:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930018"
+      },
+      {
+        "name": "Sending Http Requests (7:16)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930023"
+      },
+      {
+        "name": "useEffect() & Loading Data (8:06)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930026"
+      },
+      {
+        "name": "Understanding useEffect() Dependencies (2:21)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930016"
+      },
+      {
+        "name": "More on useEffect() (9:37)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930024"
+      },
+      {
+        "name": "What's useCallback()? (5:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930011"
+      },
+      {
+        "name": "Working with Refs & useRef() (5:21)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930022"
+      },
+      {
+        "name": "Cleaning Up with useEffect() (3:20)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930020"
+      },
+      {
+        "name": "Deleting Ingredients (2:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930027"
+      },
+      {
+        "name": "Loading Errors & State Batching (8:48)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930009"
+      },
+      {
+        "name": "Understanding useReducer() (9:43)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930017"
+      },
+      {
+        "name": "Using useReducer() for the Http State (10:40)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930025"
+      },
+      {
+        "name": "Working with useContext() (8:27)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930034"
+      },
+      {
+        "name": "Performance Optimizations with useMemo() (10:30)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930019"
+      },
+      {
+        "name": "Getting Started with Custom Hooks (13:45)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930015"
+      },
+      {
+        "name": "Sharing Data Between Custom Hooks & Components (14:58)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930030"
+      },
+      {
+        "name": "Using the Custom Hook (8:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930032"
+      },
+      {
+        "name": "Wrap Up (3:05)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930028"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935337"
+      }
+    ]
+  },
+  {
+    "sectionName": "Using Hooks in the Burger Builder",
+    "videos": [
+      {
+        "name": "Introduction (1:08)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930101"
+      },
+      {
+        "name": "Converting the 'App' Component (3:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930089"
+      },
+      {
+        "name": "Routing with React.lazy() (3:35)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930095"
+      },
+      {
+        "name": "Converting the Layout Component (2:39)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930091"
+      },
+      {
+        "name": "Converting withErrorHandler HOC (5:26)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930092"
+      },
+      {
+        "name": "Adjusting the Order & Checkout Containers (4:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930099"
+      },
+      {
+        "name": "Add Hooks to ContactData (5:38)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930100"
+      },
+      {
+        "name": "Converting the BurgerBuilder Container (4:25)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930093"
+      },
+      {
+        "name": "Adjusting Auth & Logout Components (6:01)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930098"
+      },
+      {
+        "name": "Using React.memo() & More! (4:30)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930094"
+      },
+      {
+        "name": "Adding a Custom Error Handling Hook (5:40)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930090"
+      },
+      {
+        "name": "Setting the right useEffect() Dependencies (4:58)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930096"
+      },
+      {
+        "name": "Working with useSelector() and useDispatch() (11:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930097"
+      },
+      {
+        "name": "Wrap Up (1:03)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930088"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935675"
+      }
+    ]
+  },
+  {
+    "sectionName": "Bonus- Replacing Redux with React Hooks",
+    "videos": [
+      {
+        "name": "Module Introduction (0:48)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930183"
+      },
+      {
+        "name": "Starting Project & Why You Would Replace Redux (4:19)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930181"
+      },
+      {
+        "name": "Alternative: Using the Context API (7:13)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930179"
+      },
+      {
+        "name": "Toggling Favorites with the Context API (5:43)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930186"
+      },
+      {
+        "name": "Context API Summary (and why NOT to use it instead of Redux) (2:30)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930180"
+      },
+      {
+        "name": "Getting Started with a Custom Hook as a Store (8:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930187"
+      },
+      {
+        "name": "Finishing the Store Hook (5:53)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930185"
+      },
+      {
+        "name": "Creating a Concrete Store (4:11)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930188"
+      },
+      {
+        "name": "Using the Custom Store (5:40)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930184"
+      },
+      {
+        "name": "Custom Hook Store Summary (3:13)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930190"
+      },
+      {
+        "name": "Optimizing the Custom Hook Store (4:04)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930182"
+      },
+      {
+        "name": "Bonus: Managing Multiple State Slices with the Custom Store Hook",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935764"
+      },
+      {
+        "name": "Wrap Up (2:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930189"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935776"
+      }
+    ]
+  },
+  {
+    "sectionName": "Bonus- Next js",
+    "videos": [
+      {
+        "name": "Module Introduction (1:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930224"
+      },
+      {
+        "name": "Understanding Server Side Rendering (3:18)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930220"
+      },
+      {
+        "name": "Setting Up a Project (6:02)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930225"
+      },
+      {
+        "name": "Understanding the Basics (3:53)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930218"
+      },
+      {
+        "name": "Next.js & Components & Pages (2:48)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930219"
+      },
+      {
+        "name": "Styling our App in Next.js (2:47)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930221"
+      },
+      {
+        "name": "Handling (404) Errors (2:01)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930222"
+      },
+      {
+        "name": "A Special Lifecycle Hook (9:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930223"
+      },
+      {
+        "name": "Deploying our App (2:59)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930217"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935828"
+      }
+    ]
+  },
+  {
+    "sectionName": "Bonus- Animations in React Apps",
+    "videos": [
+      {
+        "name": "Module Introduction (1:07)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930380"
+      },
+      {
+        "name": "Preparing the Demo Project (6:12)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930372"
+      },
+      {
+        "name": "Using CSS Transitions (4:34)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930376"
+      },
+      {
+        "name": "Using CSS Animations (5:32)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930379"
+      },
+      {
+        "name": "CSS Transition & Animations Limitations (4:04)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930374"
+      },
+      {
+        "name": "Using ReactTransitionGroup (12:19)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930385"
+      },
+      {
+        "name": "Using the Transition Component (3:24)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930386"
+      },
+      {
+        "name": "Wrapping the Transition Component (3:16)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930383"
+      },
+      {
+        "name": "Animation Timings (3:14)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930373"
+      },
+      {
+        "name": "Transition Events (2:33)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930375"
+      },
+      {
+        "name": "The CSSTransition Component (5:23)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930381"
+      },
+      {
+        "name": "Customizing CSS Classnames (2:30)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930371"
+      },
+      {
+        "name": "Animating Lists (6:53)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930370"
+      },
+      {
+        "name": "Alternative Animation Packages (4:28)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930378"
+      },
+      {
+        "name": "Wrap Up (1:57)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930377"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13935853"
+      }
+    ]
+  },
+  {
+    "sectionName": "Bonus- Building the Burger CSS",
+    "videos": [
+      {
+        "name": "Building the Burger CSS Code (24:55)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930493"
+      }
+    ]
+  },
+  {
+    "sectionName": "Next Steps and Course Roundup",
+    "videos": [
+      {
+        "name": "Module Introduction (1:00)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930517"
+      },
+      {
+        "name": "React Rocks! Where to find more Examples (1:24)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930521"
+      },
+      {
+        "name": "More Inspiration: Real-World Projects Built with React (1:23)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930523"
+      },
+      {
+        "name": "Static React Apps with Gatsby.js (2:31)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930522"
+      },
+      {
+        "name": "Introducing React Native (2:17)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930525"
+      },
+      {
+        "name": "Component Libraries (Example: Material UI) (2:36)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930520"
+      },
+      {
+        "name": "Smaller Apps with Preact (3:08)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930518"
+      },
+      {
+        "name": "Comparing React with Preact (5:50)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930519"
+      },
+      {
+        "name": "Congratulations (1:16)",
+        "link": "https://pro.academind.com/courses/react-the-complete-guide-incl-hooks-react-router-redux/lectures/13930524"
+      }
+    ]
+  }
+]

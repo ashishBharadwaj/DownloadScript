@@ -1,0 +1,636 @@
+[
+  {
+    "sectionName": "Introduction",
+    "videos": [
+      {
+        "name": "Introduction (1:38)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776455"
+      },
+      {
+        "name": "Web Components - A Quick Demo (6:30)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776459"
+      },
+      {
+        "name": "What are Web Components (3:22)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776457"
+      },
+      {
+        "name": "Join our Online Learning Community",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14448424"
+      },
+      {
+        "name": "Why Do We Use Web Components? (3:05)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776458"
+      },
+      {
+        "name": "Comparing Web Components & Frameworks (6:15)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776456"
+      },
+      {
+        "name": "Course Outline (2:46)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776460"
+      },
+      {
+        "name": "How To Get The Most Out Of The Course (3:04)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776454"
+      }
+    ]
+  },
+  {
+    "sectionName": "Refreshing Next Generation JavaScript (Optional)",
+    "videos": [
+      {
+        "name": "Module Introduction (1:12)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776515"
+      },
+      {
+        "name": "Understanding 'let' and 'const' (3:05)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776518"
+      },
+      {
+        "name": "Working with Arrow Functions (5:27)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776522"
+      },
+      {
+        "name": "Exports and Imports (4:43)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776516"
+      },
+      {
+        "name": "Understanding Classes (4:30)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776517"
+      },
+      {
+        "name": "Classes, Properties and Methods (3:03)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776520"
+      },
+      {
+        "name": "The Spread & Rest Operator (6:27)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776521"
+      },
+      {
+        "name": "Refreshing Array Functions (2:32)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776514"
+      },
+      {
+        "name": "Understanding Async Code (1:04)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776519"
+      },
+      {
+        "name": "Next-Gen JavaScript - Summary",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496037"
+      },
+      {
+        "name": "JS Array Functions",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496048"
+      }
+    ]
+  },
+  {
+    "sectionName": "Understanding the Basics",
+    "videos": [
+      {
+        "name": "Module Introduction - What are Web Components? (5:07)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776588"
+      },
+      {
+        "name": "Browser Support (3:05)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776574"
+      },
+      {
+        "name": "Our Development Setup (4:38)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776579"
+      },
+      {
+        "name": "Creating our First Custom Element (8:28)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776578"
+      },
+      {
+        "name": "Interacting with the Surrounding DOM (5:04)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776583"
+      },
+      {
+        "name": "Understanding the Custom Elements Lifecycle (2:51)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776586"
+      },
+      {
+        "name": "Using 'connectedcallback' for DOM Access (2:05)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776591"
+      },
+      {
+        "name": "Listening to Events Inside the Component (8:52)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776571"
+      },
+      {
+        "name": "Using Attributes on Custom Elements (4:45)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776590"
+      },
+      {
+        "name": "'Attributes' vs 'Properties'",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496059"
+      },
+      {
+        "name": "Styling our Elements (4:08)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776584"
+      },
+      {
+        "name": "Using the Shadow DOM (5:00)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776580"
+      },
+      {
+        "name": "Adding an HTML Template (5:40)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776575"
+      },
+      {
+        "name": "Using Slots (1:50)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776577"
+      },
+      {
+        "name": "Defining the Template in JavaScript (3:29)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776585"
+      },
+      {
+        "name": "Using Style Tags in the Shadow DOM (2:40)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776573"
+      },
+      {
+        "name": "Extending Built-In Elements (7:33)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776587"
+      },
+      {
+        "name": "Time to Practice: The Basics - Problem (2:55)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776576"
+      },
+      {
+        "name": "Time to Practice: The Basics - Solution (11:31)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776581"
+      },
+      {
+        "name": "Debugging",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496073"
+      },
+      {
+        "name": "Wrap Up (2:30)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776582"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496079"
+      }
+    ]
+  },
+  {
+    "sectionName": "Diving Deeper Into Web Components",
+    "videos": [
+      {
+        "name": "Module Introduction (0:51)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776622"
+      },
+      {
+        "name": "Understanding Shadow DOM Projection (2:26)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776626"
+      },
+      {
+        "name": "Styling 'slot' Content Outside of the Shadow DOM (3:44)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776614"
+      },
+      {
+        "name": "Styling 'slot' Content Inside the Shadow DOM (3:10)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776625"
+      },
+      {
+        "name": "Styling the Host Component (4:42)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776618"
+      },
+      {
+        "name": "Styling Components from Outside",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496116"
+      },
+      {
+        "name": "Conditional Host Styling (2:49)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776613"
+      },
+      {
+        "name": "Styling with the Host Content in Mind (2:27)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776617"
+      },
+      {
+        "name": "Smart Dynamic Styling with CSS Variables (6:20)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776619"
+      },
+      {
+        "name": "Cleaning Up Our Overall Styling (3:22)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776615"
+      },
+      {
+        "name": "Observing Attribute Changes (6:17)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776624"
+      },
+      {
+        "name": "Adjusting the Component Behaviour Upon Attribute Changes (2:34)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776621"
+      },
+      {
+        "name": "Using 'disconnectedcallback' (4:40)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776620"
+      },
+      {
+        "name": "Adding a Render Method (6:13)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776623"
+      },
+      {
+        "name": "Wrap Up (2:33)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776612"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496086"
+      }
+    ]
+  },
+  {
+    "sectionName": "Building More Complex Components",
+    "videos": [
+      {
+        "name": "Module Introduction (0:52)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776679"
+      },
+      {
+        "name": "Creating the Basics Modal Component (6:33)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776691"
+      },
+      {
+        "name": "Adding the Modal Container (2:29)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776690"
+      },
+      {
+        "name": "Styling the Modal Elements (5:35)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776684"
+      },
+      {
+        "name": "Adding Some General App Logic (3:49)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776685"
+      },
+      {
+        "name": "Opening the Modal via CSS (5:23)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776683"
+      },
+      {
+        "name": "Public Methods & Properties (6:37)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776682"
+      },
+      {
+        "name": "Understanding Named Slots (5:45)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776688"
+      },
+      {
+        "name": "'slotchange' & Getting Access to Slot Content (5:10)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776678"
+      },
+      {
+        "name": "Closing the Modal with Modal Buttons (7:01)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776680"
+      },
+      {
+        "name": "Dispatching Custom Events (3:40)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776687"
+      },
+      {
+        "name": "Configuring Custom Events (4:52)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776681"
+      },
+      {
+        "name": "Adding Enhancements & Modal Animations (4:50)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776689"
+      },
+      {
+        "name": "Wrap Up (1:48)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776686"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496088"
+      }
+    ]
+  },
+  {
+    "sectionName": "Stencil - An Introduction",
+    "videos": [
+      {
+        "name": "Module Introduction (1:21)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776725"
+      },
+      {
+        "name": "Using Web Components in Modern Browsers (2:35)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776722"
+      },
+      {
+        "name": "Browser Support for Web Components (2:27)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776726"
+      },
+      {
+        "name": "Using Web Components in All Browsers",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496136"
+      },
+      {
+        "name": "Creating a Stencil Project (2:59)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776723"
+      },
+      {
+        "name": "What is Stencil? (3:09)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776720"
+      },
+      {
+        "name": "Stencil.js behind the Scenes",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496142"
+      },
+      {
+        "name": "Diving Into a First Stencil Component (6:56)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776724"
+      },
+      {
+        "name": "Wrap Up (1:41)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776721"
+      }
+    ]
+  },
+  {
+    "sectionName": "Stencil - Diving Into the Basics",
+    "videos": [
+      {
+        "name": "Module Introduction (0:35)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776739"
+      },
+      {
+        "name": "Using the Development Server (3:19)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776749"
+      },
+      {
+        "name": "MUST READ: Ensuring Correct Imports",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496146"
+      },
+      {
+        "name": "Creating a New Stencil Web Component (8:55)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776738"
+      },
+      {
+        "name": "Styling a Stencil Component (5:40)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776747"
+      },
+      {
+        "name": "Using Props (7:02)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776735"
+      },
+      {
+        "name": "Important: Reflect Props to Attributes",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496149"
+      },
+      {
+        "name": "Configuring Props (1:27)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776736"
+      },
+      {
+        "name": "Using Slots & Styling (4:54)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776741"
+      },
+      {
+        "name": "Rendering Conditional Content (2:08)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776731"
+      },
+      {
+        "name": "Using Attributes for Styling only (3:27)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776734"
+      },
+      {
+        "name": "Using Props in Combination with Attributes (4:16)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776745"
+      },
+      {
+        "name": "Understanding Mutable Props (5:33)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776742"
+      },
+      {
+        "name": "Preparing Tabs (3:33)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776740"
+      },
+      {
+        "name": "Adding More Event Listeners (4:23)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776744"
+      },
+      {
+        "name": "Using State (4:32)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776732"
+      },
+      {
+        "name": "Adding Methods to Components (3:40)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776746"
+      },
+      {
+        "name": "Adding a Backdrop (5:20)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776737"
+      },
+      {
+        "name": "Time to Practice: Stencil - Problem (1:13)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776743"
+      },
+      {
+        "name": "Time to Practice: Stencil - Solution (10:04)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776733"
+      },
+      {
+        "name": "Wrap Up (1:52)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776748"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496090"
+      }
+    ]
+  },
+  {
+    "sectionName": "Advanced Stencil",
+    "videos": [
+      {
+        "name": "Module Introdution (0:38)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776774"
+      },
+      {
+        "name": "Creating a New Component (2:48)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776783"
+      },
+      {
+        "name": "Component & API Preparations (3:57)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776765"
+      },
+      {
+        "name": "Submitting Forms (2:09)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776766"
+      },
+      {
+        "name": "Styling the Component (5:49)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776777"
+      },
+      {
+        "name": "HTTP Requests in Components (7:43)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776767"
+      },
+      {
+        "name": "Using the API Key (2:23)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776761"
+      },
+      {
+        "name": "Accessing the Host Element (5:14)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776778"
+      },
+      {
+        "name": "Using References (2:52)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776758"
+      },
+      {
+        "name": "Two Way Binding & Input Validation (6:32)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776763"
+      },
+      {
+        "name": "Error Handling (6:07)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776780"
+      },
+      {
+        "name": "Using the 'componentdidload' Lifecycle Hook (5:34)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776759"
+      },
+      {
+        "name": "All Lifecycle Hooks (5:16)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776781"
+      },
+      {
+        "name": "Using Update Lifecycle Hooks (4:41)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776776"
+      },
+      {
+        "name": "Watching Prop Changes (4:47)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776762"
+      },
+      {
+        "name": "Creating a New Component (5:56)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776760"
+      },
+      {
+        "name": "Styling the New Component (1:11)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776764"
+      },
+      {
+        "name": "Outputting a List of Elements (6:20)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776772"
+      },
+      {
+        "name": "Styling the List Items (2:11)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776782"
+      },
+      {
+        "name": "Emitting Customs Events (4:47)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776769"
+      },
+      {
+        "name": "Using the Listen Decorator (6:05)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776757"
+      },
+      {
+        "name": "Using Hostdata (4:37)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776773"
+      },
+      {
+        "name": "Adding a Loading Spinner (3:53)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776768"
+      },
+      {
+        "name": "Embedding Components Into Components (4:54)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776775"
+      },
+      {
+        "name": "Using CSS Properties (4:32)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776770"
+      },
+      {
+        "name": "Using Stencil.js to Build Entire Apps",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496169"
+      },
+      {
+        "name": "Wrap Up (1:25)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776771"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496092"
+      }
+    ]
+  },
+  {
+    "sectionName": "Deployment and Publishing",
+    "videos": [
+      {
+        "name": "Module Introduction (0:54)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776789"
+      },
+      {
+        "name": "Using Stencil Config (4:59)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776790"
+      },
+      {
+        "name": "Building & Using the Components (4:15)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776797"
+      },
+      {
+        "name": "Using Web Components in a Node.js Project (2:10)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776791"
+      },
+      {
+        "name": "Publishing to NPM (3:24)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776794"
+      },
+      {
+        "name": "Installing NPM Packages (1:27)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776795"
+      },
+      {
+        "name": "Using Web Components in an Angular App (5:32)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776793"
+      },
+      {
+        "name": "Using Web Components in a React App (5:18)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776796"
+      },
+      {
+        "name": "Using Web Components in a Vue App (4:31)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776792"
+      },
+      {
+        "name": "Polyfills & The Internet Explorer (2:49)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776787"
+      },
+      {
+        "name": "IE & Polyfills",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496185"
+      },
+      {
+        "name": "Wrap Up (1:25)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776788"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496093"
+      }
+    ]
+  },
+  {
+    "sectionName": "Roundup",
+    "videos": [
+      {
+        "name": "Roundup (2:58)",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/13776828"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/web-components-stencil-js-build-custom-html-elements/lectures/14496258"
+      }
+    ]
+  }
+]

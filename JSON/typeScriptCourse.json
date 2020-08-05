@@ -1,0 +1,878 @@
+[
+  {
+    "sectionName": "Getting Started",
+    "videos": [
+      {
+        "name": "Welcome to the Course! (1:55)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13785323"
+      },
+      {
+        "name": "What Is TypeScript & Why Should You Use It? (4:33)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13785329"
+      },
+      {
+        "name": "Join our Online Learning Community",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/14165020"
+      },
+      {
+        "name": "Installing & Using TypeScript (13:22)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13785324"
+      },
+      {
+        "name": "TypeScript Advantages - Overview (3:05)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13785322"
+      },
+      {
+        "name": "Course Outline (4:17)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13785328"
+      },
+      {
+        "name": "Setting Up A Code Editor / IDE (3:06)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13785325"
+      },
+      {
+        "name": "The Course Project Setup (7:20)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13785326"
+      }
+    ]
+  },
+  {
+    "sectionName": "TypeScript Basics & Basic Types",
+    "videos": [
+      {
+        "name": "Module Introduction (0:26)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786344"
+      },
+      {
+        "name": "Using Types (10:20)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786357"
+      },
+      {
+        "name": "TypeScript Types vs JavaScript Types (4:53)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786352"
+      },
+      {
+        "name": "Working with Numbers, Strings & Booleans (5:43)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786347"
+      },
+      {
+        "name": "Type Assignment & Type Inference (5:38)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786346"
+      },
+      {
+        "name": "Quiz: Understanding Types",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786474"
+      },
+      {
+        "name": "Object Types (7:32)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786359"
+      },
+      {
+        "name": "Arrays Types (5:29)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786358"
+      },
+      {
+        "name": "Working with Tuples (6:19)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786356"
+      },
+      {
+        "name": "Working with Enums (7:05)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786355"
+      },
+      {
+        "name": "The 'any' Type (2:04)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786354"
+      },
+      {
+        "name": "Union Types (6:30)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786351"
+      },
+      {
+        "name": "Literal Types (7:54)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786345"
+      },
+      {
+        "name": "Type Aliases / Custom Types (2:59)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786361"
+      },
+      {
+        "name": "Quiz: Core Types & Concepts",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786515"
+      },
+      {
+        "name": "Function Return Types & 'void' (7:25)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786349"
+      },
+      {
+        "name": "Functions as Types (5:34)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786353"
+      },
+      {
+        "name": "Function Types & Callbacks (4:23)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786362"
+      },
+      {
+        "name": "Quiz: Functions & Types",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786556"
+      },
+      {
+        "name": "The 'unknown' Type (3:43)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786348"
+      },
+      {
+        "name": "The 'never' Type (4:10)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786350"
+      },
+      {
+        "name": "Wrap Up (1:51)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786360"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786426"
+      }
+    ]
+  },
+  {
+    "sectionName": "The TypeScript Compiler (and its Configuration)",
+    "videos": [
+      {
+        "name": "Module Introduction (0:46)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786383"
+      },
+      {
+        "name": "Using 'Watch Mode' (2:05)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786380"
+      },
+      {
+        "name": "Compiling the Entire Project / Multiple Files (3:46)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786385"
+      },
+      {
+        "name": "Including & Excluding Files (6:13)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786382"
+      },
+      {
+        "name": "Setting a Compilation Target (4:04)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786378"
+      },
+      {
+        "name": "Understanding TypeScript Core Libs (5:31)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786386"
+      },
+      {
+        "name": "More Configuration & Compilation Options (1:41)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786377"
+      },
+      {
+        "name": "Working with Source Maps (1:59)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786374"
+      },
+      {
+        "name": "rootDir and outDir (5:31)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786375"
+      },
+      {
+        "name": "Stop Emitting Files on Compilation Errors (2:51)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786373"
+      },
+      {
+        "name": "Strict Compilation (11:04)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786379"
+      },
+      {
+        "name": "Code Quality Options (4:22)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786376"
+      },
+      {
+        "name": "Debugging with Visual Studio Code (4:20)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786381"
+      },
+      {
+        "name": "Wrap Up (1:08)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786384"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786466"
+      }
+    ]
+  },
+  {
+    "sectionName": "Next-generation JavaScript & TypeScript",
+    "videos": [
+      {
+        "name": "Module Introduction (2:21)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786621"
+      },
+      {
+        "name": "'let' and 'const' (6:33)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786622"
+      },
+      {
+        "name": "Arrow Functions (4:50)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786617"
+      },
+      {
+        "name": "Default Function Parameters (2:09)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786618"
+      },
+      {
+        "name": "The Spread Operator (...) (4:32)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786619"
+      },
+      {
+        "name": "Rest Parameters (5:04)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786623"
+      },
+      {
+        "name": "Array & Object Destructuring (5:17)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786616"
+      },
+      {
+        "name": "How Code Gets Compiled & Wrap Up (1:37)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786620"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786628"
+      }
+    ]
+  },
+  {
+    "sectionName": "Classes & Interfaces",
+    "videos": [
+      {
+        "name": "Module Introduction (0:54)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786732"
+      },
+      {
+        "name": "What are Classes? (4:48)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786717"
+      },
+      {
+        "name": "Creating a First Class (5:52)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786736"
+      },
+      {
+        "name": "Compiling to JavaScript (3:02)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786714"
+      },
+      {
+        "name": "Constructor Functions & The 'this' Keyword (7:35)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786734"
+      },
+      {
+        "name": "'private' and 'public' Access Modifiers (5:52)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786719"
+      },
+      {
+        "name": "Shorthand Initialization (2:57)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786733"
+      },
+      {
+        "name": "'readonly' Properties (2:45)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786722"
+      },
+      {
+        "name": "Quiz: Class Basics",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786898"
+      },
+      {
+        "name": "Inheritance (8:07)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786713"
+      },
+      {
+        "name": "Overriding Properties & The 'protected' Modifier (2:43)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786726"
+      },
+      {
+        "name": "Getters & Setters (6:42)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786729"
+      },
+      {
+        "name": "Static Methods & Properties (5:08)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786721"
+      },
+      {
+        "name": "Abstract Classes (5:25)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786728"
+      },
+      {
+        "name": "Singletons & Private Constructors (5:07)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786730"
+      },
+      {
+        "name": "Classes - A Summary (1:43)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786720"
+      },
+      {
+        "name": "Quiz: Classes",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787017"
+      },
+      {
+        "name": "A First Interface (4:26)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786715"
+      },
+      {
+        "name": "Using Interfaces with Classes (6:10)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786724"
+      },
+      {
+        "name": "Why Interfaces? (1:34)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786731"
+      },
+      {
+        "name": "Readonly Interface Properties (1:35)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786727"
+      },
+      {
+        "name": "Extending Interfaces (2:34)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786735"
+      },
+      {
+        "name": "Interfaces as Function Types (2:41)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786718"
+      },
+      {
+        "name": "Optional Parameters & Properties (4:11)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786723"
+      },
+      {
+        "name": "Compiling Interfaces to JavaScript (1:58)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786725"
+      },
+      {
+        "name": "Quiz: Interfaces",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787098"
+      },
+      {
+        "name": "Wrap Up (1:54)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786716"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13786871"
+      }
+    ]
+  },
+  {
+    "sectionName": "Advanced Types",
+    "videos": [
+      {
+        "name": "Module Introduction (0:58)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787186"
+      },
+      {
+        "name": "Intersection Types (4:58)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787185"
+      },
+      {
+        "name": "More on Type Guards (10:34)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787189"
+      },
+      {
+        "name": "Discriminated Unions (6:11)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787193"
+      },
+      {
+        "name": "Type Casting (7:45)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787192"
+      },
+      {
+        "name": "Index Properties (6:35)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787188"
+      },
+      {
+        "name": "Function Overloads (6:18)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787191"
+      },
+      {
+        "name": "Optional Chaining (4:21)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787184"
+      },
+      {
+        "name": "Nullish Coalescing (2:44)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787187"
+      },
+      {
+        "name": "Quiz: Advanced Types",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846527"
+      },
+      {
+        "name": "Wrap Up (1:20)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787190"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846642"
+      }
+    ]
+  },
+  {
+    "sectionName": "Generics",
+    "videos": [
+      {
+        "name": "Module Introduction (1:04)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787249"
+      },
+      {
+        "name": "Built-in Generics & What are Generics? (8:44)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787253"
+      },
+      {
+        "name": "Creating a Generic Function (8:33)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787248"
+      },
+      {
+        "name": "Working with Constraints (3:39)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787252"
+      },
+      {
+        "name": "Another Generic Function (5:35)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787245"
+      },
+      {
+        "name": "The 'keyof' Constraint (3:06)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787243"
+      },
+      {
+        "name": "Generic Classes (8:54)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787247"
+      },
+      {
+        "name": "A First Summary (1:22)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787244"
+      },
+      {
+        "name": "Generic Utility Types (7:19)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787251"
+      },
+      {
+        "name": "Generic Types vs Union Types (3:41)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13787242"
+      },
+      {
+        "name": "Quiz: Generics",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846705"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846661"
+      }
+    ]
+  },
+  {
+    "sectionName": "Decorators",
+    "videos": [
+      {
+        "name": "Module Introduction (1:34)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846788"
+      },
+      {
+        "name": "A First Class Decorator (5:21)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846793"
+      },
+      {
+        "name": "Working with Decorator Factories (2:02)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846786"
+      },
+      {
+        "name": "Building More Useful Decorators (5:59)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846790"
+      },
+      {
+        "name": "Adding Multiple Decorators (2:52)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846791"
+      },
+      {
+        "name": "Diving into Property Decorators (5:00)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846787"
+      },
+      {
+        "name": "Accessor & Parameter Decorators (5:36)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846794"
+      },
+      {
+        "name": "When Do Decorators Execute? (3:11)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846785"
+      },
+      {
+        "name": "Returning (and changing) a Class in a Class Decorator (8:37)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846796"
+      },
+      {
+        "name": "Other Decorator Return Types (3:44)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846792"
+      },
+      {
+        "name": "Example: Creating an 'Autobind' Decorator (9:04)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846789"
+      },
+      {
+        "name": "Validation with Decorators - First Steps (7:28)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846798"
+      },
+      {
+        "name": "Validation with Decorators - Finished (12:14)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846797"
+      },
+      {
+        "name": "Wrap Up (3:21)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846795"
+      },
+      {
+        "name": "Fixing a Bug",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847004"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847372"
+      }
+    ]
+  },
+  {
+    "sectionName": "Practice Time, Lets build a Drag & Drop Project",
+    "videos": [
+      {
+        "name": "Module Introduction (0:54)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846815"
+      },
+      {
+        "name": "Getting Started (5:20)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846828"
+      },
+      {
+        "name": "DOM Element Selection & OOP Rendering (11:43)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846818"
+      },
+      {
+        "name": "Interacting with DOM Elements (8:03)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846819"
+      },
+      {
+        "name": "Creating & Using an 'Autobind' Decorator (4:44)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846830"
+      },
+      {
+        "name": "Fetching User Input (9:14)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846823"
+      },
+      {
+        "name": "Creating a Re-Usable Validation Functionality (14:10)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846826"
+      },
+      {
+        "name": "Rendering Project Lists (11:18)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846814"
+      },
+      {
+        "name": "Managing Application State with Singletons (15:32)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846820"
+      },
+      {
+        "name": "More Classes & Custom Types (7:11)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846821"
+      },
+      {
+        "name": "Filtering Projects with Enums (5:59)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846832"
+      },
+      {
+        "name": "Adding Inheritance & Generics (18:40)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846824"
+      },
+      {
+        "name": "Rendering Project Items with a Class (11:58)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846831"
+      },
+      {
+        "name": "Using a Getter (3:33)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846825"
+      },
+      {
+        "name": "Utilizing Interfaces to Implement Drag & Drop (10:24)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846829"
+      },
+      {
+        "name": "Drag Events & Reflecting the Current State in the UI (5:58)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846817"
+      },
+      {
+        "name": "Adding a Droppable Area (8:08)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846822"
+      },
+      {
+        "name": "Finishing Drag & Drop (6:44)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846816"
+      },
+      {
+        "name": "Wrap Up (1:22)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13846827"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13864674"
+      }
+    ]
+  },
+  {
+    "sectionName": "Modules & Namespaces",
+    "videos": [
+      {
+        "name": "Module Introduction (1:11)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847775"
+      },
+      {
+        "name": "Writing Module Code - Your Options (3:50)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847772"
+      },
+      {
+        "name": "Working with Namespaces (10:50)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847770"
+      },
+      {
+        "name": "Organizing Files & Folders (8:41)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847776"
+      },
+      {
+        "name": "A Problem with Namespace Imports (2:52)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847771"
+      },
+      {
+        "name": "Using ES Modules (12:20)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847777"
+      },
+      {
+        "name": "Understanding various Import & Export Syntaxes (4:57)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847769"
+      },
+      {
+        "name": "How Does Code In Modules Execute? (1:43)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847773"
+      },
+      {
+        "name": "Wrap Up (3:14)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847774"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13865051"
+      }
+    ]
+  },
+  {
+    "sectionName": "Using Webpack with TypeScript",
+    "videos": [
+      {
+        "name": "Module Introduction (1:01)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847794"
+      },
+      {
+        "name": "What is Webpack & Why do we need it? (5:32)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847789"
+      },
+      {
+        "name": "Installing Webpack & Important Dependencies (3:55)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847793"
+      },
+      {
+        "name": "Adding Entry & Output Configuration (5:57)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847795"
+      },
+      {
+        "name": "Adding TypeScript Support with the ts-loader Package (7:00)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847790"
+      },
+      {
+        "name": "Finishing the Setup & Adding webpack-dev-server (3:33)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847792"
+      },
+      {
+        "name": "Adding a Production Workflow (4:04)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847788"
+      },
+      {
+        "name": "Wrap Up (1:40)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847791"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13865229"
+      }
+    ]
+  },
+  {
+    "sectionName": "3rd Party Libraries & TypeScript",
+    "videos": [
+      {
+        "name": "Module Introduction (1:18)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847800"
+      },
+      {
+        "name": "Using JavaScript (!) Libraries with TypeScript (9:01)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847799"
+      },
+      {
+        "name": "Using 'declare' as a 'Last Resort' (2:25)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847802"
+      },
+      {
+        "name": "No Types Needed: class-transformer (8:28)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847803"
+      },
+      {
+        "name": "TypeScript-embracing: class-validator (6:16)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847801"
+      },
+      {
+        "name": "Wrap Up (1:57)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847798"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13865446"
+      }
+    ]
+  },
+  {
+    "sectionName": "Time to Practice- Let's build a 'Select & Share a Place' App (incl Google Maps)",
+    "videos": [
+      {
+        "name": "Module Introduction (0:30)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847811"
+      },
+      {
+        "name": "Project Setup (3:56)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847816"
+      },
+      {
+        "name": "Getting User Input (2:41)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847814"
+      },
+      {
+        "name": "Setting Up a Google API Key (2:48)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847812"
+      },
+      {
+        "name": "Using Axios to Fetch Coordinates for an Entered Address (10:14)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847815"
+      },
+      {
+        "name": "Rendering a Map with Google Maps (incl. Types!) (6:35)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847813"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13865605"
+      }
+    ]
+  },
+  {
+    "sectionName": "React js & TypeScript",
+    "videos": [
+      {
+        "name": "Module Introduction (1:04)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847828"
+      },
+      {
+        "name": "Setting Up a React + TypeScript Project (5:21)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847835"
+      },
+      {
+        "name": "How Do React + TypeScript Work Together? (3:46)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847832"
+      },
+      {
+        "name": "Working with Props and Types for Props (6:58)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847830"
+      },
+      {
+        "name": "Getting User Input with 'refs' (7:03)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847837"
+      },
+      {
+        "name": "Cross-Component Communication (3:58)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847829"
+      },
+      {
+        "name": "Working with State & Types (4:28)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847834"
+      },
+      {
+        "name": "Managing State Better (1:33)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847836"
+      },
+      {
+        "name": "More Props & State Work (4:09)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847827"
+      },
+      {
+        "name": "Adding Styling (1:01)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847831"
+      },
+      {
+        "name": "Types for other React Features (e.g. Redux or Routing) (4:00)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847826"
+      },
+      {
+        "name": "Wrap Up (1:34)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847833"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13865631"
+      }
+    ]
+  },
+  {
+    "sectionName": "Node js, Express & TypeScript",
+    "videos": [
+      {
+        "name": "Module Introduction (1:23)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847871"
+      },
+      {
+        "name": "Executing TypeScript Code with Node.js (3:33)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847868"
+      },
+      {
+        "name": "Setting up a Project (4:06)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847866"
+      },
+      {
+        "name": "Finished Setup & Working with Types (in Node + Express Apps) (5:17)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847865"
+      },
+      {
+        "name": "Adding Middleware & Types (5:45)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847869"
+      },
+      {
+        "name": "Working with Controllers & Parsing Request Bodies (9:53)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847870"
+      },
+      {
+        "name": "More CRUD Operations (10:20)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847867"
+      },
+      {
+        "name": "Wrap Up (2:11)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847864"
+      },
+      {
+        "name": "Useful Resources & Links",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13865675"
+      }
+    ]
+  },
+  {
+    "sectionName": "Course Roundup",
+    "videos": [
+      {
+        "name": "Roundup & Next Steps (3:04)",
+        "link": "https://pro.academind.com/courses/understanding-typescript/lectures/13847876"
+      }
+    ]
+  }
+]

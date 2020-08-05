@@ -1,0 +1,635 @@
+[
+  {
+    "sectionName": "Getting Started",
+    "videos": [
+      {
+        "name": "Welcome! (4:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14352988"
+      },
+      {
+        "name": "What is Ionic? (4:22)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341439"
+      },
+      {
+        "name": "Why Ionic? (2:41)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341440"
+      },
+      {
+        "name": "Why React? (2:42)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341441"
+      },
+      {
+        "name": "Join the Online Learning Community",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341628"
+      },
+      {
+        "name": "The Anatomy of an Ionic Project (3:52)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341442"
+      },
+      {
+        "name": "Ionic - Behind the Scenes (5:45)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341443"
+      },
+      {
+        "name": "Ionic Alternatives (4:13)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341445"
+      },
+      {
+        "name": "The Ionic History (3:19)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341446"
+      },
+      {
+        "name": "Getting The Most Out Of The Course (2:29)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341444"
+      }
+    ]
+  },
+  {
+    "sectionName": "Ionic - The Basics",
+    "videos": [
+      {
+        "name": "Module Introduction (1:02)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341456"
+      },
+      {
+        "name": "Ionic Overview (5:15)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341448"
+      },
+      {
+        "name": "Using Ionic Components (9:22)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341450"
+      },
+      {
+        "name": "More Ionic Components (6:44)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341455"
+      },
+      {
+        "name": "Adding JavaScript (7:10)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341453"
+      },
+      {
+        "name": "Ionic Behind the Scenes (3:24)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341451"
+      },
+      {
+        "name": "Styling & The Grid (4:40)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341452"
+      },
+      {
+        "name": "Icons & Slots (6:09)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341449"
+      },
+      {
+        "name": "Finishing Touches (6:43)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341454"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14345686"
+      }
+    ]
+  },
+  {
+    "sectionName": "Combining Ionic & Reactjs",
+    "videos": [
+      {
+        "name": "Module Introduction (1:39)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341500"
+      },
+      {
+        "name": "Creating a Project (9:10)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341510"
+      },
+      {
+        "name": "Analyzing the Created Project (5:11)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341502"
+      },
+      {
+        "name": "TypeScript & React (5:37)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341509"
+      },
+      {
+        "name": "Ionic Components vs React Components (4:31)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341503"
+      },
+      {
+        "name": "Building the First User Interface (10:11)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341508"
+      },
+      {
+        "name": "Adding React Logic (19:00)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341505"
+      },
+      {
+        "name": "Managing State (6:21)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341511"
+      },
+      {
+        "name": "Splitting the App Into Components (10:54)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341507"
+      },
+      {
+        "name": "Adding More Checks (2:49)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341504"
+      },
+      {
+        "name": "Displaying an Alert (7:31)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341499"
+      },
+      {
+        "name": "App Finetuning (1:47)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341506"
+      },
+      {
+        "name": "Adding Segment Buttons (5:44)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341497"
+      },
+      {
+        "name": "Connecting Components (6:26)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341501"
+      },
+      {
+        "name": "Adding BMI Conversion Factors (5:14)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341498"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14345850"
+      }
+    ]
+  },
+  {
+    "sectionName": "Building Native Mobile Apps with Capacitor",
+    "videos": [
+      {
+        "name": "Module Introduction (1:20)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341594"
+      },
+      {
+        "name": "Building a Web App (2:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341598"
+      },
+      {
+        "name": "Building an Android App (10:59)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341595"
+      },
+      {
+        "name": "Running the App on a Real Android Device",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14360216"
+      },
+      {
+        "name": "Running Apps as Mobile Apps (2:04)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341596"
+      },
+      {
+        "name": "Building an iOS App (6:18)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341593"
+      },
+      {
+        "name": "Wrap Up (0:40)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341597"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14345984"
+      }
+    ]
+  },
+  {
+    "sectionName": "Debugging",
+    "videos": [
+      {
+        "name": "Module Introduction (0:45)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341623"
+      },
+      {
+        "name": "Understanding Error Messages (4:31)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341624"
+      },
+      {
+        "name": "Browser DevTools & Breakpoints (5:06)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341626"
+      },
+      {
+        "name": "UI Debugging (2:12)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341622"
+      },
+      {
+        "name": "Debugging Native Apps (3:42)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341625"
+      },
+      {
+        "name": "Wrap Up (1:06)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341627"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14346104"
+      }
+    ]
+  },
+  {
+    "sectionName": "Styling & Theming",
+    "videos": [
+      {
+        "name": "Module Introduction (1:06)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341641"
+      },
+      {
+        "name": "How Styling Works (6:20)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341651"
+      },
+      {
+        "name": "Getting Started with Theming & Variables (7:26)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341643"
+      },
+      {
+        "name": "Using the Ionic Color Generator (2:28)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341650"
+      },
+      {
+        "name": "Platform-specific Styles (3:57)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341648"
+      },
+      {
+        "name": "Component-specific Variables (4:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341647"
+      },
+      {
+        "name": "Theme Variables - Summary (4:59)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341649"
+      },
+      {
+        "name": "The Responsive Ionic Grid (20:57)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341646"
+      },
+      {
+        "name": "Applying the Grid to the App (5:43)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341642"
+      },
+      {
+        "name": "Configuring a Component via Props (4:08)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341645"
+      },
+      {
+        "name": "Adding Custom CSS Styles (4:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341644"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14346124"
+      }
+    ]
+  },
+  {
+    "sectionName": "Navigation - Stack Navigation, Tabs, Side Drawers",
+    "videos": [
+      {
+        "name": "Module Introduction (1:57)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341694"
+      },
+      {
+        "name": "A First Page & Routing (8:43)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341679"
+      },
+      {
+        "name": "Adding a Second Route (3:33)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341686"
+      },
+      {
+        "name": "Push-Pop Navigation (Stack of Pages) (7:41)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341677"
+      },
+      {
+        "name": "Programmatic Navigation (4:28)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341698"
+      },
+      {
+        "name": "Adding Tabs (9:28)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341692"
+      },
+      {
+        "name": "App-wide Component Style Variables (7:07)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341683"
+      },
+      {
+        "name": "Adding Dummy Data (4:20)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341693"
+      },
+      {
+        "name": "Working with Dynamic Routes (7:00)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341681"
+      },
+      {
+        "name": "Styling the 'Back Button' (1:11)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341684"
+      },
+      {
+        "name": "Adding a Side Menu (8:55)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341685"
+      },
+      {
+        "name": "More Styling & Animation Fixes (2:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341697"
+      },
+      {
+        "name": "Tabs & Side Drawer Combined (8:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341671"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14346166"
+      }
+    ]
+  },
+  {
+    "sectionName": "Ionic Component Deep Dive",
+    "videos": [
+      {
+        "name": "Module Introduction (0:52)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341706"
+      },
+      {
+        "name": "More on the Card Component (3:40)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341716"
+      },
+      {
+        "name": "Rendering a List with Items (7:53)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341705"
+      },
+      {
+        "name": "Adding Actions to List Items (6:26)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341713"
+      },
+      {
+        "name": "Making Items Swipable (6:08)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341720"
+      },
+      {
+        "name": "Toolbar Buttons & Floating Action Buttons (10:13)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341710"
+      },
+      {
+        "name": "Showing an Alert (5:20)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341719"
+      },
+      {
+        "name": "Presenting a Toast Message (2:39)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341712"
+      },
+      {
+        "name": "Showing a Modal (4:18)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341717"
+      },
+      {
+        "name": "Adding Modal Content (13:34)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341711"
+      },
+      {
+        "name": "Closing Sliding Items (2:17)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341721"
+      },
+      {
+        "name": "Your Challenge! (1:19)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341709"
+      },
+      {
+        "name": "Adding a 'New Course' Modal (7:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341708"
+      },
+      {
+        "name": "Adding a DateTime Picker (3:13)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341718"
+      },
+      {
+        "name": "Rendering a List with All Goals (8:44)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341715"
+      },
+      {
+        "name": "Adding Toggle Buttons for Filtering (5:01)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341714"
+      },
+      {
+        "name": "Refactoring Components (12:23)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341707"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355942"
+      }
+    ]
+  },
+  {
+    "sectionName": "Handling User Input & Application State",
+    "videos": [
+      {
+        "name": "Module Introduction (0:54)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341727"
+      },
+      {
+        "name": "Fetching & Validating User Input (8:16)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341732"
+      },
+      {
+        "name": "Passing Data to the Modal Page (4:21)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341733"
+      },
+      {
+        "name": "Setting Up Application Context (15:10)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341728"
+      },
+      {
+        "name": "Adding New Courses (8:19)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341735"
+      },
+      {
+        "name": "Minor Fixes (1:34)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341729"
+      },
+      {
+        "name": "Adding a Goal (16:07)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341730"
+      },
+      {
+        "name": "Deleting & Updating Goals (13:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341726"
+      },
+      {
+        "name": "Handling All Goals & Fixing a Warning (4:41)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341736"
+      },
+      {
+        "name": "Filtering Goals (9:01)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341731"
+      },
+      {
+        "name": "Finishing Touches (4:07)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341734"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355979"
+      }
+    ]
+  },
+  {
+    "sectionName": "Using Native Device Features",
+    "videos": [
+      {
+        "name": "Module Introduction (2:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341757"
+      },
+      {
+        "name": "Getting Started (2:41)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341750"
+      },
+      {
+        "name": "Adding Tabs Navigation (7:52)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341748"
+      },
+      {
+        "name": "Adding Toolbar Buttons & Fabs (6:30)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341747"
+      },
+      {
+        "name": "Theming the App (4:07)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341746"
+      },
+      {
+        "name": "Preparing the 'NewMemory' Page (5:54)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341754"
+      },
+      {
+        "name": "Adding Capacitor (4:26)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341751"
+      },
+      {
+        "name": "Using the Device Camera (13:22)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341755"
+      },
+      {
+        "name": "Adding an Image Preview (5:51)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341758"
+      },
+      {
+        "name": "Using the Filesystem API (8:15)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341761"
+      },
+      {
+        "name": "Collecting User Input (5:28)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341752"
+      },
+      {
+        "name": "Storing Data in Context (14:44)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341760"
+      },
+      {
+        "name": "Getting Image Previews via Context (5:03)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341756"
+      },
+      {
+        "name": "Storing & Loading Data via Device Storage (19:58)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341753"
+      },
+      {
+        "name": "Refactoring (9:29)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341770"
+      },
+      {
+        "name": "Native APIs in the Browser (8:31)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14501067"
+      },
+      {
+        "name": "A Fallback if no Camera is available (12:16)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14501068"
+      },
+      {
+        "name": "Running on a Real Device (2:09)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341749"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355984"
+      }
+    ]
+  },
+  {
+    "sectionName": "Optimizations",
+    "videos": [
+      {
+        "name": "Module Introduction (1:39)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341793"
+      },
+      {
+        "name": "Sharing a Page Content Component (6:39)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341796"
+      },
+      {
+        "name": "Splitting the App into More Components (4:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341794"
+      },
+      {
+        "name": "Adding a 'Image Picker' Component (10:51)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341799"
+      },
+      {
+        "name": "Re-using Types (6:03)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341798"
+      },
+      {
+        "name": "Centralizing App Logic (5:06)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341795"
+      },
+      {
+        "name": "Adding Lazy Loading (5:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341797"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355990"
+      }
+    ]
+  },
+  {
+    "sectionName": "Publishing the Apps",
+    "videos": [
+      {
+        "name": "Module Introduction (1:05)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341803"
+      },
+      {
+        "name": "Configuring the Apps (2:30)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341807"
+      },
+      {
+        "name": "Adding Icons & Splash Screens (13:04)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341808"
+      },
+      {
+        "name": "Publishing a Web App (5:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341806"
+      },
+      {
+        "name": "Publishing an Android App (3:54)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341804"
+      },
+      {
+        "name": "Publishing an iOS App (4:24)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341805"
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355993"
+      }
+    ]
+  },
+  {
+    "sectionName": "Roundup",
+    "videos": [
+      {
+        "name": "Course Roundup (2:43)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14353016"
+      }
+    ]
+  }
+]
