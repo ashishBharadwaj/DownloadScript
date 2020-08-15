@@ -23,1202 +23,1131 @@ function launchChrome(headless = true) {
   });
 }
 
-let rootPath = Path.resolve(__dirname,"downloads", "CSS - The Complete Guide");
+let rootPath = '/home/ashishb/Videos/Academind Tutorials/React-Ionic/' ;
 
 let stObj = `
 
 [
   {
-    "sectionName": "Responsive Design",
-    "videos": [      
-      {
-        "name": "Making the Plans Responsive (8:35)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913677",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/AgDHJVHuS4ak0BUccFKb"
-        ]
-      },
-      {
-        "name": "Your Challenge (6:06)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913671",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Y612GYOUTbGUJ8krKsag"
-        ]
-      },
-      {
-        "name": "Assignment - Responsive Websites (Problem) (3:00)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913666",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ACARseZ5TdOYnwqEAIwk"
-        ]
-      },
-      {
-        "name": "Assignment - Responsive Websites (Solution) (8:07)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913673",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/d2ec7h1pT1iThyUMwiEz"
-        ]
-      },
-      {
-        "name": "Working with Logical Operators (8:13)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913660",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/1qZlgIMtQXmqvLGgBiZc"
-        ]
-      },
-      {
-        "name": "Improving the Customers Page (14:58)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913663",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/zuaGnjWnQ2m01rUKmj7s"
-        ]
-      },
-      {
-        "name": "Improving the Packages Page (5:41)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913672",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/5sl1fMwRrKd6xQ2DaC8R"
-        ]
-      },
-      {
-        "name": "Cleaning Up the Navigation Bar (4:39)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913664",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/4XxAI9HYQOew9Mu54olt"
-        ]
-      },
-      {
-        "name": "Positioning our Footer Correctly (10:09)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913674",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/vW0iNtDWQlW7fy4jV87t"
-        ]
-      },
-      {
-        "name": "Wrap Up (2:15)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913662",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/TALpHNTYT4OpilscVfsb"
-        ]
-      },
-      {
-        "name": "Useful Resources & Links",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456719",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/U0bmw75zTv2h3jXJu0x3",
-          "https://cdn.fs.teachablecdn.com/oqs8AMUTO2YmIXcoTHDY",
-          "https://cdn.fs.teachablecdn.com/rh5iuiDkQlqYKqOw4Cuh",
-          "https://cdn.fs.teachablecdn.com/HFhxnJhrTLCVQ8KDuIU5",
-          "https://cdn.fs.teachablecdn.com/tlD6AV8uSWezRa5IwBo4",
-          "https://cdn.fs.teachablecdn.com/g8irQnaNSceuBARs1eZm",
-          "https://cdn.fs.teachablecdn.com/MOUsGxPeTnyXiCv6fNDg"
-        ]
-      }
-    ]
-  },
-  {
-    "sectionName": "Adding & Styling Forms",
+    "sectionName": "Getting Started",
     "videos": [
       {
-        "name": "Module Introduction (1:32)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913695",
+        "name": "Welcome! (4:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14352988",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ScIgKRJAShqZtldOkVT0"
+          "https://cdn.fs.teachablecdn.com/VeVHgpq9QxuIxsBZlBJe"
         ]
       },
       {
-        "name": "Adding the Unstyled Form (2:37)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913700",
+        "name": "What is Ionic? (4:22)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341439",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/zsCzMNuYTEOWJEmFPBSj"
+          "https://cdn.fs.teachablecdn.com/ErYGNDOzRSCU24Ijo29R"
         ]
       },
       {
-        "name": "Page Initialization (6:35)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913697",
+        "name": "Why Ionic? (2:41)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341440",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/jposoVdSSrWvfhpR7KBv"
+          "https://cdn.fs.teachablecdn.com/hMu3ZLGlQQzObkPqpNZg"
         ]
       },
       {
-        "name": "Understanding Advanced Attribute Selectors (6:02)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913694",
+        "name": "Why React? (2:42)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341441",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/TqDMZ9GQQVOrHo9i8tWu"
+          "https://cdn.fs.teachablecdn.com/sUpkj6sOTpylciaTQMiL"
         ]
       },
       {
-        "name": "Working on the General Layout (7:15)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913692",
+        "name": "Join the Online Learning Community",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341628"
+      },
+      {
+        "name": "The Anatomy of an Ionic Project (3:52)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341442",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/uZDcmY7TOSvb5IRdpuVY"
+          "https://cdn.fs.teachablecdn.com/TJmutDhRbW2k0GpSdfCC"
         ]
       },
       {
-        "name": "Restyling the Form Elements (6:29)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913693",
+        "name": "Ionic - Behind the Scenes (5:45)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341443",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/mPOvcBTlQcmOmboByADg"
+          "https://cdn.fs.teachablecdn.com/jTKKCwZmRgibQvcXQPJm"
         ]
       },
       {
-        "name": "Styling the Checkbox (6:52)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913696",
+        "name": "Ionic Alternatives (4:13)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341445",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/TB0NcVNSVurBizBjS8bG"
+          "https://cdn.fs.teachablecdn.com/7Q7OT7TNSOaeaStphbYg"
         ]
       },
       {
-        "name": "Providing Validation Feedback (8:50)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913691",
+        "name": "The Ionic History (3:19)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341446",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/a08WAdQQDGt7ZmMscdWA"
+          "https://cdn.fs.teachablecdn.com/8pyPk1NZT6SZgUH6Ts3a"
         ]
       },
       {
-        "name": "Styling the Signup Button (3:42)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913699",
+        "name": "Getting The Most Out Of The Course (2:29)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341444",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/jVPsZQ2QryQl7UleTVVQ"
-        ]
-      },
-      {
-        "name": "Fixing a Broken Link",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14488028"
-      },
-      {
-        "name": "Wrap Up (1:29)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913698",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/hSn26XsWTLes03uhuW58"
-        ]
-      },
-      {
-        "name": "Useful Resources & Links",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456720",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Tiwqjdh0Q7IO5kpQaSge",
-          "https://cdn.fs.teachablecdn.com/VakLJEMzTbKWGlG1HTyP",
-          "https://cdn.fs.teachablecdn.com/mW0FzuuHT2WuCcRqy0hc",
-          "https://cdn.fs.teachablecdn.com/k2Hl2OhRuarkIpbwEHQm",
-          "https://cdn.fs.teachablecdn.com/PVTCKIM1THqqlKdsyyDt",
-          "https://cdn.fs.teachablecdn.com/JR3JHZRTdWXJccf1j286"
+          "https://cdn.fs.teachablecdn.com/P0ae6Gb7QAaQYGpOUv6T"
         ]
       }
     ]
   },
   {
-    "sectionName": "Working with Text and Fonts",
+    "sectionName": "Ionic - The Basics",
+    "videos": [
+      {
+        "name": "Module Introduction (1:02)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341456",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CEGMeTSRPy4T3zatFnTQ"
+        ]
+      },
+      {
+        "name": "Ionic Overview (5:15)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341448",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/qjuEZv94RN2f8l4teWsR"
+        ]
+      },
+      {
+        "name": "Using Ionic Components (9:22)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341450",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/CgKYMvADTuWoQif1R7L5"
+        ]
+      },
+      {
+        "name": "More Ionic Components (6:44)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341455",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/WG587O9IRhat5k281kff"
+        ]
+      },
+      {
+        "name": "Adding JavaScript (7:10)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341453",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/hkd9oGF9RW6rfTvyUZRy"
+        ]
+      },
+      {
+        "name": "Ionic Behind the Scenes (3:24)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341451",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/6qalIgXQa2OxAmqnGPsr"
+        ]
+      },
+      {
+        "name": "Styling & The Grid (4:40)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341452",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/fwfae01sRhOMO0op4pKF"
+        ]
+      },
+      {
+        "name": "Icons & Slots (6:09)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341449",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/NN1gU9wQTqQzb4qwGIlM"
+        ]
+      },
+      {
+        "name": "Finishing Touches (6:43)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341454",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/LMzsTKFDQSONWKczjsZi"
+        ]
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14345686",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/dX1lUBWSrSkM5wbaGrPz",
+          "https://cdn.fs.teachablecdn.com/k8tjqH0dTLy4LHv9pEtn",
+          "https://cdn.fs.teachablecdn.com/n9jkep0SJm878uWQvf9l",
+          "https://cdn.fs.teachablecdn.com/R0Y7C0UTGC3quiuSruuw"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Combining Ionic & Reactjs",
+    "videos": [
+      {
+        "name": "Module Introduction (1:39)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341500",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ruwV8jkSyC5Y6AKREkew"
+        ]
+      },
+      {
+        "name": "Creating a Project (9:10)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341510",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zAwag81ET1KZtIjPj1uA"
+        ]
+      },
+      {
+        "name": "Analyzing the Created Project (5:11)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341502",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/xN0iktmbQS5nl8BirYC6",
+          "https://cdn.fs.teachablecdn.com/GQVHABiUQjGhuPXViULq"
+        ]
+      },
+      {
+        "name": "TypeScript & React (5:37)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341509",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/QEi3Tb57SKKM0ga4rkjP"
+        ]
+      },
+      {
+        "name": "Ionic Components vs React Components (4:31)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341503",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/g0z29CWfTD2zIByPHIVU"
+        ]
+      },
+      {
+        "name": "Building the First User Interface (10:11)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341508",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ejhFfbUKSnSWncP186IQ"
+        ]
+      },
+      {
+        "name": "Adding React Logic (19:00)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341505",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/4CK5xdHmSYmyv9P1PegZ"
+        ]
+      },
+      {
+        "name": "Managing State (6:21)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341511",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/F4KAzh1gTjaeF5nlnsPT"
+        ]
+      },
+      {
+        "name": "Splitting the App Into Components (10:54)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341507",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/BgODpYhEQOaTFDIfMbFp"
+        ]
+      },
+      {
+        "name": "Adding More Checks (2:49)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341504",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/MdmXjYLBTnKSwPQrATRX"
+        ]
+      },
+      {
+        "name": "Displaying an Alert (7:31)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341499",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/tlkkjmsoS6y3Ydda2Vx9"
+        ]
+      },
+      {
+        "name": "App Finetuning (1:47)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341506",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/V2EgBV8XSxSK0ubgP3tq"
+        ]
+      },
+      {
+        "name": "Adding Segment Buttons (5:44)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341497",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/BOqXjTR5SSSP9zAWMJFR"
+        ]
+      },
+      {
+        "name": "Connecting Components (6:26)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341501",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/H0NQKSDLTym367gjHeFe"
+        ]
+      },
+      {
+        "name": "Adding BMI Conversion Factors (5:14)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341498",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/vt1CoHwmSIKga7bC28hb"
+        ]
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14345850",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/IwOSAkQgQPuLsdK0pBWn",
+          "https://cdn.fs.teachablecdn.com/RgQTAriRkHkDeITMwlOg",
+          "https://cdn.fs.teachablecdn.com/CIOi750QRCyCXxq9cf73",
+          "https://cdn.fs.teachablecdn.com/oWCoaO2vQ7meCY4YCsMf",
+          "https://cdn.fs.teachablecdn.com/1C797w7SOiGNgbqvPQn7",
+          "https://cdn.fs.teachablecdn.com/miQkTfeMRuOIlEfQkym1",
+          "https://cdn.fs.teachablecdn.com/Fdx1ALvGQLyhkfy26ti6",
+          "https://cdn.fs.teachablecdn.com/X1HLP3CJRHeyTgUjXgdE",
+          "https://cdn.fs.teachablecdn.com/CLgqpGhR36UrVss8Ufz1"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionName": "Building Native Mobile Apps with Capacitor",
     "videos": [
       {
         "name": "Module Introduction (1:20)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913707",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341594",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/4OiegLDR7OwcAY8SnGLS"
+          "https://cdn.fs.teachablecdn.com/CiQ5gEhSxu343Izzq0eU"
         ]
       },
       {
-        "name": "Comparing Generic Families & Font Families (2:56)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913717",
+        "name": "Building a Web App (2:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341598",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ooiSYFU6TmCzt4YHXkBx"
+          "https://cdn.fs.teachablecdn.com/fcDrQFkGRSq9bqKAYMOp"
         ]
       },
       {
-        "name": "Understanding the Browser Settings (6:17)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913715",
+        "name": "Building an Android App (10:59)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341595",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ca4byGkYS4GaYsgJlQa7"
+          "https://cdn.fs.teachablecdn.com/twPOO6jJSVZXL9vyJM6C"
         ]
       },
       {
-        "name": "Using the Default Font Families (6:53)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913705",
+        "name": "Running the App on a Real Android Device",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14360216"
+      },
+      {
+        "name": "Running Apps as Mobile Apps (2:04)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341596",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/s988vYhjSTKx1f4np7Bn"
+          "https://cdn.fs.teachablecdn.com/VKzbe7oTkysABkVddbow"
         ]
       },
       {
-        "name": "Understanding the 'font-family' Syntax (6:18)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913708",
+        "name": "Building an iOS App (6:18)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341593",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/WCpX2p1yQO63SLqQRxoX"
+          "https://cdn.fs.teachablecdn.com/XlFNT0PwR5SlXBr9q251"
         ]
       },
       {
-        "name": "Working with Locally Saved Fonts (3:50)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913709",
+        "name": "Wrap Up (0:40)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341597",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/qUwgPGKSaWAYTtOnG1yg"
+          "https://cdn.fs.teachablecdn.com/JC5xByQT2WpRdo8IUgUj"
         ]
       },
       {
-        "name": "Working with Google Fonts (10:28)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913714",
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14345984"
+      }
+    ]
+  },
+  {
+    "sectionName": "Debugging",
+    "videos": [
+      {
+        "name": "Module Introduction (0:45)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341623",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/gpLdNx0SRzCIsHQ2Y0EP"
+          "https://cdn.fs.teachablecdn.com/Z4LTwr4MQ1uLpoaiR9QE"
         ]
       },
       {
-        "name": "Understanding Font Faces & 'font-style' (6:49)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913716",
+        "name": "Understanding Error Messages (4:31)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341624",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/5pD4tm4sT0iwwRqFdHix"
+          "https://cdn.fs.teachablecdn.com/B2LfPKxJQdKAKqOj1sID"
         ]
       },
       {
-        "name": "Importing our Custom Fonts (9:03)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913712",
+        "name": "Browser DevTools & Breakpoints (5:06)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341626",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/BJrppRSuT5y534BM23yn"
+          "https://cdn.fs.teachablecdn.com/XoSocjrvQ46pnFWq9DYI"
         ]
       },
       {
-        "name": "Understanding Font Formats (5:41)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913706",
+        "name": "UI Debugging (2:12)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341622",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/2VSihbAESTC8U1yMKeAb"
+          "https://cdn.fs.teachablecdn.com/OVh3iSITZK0gCeXOobMo"
         ]
       },
       {
-        "name": "Diving into Font Properties (3:10)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913721",
+        "name": "Debugging Native Apps (3:42)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341625",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/h3mwIqvS3SksVPEH4czZ"
+          "https://cdn.fs.teachablecdn.com/67saBOc1TYePxh1dck2c"
         ]
       },
       {
-        "name": "Adding 'letter-spacing' (4:43)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913710",
+        "name": "Wrap Up (1:06)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341627",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/AWpC7I8eReC3cnfBNiqF"
+          "https://cdn.fs.teachablecdn.com/jEDqKrjTPeeDcn6Bcmvf"
         ]
       },
       {
-        "name": "Changing the Line Height (6:07)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913713",
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14346104",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/enCBKJ7OTRqiMHHHY1E3"
-        ]
-      },
-      {
-        "name": "Applying 'text-decoration' & 'text-shadow' (5:51)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913719",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Edj0A7ORlOhutm4pu13e"
-        ]
-      },
-      {
-        "name": "Understanding the 'font' Shorthand (8:39)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913718",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/zOIv1yrwT6emOmr3vjVT"
-        ]
-      },
-      {
-        "name": "Loading Performance & 'font-display' (9:49)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913711",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ENaRWGRcyKSBHsOVVRPQ"
-        ]
-      },
-      {
-        "name": "Wrap Up (3:47)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913720",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/CotUKwlQfiIzIkeZrMOG"
-        ]
-      },
-      {
-        "name": "Useful Resources & Links",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456721",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/CAoyXDjlQ9SZcSd1Y5AN",
-          "https://cdn.fs.teachablecdn.com/uYJqnvlMRkivrIgAabb8",
-          "https://cdn.fs.teachablecdn.com/6TCHyT52TzqRcMca3FAb",
-          "https://cdn.fs.teachablecdn.com/BbTtjNJRTYSB4W4ukbnJ",
-          "https://cdn.fs.teachablecdn.com/Kp966GNjTCKJjq9qA18b",
-          "https://cdn.fs.teachablecdn.com/Q65rLWlhReiTYxNofSIL",
-          "https://cdn.fs.teachablecdn.com/C4z9wYN5TAWuPTWNCy9g",
-          "https://cdn.fs.teachablecdn.com/DhXA2iyTRbSrl3cn7Jy1"
+          "https://cdn.fs.teachablecdn.com/qDTjbMdS4hcutK8uTO8w"
         ]
       }
     ]
   },
   {
-    "sectionName": "Adding Flexbox to our Project",
+    "sectionName": "Styling & Theming",
     "videos": [
       {
-        "name": "Optional: Expert Track Introduction (3:23)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913753",
+        "name": "Module Introduction (1:06)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341641",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/6mgmN5QDT6OV46JvvWFZ"
+          "https://cdn.fs.teachablecdn.com/TpZvnTokTH2ngJNxvdLi"
         ]
       },
       {
-        "name": "Module Introduction (1:31)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913734",
+        "name": "How Styling Works (6:20)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341651",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/t9smiuoISlKznbFEFthe"
+          "https://cdn.fs.teachablecdn.com/0S94ciOUTYWvwpRoG4OQ"
         ]
       },
       {
-        "name": "How we Could Improve our Project (2:58)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913751",
+        "name": "Getting Started with Theming & Variables (7:26)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341643",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/61IeoKmS96DC7Tcopc6K"
+          "https://cdn.fs.teachablecdn.com/RKrpoIQmTUS96v5dTQ4p"
         ]
       },
       {
-        "name": "Understanding Flexbox (3:18)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913739",
+        "name": "Using the Ionic Color Generator (2:28)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341650",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/8oJCc1FQ8OusD9FI9BaM"
+          "https://cdn.fs.teachablecdn.com/JqXB5PjS4ysjH3Fch0aV"
         ]
       },
       {
-        "name": "Creating a Flex Container (5:33)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913742",
+        "name": "Platform-specific Styles (3:57)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341648",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/bxXdGiYTSmuYLCBeq4GO"
+          "https://cdn.fs.teachablecdn.com/PJgPo4ZTJmguuE6m8XK4"
         ]
       },
       {
-        "name": "Using 'flex-direction' & 'flex-wrap' (5:35)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913737",
+        "name": "Component-specific Variables (4:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341647",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/wzCPO0kzS5GsCd2wxapY"
+          "https://cdn.fs.teachablecdn.com/M0uXYfeHR2i95YiG9gxA"
         ]
       },
       {
-        "name": "Understanding the Importance of Main Axis & Cross Axis (7:27)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913740",
+        "name": "Theme Variables - Summary (4:59)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341649",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/A7bZc8PpSjKodl3pD2Tz"
+          "https://cdn.fs.teachablecdn.com/skPNW5GT12BbmIBeSkt0"
         ]
       },
       {
-        "name": "Working with 'align-items' & 'justify-content' (10:59)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913747",
+        "name": "The Responsive Ionic Grid (20:57)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341646",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/1HoPFLtSTTS6VNEKUQvf"
+          "https://cdn.fs.teachablecdn.com/24MWFh8lReCM62zHiLEP"
         ]
       },
       {
-        "name": "And What About 'align-content'? (2:40)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913749",
+        "name": "Applying the Grid to the App (5:43)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341642",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/tXP85KxSwSCizci6dxWw"
+          "https://cdn.fs.teachablecdn.com/wfPqc3HKTt2vNQLFL58n"
         ]
       },
       {
-        "name": "Improving the Navigation Bar with Flexbox (12:02)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913750",
+        "name": "Configuring a Component via Props (4:08)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341645",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/k9HQ4gIEQISzUhoCr8mj"
+          "https://cdn.fs.teachablecdn.com/tbk4B2K2SWmH2edqlbbQ"
         ]
       },
       {
-        "name": "Your Challenge - Working on the Mobile Navigation Bar (4:16)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913752",
+        "name": "Adding Custom CSS Styles (4:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341644",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/xBMArZkhSTeICUvqAetZ"
+          "https://cdn.fs.teachablecdn.com/JKBkXGGITqKBEmr385Wo"
         ]
       },
       {
-        "name": "Improving the Footer (5:35)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913736",
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14346124",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ddndCUOsQ1lbjj0xF7l9"
-        ]
-      },
-      {
-        "name": "Assignment - Flexbox (Problem) (4:19)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913741",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/JPKKd58mSW6p9yxoyXJB"
-        ]
-      },
-      {
-        "name": "Assignment - Flexbox (Solution) (8:32)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913735",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/WlTsBF4sSdajUVCaALJb"
-        ]
-      },
-      {
-        "name": "Flexbox and the Z-Index",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14488070"
-      },
-      {
-        "name": "Adding Flexbox to the Customers Page (3:16)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913738",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ukCm3scRsGiESUCqU59x"
-        ]
-      },
-      {
-        "name": "Using the 'order' Property for a Flex Item (6:07)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913746",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/6yWteGGBQUqFsSOv5UBA"
-        ]
-      },
-      {
-        "name": "Working with 'align-self' (2:44)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913733",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/op9BYQllSs6WSARUzNjv"
-        ]
-      },
-      {
-        "name": "Understanding 'flex-grow' (7:35)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913744",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Zyl5PTLuQmCMZ4WZA0Jc"
-        ]
-      },
-      {
-        "name": "Applying 'flex-shrink' (3:12)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913743",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/lEijxJNHS8WiW4ONLNzX"
-        ]
-      },
-      {
-        "name": "Comparing 'flex-basis' vs 'width' & 'height' (8:35)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913745",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/DkzaF4H7TByGMrjdlKnH"
-        ]
-      },
-      {
-        "name": "Wrap Up (3:52)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913748",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/3k2nfFSdSkCrSYzMtvOR"
-        ]
-      },
-      {
-        "name": "Useful Resources & Links",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456723",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/g2apfPMmQFVoKViUitEi",
-          "https://cdn.fs.teachablecdn.com/j4cwYWRl66PnvPU0Ke1A",
-          "https://cdn.fs.teachablecdn.com/lACjDdDLTN2CqxmUzk5i",
-          "https://cdn.fs.teachablecdn.com/jaIKp20QRtiOm2BlxFOV",
-          "https://cdn.fs.teachablecdn.com/t7bqkrRrSl6x4kyMZ7eG",
-          "https://cdn.fs.teachablecdn.com/8AmlvloUTkytPZo1sXnn",
-          "https://cdn.fs.teachablecdn.com/7ahDlc5qTEKzqcfVHwF6",
-          "https://cdn.fs.teachablecdn.com/o6C0Br0ITAmW1MGxgGl3",
-          "https://cdn.fs.teachablecdn.com/E5ukMhR5RpCDMOceZnUq"
+          "https://cdn.fs.teachablecdn.com/FdPJIfMBQ1eBugDxVPIu",
+          "https://cdn.fs.teachablecdn.com/WxnO0VZbTR20vj8QyZiB",
+          "https://cdn.fs.teachablecdn.com/LOhjZVrqQCOlhirURQ8P",
+          "https://cdn.fs.teachablecdn.com/keMxjpG8Txu1ikTzZGYu",
+          "https://cdn.fs.teachablecdn.com/zukPwEwTTRGPYQZxARIr",
+          "https://cdn.fs.teachablecdn.com/hWNJpwfFSkiYrlPOd2dD"
         ]
       }
     ]
   },
   {
-    "sectionName": "Using the CSS Grid",
+    "sectionName": "Navigation - Stack Navigation, Tabs, Side Drawers",
     "videos": [
       {
-        "name": "Module Introduction (1:14)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913840",
+        "name": "Module Introduction (1:57)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341694",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/QiTQBVajSN28r4IOYiir"
+          "https://cdn.fs.teachablecdn.com/SRKPI6N1SjKuDBo4Hh1I"
         ]
       },
       {
-        "name": "What is the CSS Grid? (1:27)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913875",
+        "name": "A First Page & Routing (8:43)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341679",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/fjKnQ327SKegVpkFwhbJ"
+          "https://cdn.fs.teachablecdn.com/COXikLT2RhKsLX8JDcLy",
+          "https://cdn.fs.teachablecdn.com/Yvspoy31STKvS7ylje2q"
         ]
       },
       {
-        "name": "Getting Started (2:22)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913859",
+        "name": "Adding a Second Route (3:33)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341686",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/vhglBmORXiZwrYnVS1iP"
+          "https://cdn.fs.teachablecdn.com/ZaJGyirKQSjAMh6Y5yvx"
         ]
       },
       {
-        "name": "Turning a Container into a Grid (3:21)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913849",
+        "name": "Push-Pop Navigation (Stack of Pages) (7:41)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341677",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ZSyPY7DNQzOWQcnrUIkq"
+          "https://cdn.fs.teachablecdn.com/Z3UXT7NLRvqIJrhZYwsR"
         ]
       },
       {
-        "name": "Defining Columns & Rows (5:49)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913841",
+        "name": "Programmatic Navigation (4:28)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341698",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/4XACXjPaTkGb9nreIvN5"
+          "https://cdn.fs.teachablecdn.com/FI6qYh3sSByP13FJ9V8W"
         ]
       },
       {
-        "name": "Positioning Child Elements in a Grid (4:13)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913846",
+        "name": "Adding Tabs (9:28)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341692",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/pj6ZUAzRUGVjlfR5QTZd"
+          "https://cdn.fs.teachablecdn.com/QlmFck1US9aSiH2Q9WTx"
         ]
       },
       {
-        "name": "Using 'element-sizing', 'repeat' & 'minmax' (6:45)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913882",
+        "name": "App-wide Component Style Variables (7:07)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341683",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/H2hQgxYQSHapF38tBstk"
+          "https://cdn.fs.teachablecdn.com/7aneFW7yTHyqnOhRXRYd"
         ]
       },
       {
-        "name": "Advanced Element Positioning (6:30)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913843",
+        "name": "Adding Dummy Data (4:20)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341693",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/vJP4wu8oSiS84LWL81p7"
+          "https://cdn.fs.teachablecdn.com/REilNgDqTNiXRnlryIkp"
         ]
       },
       {
-        "name": "Working with Named Lines (3:53)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913881",
+        "name": "Working with Dynamic Routes (7:00)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341681",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/1FvoDpslRse5IGX6X7Dy"
+          "https://cdn.fs.teachablecdn.com/rxX2tNxuRYiLupBqMcOS"
         ]
       },
       {
-        "name": "Assignment - Grid (Problem) (0:49)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913850",
+        "name": "Styling the 'Back Button' (1:11)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341684",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/PQjxgT4LQH6Jhp728trx"
+          "https://cdn.fs.teachablecdn.com/fJ1ccVIT2ypgl7z8LO3Q"
         ]
       },
       {
-        "name": "Assignment - Grid (Solution) (9:14)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913852",
+        "name": "Adding a Side Menu (8:55)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341685",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/nsQeMSQR6Omq7syDbhFf"
+          "https://cdn.fs.teachablecdn.com/A0wM5NAxRoOBo7I3uO6a"
         ]
       },
       {
-        "name": "Understanding Column & Row Shorthands (2:54)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913877",
+        "name": "More Styling & Animation Fixes (2:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341697",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/KKGSQLiQv2q7OqMOi8g7"
+          "https://cdn.fs.teachablecdn.com/6eq8Fd7wScyHjL9RySVZ"
         ]
       },
       {
-        "name": "Working with Gaps (2:33)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913845",
+        "name": "Tabs & Side Drawer Combined (8:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341671",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/eR5T2wdRv25pqPEaz5ni"
+          "https://cdn.fs.teachablecdn.com/TU6rdtjzTBmoaMIDAZDJ"
         ]
       },
       {
-        "name": "Adding Named Template Areas (6:39)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913879",
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14346166",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/8aODCwJHQJapGDRTYEFQ"
-        ]
-      },
-      {
-        "name": "Assignment - Diving Deeper (Problem) (0:38)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913857",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/N7lviG1uSeKH9AzEnCqn"
-        ]
-      },
-      {
-        "name": "Assignment - Diving Deeper (Solution) (3:22)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913854",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Yg6pKahmQg2BsZgVKHlR"
-        ]
-      },
-      {
-        "name": "Creating Automatically Generated Grid Areas (7:10)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913837",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Sjio1BPeRnGoeFWAjFWM"
-        ]
-      },
-      {
-        "name": "Using the Grid on our Project (9:10)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913853",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/GZQ1WKlTjgsgBIJmbl1w"
-        ]
-      },
-      {
-        "name": "Working with 'fit-content' (3:31)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913839",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/g6jkm7qgTkKLbt53BJVu"
-        ]
-      },
-      {
-        "name": "Positioning Grid Elements (3:35)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913844",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/zcxGm1fASs6Z6YH7jFkt"
-        ]
-      },
-      {
-        "name": "Positioning the Entire Grid Content (3:17)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913876",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/JxnNzmDJShebPaki8kdM"
-        ]
-      },
-      {
-        "name": "Positioning Elements Individually (1:34)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913838",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/SR2xmJGgSDSEX3LgR2zx"
-        ]
-      },
-      {
-        "name": "Understanding Responsive Grids (5:30)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913848",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/5f2h2b3BQxeOLDUpxKeF"
-        ]
-      },
-      {
-        "name": "Applying Autoflow (6:39)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913880",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/srtY3LEkTXexAfux3PbL"
-        ]
-      },
-      {
-        "name": "Comparing the Explicit & Implicit Grid (2:31)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913847",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/f1x426Y0RpuM0d0dqQzZ"
-        ]
-      },
-      {
-        "name": "Understanding 'auto-fill' & 'auto-fit' (3:33)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913867",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Dz37vMztRXiHnd5d2JgK"
-        ]
-      },
-      {
-        "name": "Creating a Dense Grid (3:22)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913855",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/g9CcNmwSpy79oDXmMqS3"
-        ]
-      },
-      {
-        "name": "Styling the Project Form with Grid (9:45)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913842",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/KHiPWdlxSDaKCJLUeJVu"
-        ]
-      },
-      {
-        "name": "Comparing Grid & Flexbox (2:27)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913878",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/JhRsP6NR9m2B1ElSz3uA"
-        ]
-      },
-      {
-        "name": "Next Steps (1:31)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913858",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/6xgtKlDpTTWOsfZnE8Pr"
-        ]
-      },
-      {
-        "name": "Wrap Up (3:49)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913856",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/5qqNrtkTx2N8IrXJ0dPg"
-        ]
-      },
-      {
-        "name": "Useful Resources & Links",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456725",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/PcnslljQgiCjMQy30WQT",
-          "https://cdn.fs.teachablecdn.com/C6RNR7z1RPi9cexy15d0",
-          "https://cdn.fs.teachablecdn.com/6V7AUFMDQKu3MctQxanM",
-          "https://cdn.fs.teachablecdn.com/1uiIeT9LRlamATKrmKLO",
-          "https://cdn.fs.teachablecdn.com/e2v3ir9xTPWmScy5LOR5",
-          "https://cdn.fs.teachablecdn.com/WqkYmDIiQ0uDNKFnS65M",
-          "https://cdn.fs.teachablecdn.com/5KTvbzc0Spe9GhgKkyTz",
-          "https://cdn.fs.teachablecdn.com/jJhSyVtvQD2XAHWeWW6x",
-          "https://cdn.fs.teachablecdn.com/Hp3dE4iTR62ND0HCGZJq",
-          "https://cdn.fs.teachablecdn.com/Ic6RcnarRTiovySSxLN3",
-          "https://cdn.fs.teachablecdn.com/dqxjdOl9SguFzYdvhbqx",
-          "https://cdn.fs.teachablecdn.com/P6mkqgJfSPaWN8WsLI3s",
-          "https://cdn.fs.teachablecdn.com/6IpXJY2cQHaBe90sne2M",
-          "https://cdn.fs.teachablecdn.com/vxYYu5r8SSaVDUXQIDLL",
-          "https://cdn.fs.teachablecdn.com/2Mtz6ELVQ9uVJvjKDWzx",
-          "https://cdn.fs.teachablecdn.com/hm2B4tFkSUGoSab3sqtt"
+          "https://cdn.fs.teachablecdn.com/eUIsg5EjRlZhGXjpwRRQ",
+          "https://cdn.fs.teachablecdn.com/awLaem9DTUyngc0viUss",
+          "https://cdn.fs.teachablecdn.com/2sFxoDxGRACrRQhEPvi7",
+          "https://cdn.fs.teachablecdn.com/9ixmI4riR1GbtI8wFKBn",
+          "https://cdn.fs.teachablecdn.com/J0m2JRsdStqpWSu0xSWn",
+          "https://cdn.fs.teachablecdn.com/AK4glowRyuNL4gwPNW1Q",
+          "https://cdn.fs.teachablecdn.com/eyRwoPR9SWCpu9KQRIvM",
+          "https://cdn.fs.teachablecdn.com/IzwB0feuQlGG07oaaxGq",
+          "https://cdn.fs.teachablecdn.com/qKVZVZSbQJC2kxDcHjgu",
+          "https://cdn.fs.teachablecdn.com/bjIvcJFyQH66JnDRFX9L",
+          "https://cdn.fs.teachablecdn.com/2ANMFAPbRsOFjqHR6JCH",
+          "https://cdn.fs.teachablecdn.com/K2UZojAbSdWBSRX9JvRO"
         ]
       }
     ]
   },
   {
-    "sectionName": "Transforming Elements with CSS Transforms",
+    "sectionName": "Ionic Component Deep Dive",
     "videos": [
       {
-        "name": "Module Introduction (0:31)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913890",
+        "name": "Module Introduction (0:52)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341706",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/lYx0RexT7Kyyd64cDSQg"
+          "https://cdn.fs.teachablecdn.com/ycQ4GYWFQ2WRR1w2ORNn"
         ]
       },
       {
-        "name": "Rotating Elements and setting transform-origin (3:45)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913895",
+        "name": "More on the Card Component (3:40)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341716",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/4tptteS5CMuIRvePtww1"
+          "https://cdn.fs.teachablecdn.com/CE4m8Qg0RsWh1dmeI0lJ"
         ]
       },
       {
-        "name": "Using Rotate and Translate (4:57)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913897",
+        "name": "Rendering a List with Items (7:53)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341705",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/NZUAK3ydSqeMrn8mmlxw"
+          "https://cdn.fs.teachablecdn.com/c1Qxz0wS2afMnZhFOJeC"
         ]
       },
       {
-        "name": "Working with 'skew' and 'scale' (6:18)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913898",
+        "name": "Adding Actions to List Items (6:26)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341713",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/EagEQCXNQTygMwkf94bx"
+          "https://cdn.fs.teachablecdn.com/Tzkwi9CQtOlPhpZPF03f"
         ]
       },
       {
-        "name": "Applying Transformation Shorthands (2:23)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913891",
+        "name": "Making Items Swipable (6:08)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341720",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/5skMcXzNTJy7cpThNRqb"
+          "https://cdn.fs.teachablecdn.com/9mhQwOURTemCytd9bk50"
         ]
       },
       {
-        "name": "Rotating Elements in 3 Dimensions (4:19)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913888",
+        "name": "Toolbar Buttons & Floating Action Buttons (10:13)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341710",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/UYzSrQBqRakEJL7pKTGg"
+          "https://cdn.fs.teachablecdn.com/qgl7VdBCT1ef5LHGS3MA"
         ]
       },
       {
-        "name": "Understanding the 'perspective' Property (3:37)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913889",
+        "name": "Showing an Alert (5:20)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341719",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/EKEdLUqWS2SWtl5QT5Tn"
+          "https://cdn.fs.teachablecdn.com/QGTA1GOVSdaP2R0xUrQH"
         ]
       },
       {
-        "name": "Moving Elements along the Z-Axis with 'translateZ' (3:54)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913892",
+        "name": "Presenting a Toast Message (2:39)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341712",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/rKGD5cq0SlizEcpD0RSN"
+          "https://cdn.fs.teachablecdn.com/lXFVrGpSJC3Qe4hBqSwh"
         ]
       },
       {
-        "name": "Rotating the Container with 'transform style' (3:44)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913893",
+        "name": "Showing a Modal (4:18)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341717",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/5B9F6zMRR6qwnO2hZQmD"
+          "https://cdn.fs.teachablecdn.com/JcIQzwzSs66O6xuBqGdV"
         ]
       },
       {
-        "name": "Flipping Elements & 'backface-visibility' (1:15)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913894",
+        "name": "Adding Modal Content (13:34)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341711",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/NyQuAZGFT8uV4lN2Bgcq"
+          "https://cdn.fs.teachablecdn.com/mN7CxxfxS4iHhC4DQj4o"
         ]
       },
       {
-        "name": "Wrap Up (1:14)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913896",
+        "name": "Closing Sliding Items (2:17)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341721",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/s0ZGyirGRvaC5p4FywVs"
+          "https://cdn.fs.teachablecdn.com/CqWtUuhSSl65v5W8AAjn"
         ]
       },
       {
-        "name": "Useful Resources & Links",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456726",
+        "name": "Your Challenge! (1:19)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341709",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/u8VfQWy0T3KQc3cqwIV9",
-          "https://cdn.fs.teachablecdn.com/PJuh8QfuQKyvrXtrzZjA",
-          "https://cdn.fs.teachablecdn.com/WeLM85nVTNeuo8RpR1TJ",
-          "https://cdn.fs.teachablecdn.com/5T0rtaSWSnWMvGsNFyPg",
-          "https://cdn.fs.teachablecdn.com/aqnNSeSR2SvT9wfDN1lV",
-          "https://cdn.fs.teachablecdn.com/YnnRjQhCTuWNtD9sCdjV",
-          "https://cdn.fs.teachablecdn.com/64VoZszuTdqx1G7FyTBn",
-          "https://cdn.fs.teachablecdn.com/DfjwBxpSQraP2hJcS3eD"
+          "https://cdn.fs.teachablecdn.com/bgc9I3aIQPCprY6fTtVT"
+        ]
+      },
+      {
+        "name": "Adding a 'New Course' Modal (7:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341708",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/BNwPQKk7RkopTRt57GMy"
+        ]
+      },
+      {
+        "name": "Adding a DateTime Picker (3:13)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341718",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FFT2R3AtSIKBSCgGnSCE"
+        ]
+      },
+      {
+        "name": "Rendering a List with All Goals (8:44)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341715",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/g4DgSSsRXVcML2HsAz6u"
+        ]
+      },
+      {
+        "name": "Adding Toggle Buttons for Filtering (5:01)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341714",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/XTZV7BgEShiW0amCosLz"
+        ]
+      },
+      {
+        "name": "Refactoring Components (12:23)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341707",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/FTBHj2yHTB2YHHmmRZcv"
+        ]
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355942",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/gq2oBZwUTYe7TkIZIOUQ",
+          "https://cdn.fs.teachablecdn.com/lrC6LbBJTb6W4CgWhhTe",
+          "https://cdn.fs.teachablecdn.com/3NVbr4l7RrGak8iYVLVZ",
+          "https://cdn.fs.teachablecdn.com/NcXfTuySw6zjafTTBbmL",
+          "https://cdn.fs.teachablecdn.com/9A2dcnZZTXKkaFtn5Hpg",
+          "https://cdn.fs.teachablecdn.com/KmD4gx3sQQuB5X0dENqo",
+          "https://cdn.fs.teachablecdn.com/rQAaTbpARTmmN5zlYImV",
+          "https://cdn.fs.teachablecdn.com/ucs9Jh8bTa600K62sg6M",
+          "https://cdn.fs.teachablecdn.com/NDFa2tBFTbyMqY9ehQFo",
+          "https://cdn.fs.teachablecdn.com/nXQsguYAQRyc8OfJOs2i",
+          "https://cdn.fs.teachablecdn.com/A4MYGISbTIyDVjvuOxBW",
+          "https://cdn.fs.teachablecdn.com/slJQIPBKRDuD0anZvRG7",
+          "https://cdn.fs.teachablecdn.com/VSatO5mFT6KsF7gKlCuQ",
+          "https://cdn.fs.teachablecdn.com/UUqnI1wTRX6bPA3MhjPQ",
+          "https://cdn.fs.teachablecdn.com/b2smuZA1TOms0JodbgkD"
         ]
       }
     ]
   },
   {
-    "sectionName": "Transitions & Animations in CSS",
+    "sectionName": "Handling User Input & Application State",
     "videos": [
       {
-        "name": "Module Introduction (0:22)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913911",
+        "name": "Module Introduction (0:54)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341727",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/MscE6fTEeZ5JnryqusZQ"
+          "https://cdn.fs.teachablecdn.com/uuofGMJKSkKmKNZo1B9P"
         ]
       },
       {
-        "name": "Understanding and Applying Transitions (7:23)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913920",
+        "name": "Fetching & Validating User Input (8:16)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341732",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/fippQpPkQiq9sieMMN6d"
+          "https://cdn.fs.teachablecdn.com/0wayWw4FT0a1syUMMODH"
         ]
       },
       {
-        "name": "CSS 'transition' Property Deep Dive",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14488207"
-      },
-      {
-        "name": "Working with Timing Functions (2:50)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913919",
+        "name": "Passing Data to the Modal Page (4:21)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341733",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/BswFqSsZT6avMm4JZXXZ"
+          "https://cdn.fs.teachablecdn.com/pZVKYcpZQByifFV63Igc"
         ]
       },
       {
-        "name": "Transitions & 'display' (6:11)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913915",
+        "name": "Setting Up Application Context (15:10)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341728",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/eSckBd9SQer6tsPLZAlJ"
+          "https://cdn.fs.teachablecdn.com/RhGDdPSjRakilfeBuI4m"
         ]
       },
       {
-        "name": "Assignment - CSS Transitions (Problem) (0:48)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913913",
+        "name": "Adding New Courses (8:19)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341735",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/XNRRzsCNS5W6jUNB1a6N"
+          "https://cdn.fs.teachablecdn.com/gDlVzyrTHShW5UTMIGr6"
         ]
       },
       {
-        "name": "Assignment - CSS Transitions (Solution) (2:12)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913916",
+        "name": "Minor Fixes (1:34)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341729",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/4FnapRCFQHifJ8vWStjH"
+          "https://cdn.fs.teachablecdn.com/MscgPszlRnCxOtT1WvYe"
         ]
       },
       {
-        "name": "Using CSS Animations (9:00)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913912",
+        "name": "Adding a Goal (16:07)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341730",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ppiiCUk1TQyBfXzOSXUU"
+          "https://cdn.fs.teachablecdn.com/C7AX6Gd8TQKr51CwBeop"
         ]
       },
       {
-        "name": "CSS 'animation' Property Deep Dive",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14488219"
-      },
-      {
-        "name": "Adding Multiple Keyframes (3:22)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913921",
+        "name": "Deleting & Updating Goals (13:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341726",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/WU1OZrzfT5mukcD8t8fC"
+          "https://cdn.fs.teachablecdn.com/Q9DvBjxcQvSTV9WhXqQf"
         ]
       },
       {
-        "name": "Adding Animations to our Customers Page (3:59)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913910",
+        "name": "Handling All Goals & Fixing a Warning (4:41)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341736",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/1Hy6OVZ1Q6FHTPtxMy0a"
+          "https://cdn.fs.teachablecdn.com/T8vbNINRpW2abQlZCfcs"
         ]
       },
       {
-        "name": "Assignment - Animations (Problem) (0:33)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913917",
+        "name": "Filtering Goals (9:01)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341731",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/rqLZLG6QU6KP2NpO9arw"
+          "https://cdn.fs.teachablecdn.com/r9Gk0iXmR7mUN0wCe7Te"
         ]
       },
       {
-        "name": "Assignment - Animations (Solution) (3:03)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913909",
+        "name": "Finishing Touches (4:07)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341734",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Sune3YTlSQOmdR56IKei"
+          "https://cdn.fs.teachablecdn.com/bsRH6oQDSDKv9l6xdhba"
         ]
       },
       {
-        "name": "Using JavaScript Animation Event Listeners (3:24)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913918",
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355979",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/1ARg6d9TdCHic3CesvA2"
-        ]
-      },
-      {
-        "name": "Wrap Up (1:35)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913914",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/m5DGgZTKCwZngomrshrw"
-        ]
-      },
-      {
-        "name": "Useful Resources & Links",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456727",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/uaBnYRmQEyFXia1vPJh3",
-          "https://cdn.fs.teachablecdn.com/sbQqjwlRRe9DPAzpPR5Q",
-          "https://cdn.fs.teachablecdn.com/EswgeWSoQYOvM8QZ9vGj",
-          "https://cdn.fs.teachablecdn.com/JA7c3Ut3TeS06fg8kWji",
-          "https://cdn.fs.teachablecdn.com/8U925xWZREKNHRI4HgIl",
-          "https://cdn.fs.teachablecdn.com/pPSpfO1kTZq6nVpI5Ho3",
-          "https://cdn.fs.teachablecdn.com/8CG39VINQ2u55d0AMTJT"
+          "https://cdn.fs.teachablecdn.com/05aFuL9Q8Qy3bntWUlOQ",
+          "https://cdn.fs.teachablecdn.com/mzHxyzWR4yhVK7cpZgL1",
+          "https://cdn.fs.teachablecdn.com/OKZUfebiRgeDsowC8t5f",
+          "https://cdn.fs.teachablecdn.com/oXEXxtVSh2xqmOgp54aN",
+          "https://cdn.fs.teachablecdn.com/IV7Hy6TaOfwaOgzQgjvg",
+          "https://cdn.fs.teachablecdn.com/lbtD4hNyQ7Kr6DmFy9cQ",
+          "https://cdn.fs.teachablecdn.com/LpVhh1ufRyyb55fSqSEX",
+          "https://cdn.fs.teachablecdn.com/9NUbsgQcOTwcCfnNSdUA",
+          "https://cdn.fs.teachablecdn.com/aTZmIX2GRLxKVMsKaWLe"
         ]
       }
     ]
   },
   {
-    "sectionName": "Writing Future-Proof CSS Code",
+    "sectionName": "Using Native Device Features",
     "videos": [
       {
-        "name": "Module Introduction (0:34)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913950",
+        "name": "Module Introduction (2:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341757",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Uupost6eSnaCtxhQvyxF"
+          "https://cdn.fs.teachablecdn.com/xG45gAHTDe5FjR9F86JA"
         ]
       },
       {
-        "name": "CSS Modules & Their Working Groups (1:55)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913945",
+        "name": "Getting Started (2:41)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341750",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/5uInlTP5QeHdU83QqhYL"
+          "https://cdn.fs.teachablecdn.com/tsTRAGHeQBCaC5B68aO3",
+          "https://cdn.fs.teachablecdn.com/GxrrwwimQTKa6UlCKgGR"
         ]
       },
       {
-        "name": "Using CSS Variables (7:31)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913949",
+        "name": "Adding Tabs Navigation (7:52)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341748",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/GLg6cN1mRrRAso4IJtKD"
+          "https://cdn.fs.teachablecdn.com/ZVhNvEH4S4iCUYfyuq5g"
         ]
       },
       {
-        "name": "Understanding & Using Vendor Prefixes (4:47)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913952",
+        "name": "Adding Toolbar Buttons & Fabs (6:30)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341747",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/3HR7Vu4QQ3KDA74qDLVa"
+          "https://cdn.fs.teachablecdn.com/6Z5aSRc2SvWwZcNSEKtl"
         ]
       },
       {
-        "name": "Which Prefixes Should You Use? (2:58)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913947",
+        "name": "Theming the App (4:07)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341746",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/bV1WBRSCSUGjjHZBfEc7"
+          "https://cdn.fs.teachablecdn.com/fY8VhINRA60155BsU4wy"
         ]
       },
       {
-        "name": "Detecting Browser Support with @supports (5:09)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913951",
+        "name": "Preparing the 'NewMemory' Page (5:54)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341754",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/H7TDIkIKSjORIJacLJNP"
+          "https://cdn.fs.teachablecdn.com/qVjDhyFZS3STTThGjwFK"
         ]
       },
       {
-        "name": "Polyfills (2:45)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913953",
+        "name": "Adding Capacitor (4:26)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341751",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/USiwE40vS12CMhjbBjyB"
+          "https://cdn.fs.teachablecdn.com/uhF05a7RIOKAGtJeRBaM"
         ]
       },
       {
-        "name": "Eliminating Cross-Browser Inconsistencies (2:58)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913944",
+        "name": "Using the Device Camera (13:22)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341755",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/BVSeoqIUSyaKGdFFptUw"
+          "https://cdn.fs.teachablecdn.com/Xjo09GIBRgOlWnijpoA2"
         ]
       },
       {
-        "name": "How to Name CSS Classes (4:52)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913948",
+        "name": "Adding an Image Preview (5:51)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341758",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/JHnXh2fhQ3CWS0zuHEbH"
+          "https://cdn.fs.teachablecdn.com/IR1mgw0FSpmu4Rq1EYKs"
         ]
       },
       {
-        "name": "Vanilla CSS vs Frameworks (8:36)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913943",
+        "name": "Using the Filesystem API (8:15)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341761",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/KgHnjsWQpJCaZ5HKsPAY"
+          "https://cdn.fs.teachablecdn.com/EoNqTBfRkCWJ5sfQUY7a"
         ]
       },
       {
-        "name": "Wrap Up (4:16)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913946",
+        "name": "Collecting User Input (5:28)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341752",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/WjlP0L2lTAKJkYxWsBqg"
+          "https://cdn.fs.teachablecdn.com/dmLjSEJcQkyr3iFwYzYb"
         ]
       },
       {
-        "name": "Useful Resources & Links",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456728",
+        "name": "Storing Data in Context (14:44)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341760",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/mRPQVmsbT3WQJmdksLQM",
-          "https://cdn.fs.teachablecdn.com/JDvM9eNWQgqFPXs7Vkw9",
-          "https://cdn.fs.teachablecdn.com/ue6yQEHS0azmDfUER380"
+          "https://cdn.fs.teachablecdn.com/7xn4dNu5Rny7N19bbHd2"
+        ]
+      },
+      {
+        "name": "Getting Image Previews via Context (5:03)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341756",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/UjhQDLSSwyVlariiBazb"
+        ]
+      },
+      {
+        "name": "Storing & Loading Data via Device Storage (19:58)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341753",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/pT1H3pI1R8ff24MMJ9IY"
+        ]
+      },
+      {
+        "name": "Refactoring (9:29)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341770",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/GXv5QeOTIVv4om4QQAVv"
+        ]
+      },
+      {
+        "name": "Native APIs in the Browser (8:31)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14501067",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/y6FyOyfSO5g30mMREiqg"
+        ]
+      },
+      {
+        "name": "A Fallback if no Camera is available (12:16)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14501068",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/V8hYhmllSZqaMXehgy6G"
+        ]
+      },
+      {
+        "name": "Running on a Real Device (2:09)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341749",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/PQeQ5MHOR1WNxk4YuY2X"
+        ]
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355984",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ZIKsUUFwSteYPxFUssgG",
+          "https://cdn.fs.teachablecdn.com/1VPBS5EYR6qYG6t63ukF",
+          "https://cdn.fs.teachablecdn.com/pqzU1lFHTsi5AtYgu61V",
+          "https://cdn.fs.teachablecdn.com/Mqz0tlRQzCzMG6N587Eg",
+          "https://cdn.fs.teachablecdn.com/4w9D0FUQCeMvKs8dPT9n",
+          "https://cdn.fs.teachablecdn.com/xoa7QNs5TSCraWv2FlRG",
+          "https://cdn.fs.teachablecdn.com/eT3Tc2nsRLi08uXBaKPz",
+          "https://cdn.fs.teachablecdn.com/MFWitp1TOSLsJQIenHMA",
+          "https://cdn.fs.teachablecdn.com/SlOKJcHAT6OqL5VWso6t",
+          "https://cdn.fs.teachablecdn.com/aXoYsSUS02dgcqQXxIH8",
+          "https://cdn.fs.teachablecdn.com/6oUj1Qc0QLyqQ35jOHcK",
+          "https://cdn.fs.teachablecdn.com/BptqXWmfSXmQMk2KHJRE",
+          "https://cdn.fs.teachablecdn.com/0mQXh0mQq6q7igI82Tb6",
+          "https://cdn.fs.teachablecdn.com/6dk1yh34Rd2WrfR8ezyO"
         ]
       }
     ]
   },
   {
-    "sectionName": "Introducing Sass (Syntactically Awesome Style Sheets)",
+    "sectionName": "Optimizations",
     "videos": [
       {
-        "name": "Module Introduction (0:42)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913982",
+        "name": "Module Introduction (1:39)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341793",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/6bb3Mf1FRhKQEqYW4TEB"
+          "https://cdn.fs.teachablecdn.com/OTIDu862SXCyDxP0LUz8"
         ]
       },
       {
-        "name": "What is Sass & Scss? (3:30)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913977",
+        "name": "Sharing a Page Content Component (6:39)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341796",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/mXXokiISE68EpcYs9Qnr"
+          "https://cdn.fs.teachablecdn.com/NQKMdA3pQrGN7hDBVd1y"
         ]
       },
       {
-        "name": "Installing Sass (4:25)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913969",
+        "name": "Splitting the App into More Components (4:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341794",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/uy5LHVUQ6qWkSsI9YbJe"
+          "https://cdn.fs.teachablecdn.com/bDpGxPrYS16xknWv4CZH"
         ]
       },
       {
-        "name": "Things to be Improved with Sass (1:33)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913972",
+        "name": "Adding a 'Image Picker' Component (10:51)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341799",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/BoaaNPqZQDQ9vpdfzd1w"
+          "https://cdn.fs.teachablecdn.com/wvS6gDcyT6c4zAypOyMw"
         ]
       },
       {
-        "name": "Nesting Selectors (6:35)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913975",
+        "name": "Re-using Types (6:03)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341798",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/tjy50PjQM4jAXQTN5CwG"
+          "https://cdn.fs.teachablecdn.com/KasJx5lsTtOqN3qmrRGG"
         ]
       },
       {
-        "name": "Adding Nested Properties (1:27)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913973",
+        "name": "Centralizing App Logic (5:06)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341795",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/2pOMG0uiS5GYcUzAKFkg"
+          "https://cdn.fs.teachablecdn.com/ldyuJpUT720FYCmvZgIO"
         ]
       },
       {
-        "name": "Understanding Variables (3:05)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913967",
+        "name": "Adding Lazy Loading (5:27)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341797",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/D2yleeAjT16roXn9TIod"
+          "https://cdn.fs.teachablecdn.com/vEwDqa21SWiB37nxB1Uh"
         ]
       },
       {
-        "name": "Storing Lists & Maps in Variables (5:58)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913983",
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355990",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/cipBtDwHRTehXJEOVIn6"
-        ]
-      },
-      {
-        "name": "Built-In Functions (3:18)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913971",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/4twC0VshSydM9bzb33Tx"
-        ]
-      },
-      {
-        "name": "Assignment - Sass (Problem) (0:49)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913978",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/1lgpSWCPQhqKFEEHfYgd"
-        ]
-      },
-      {
-        "name": "Assignment - Sass (Solution) (3:42)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913980",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/ycHnzJv7Sp6atwl2BTwG"
-        ]
-      },
-      {
-        "name": "Adding Simple Arithmetics (2:24)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913966",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/CPUJrjWlTRObt4jvaFxN"
-        ]
-      },
-      {
-        "name": "Adding Better Import and Partials (4:46)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913970",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/s3vToF2Qh6YY0bOBYbXQ"
-        ]
-      },
-      {
-        "name": "Improving Media Queries (2:24)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913981",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/nHFIOUKNTv6VMgcYz8Es"
-        ]
-      },
-      {
-        "name": "Understanding Inheritance (3:33)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913976",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Je9j6MpXTK21XsMuAtAo"
-        ]
-      },
-      {
-        "name": "Adding Mixins (6:45)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913979",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/3amKXYZFSz2D7i8WIwS0"
-        ]
-      },
-      {
-        "name": "Using the Ampersand Operator (2:57)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913968",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/IbiiiGOfQyOFTBQ4JNfZ"
-        ]
-      },
-      {
-        "name": "Wrap Up (1:13)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913974",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/a8bObtzqQjSZKOK8NJuf"
-        ]
-      },
-      {
-        "name": "Useful Resources & Links",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/14456729",
-        "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/859x89sQeOjrHAS2sOqc",
-          "https://cdn.fs.teachablecdn.com/GitYKOwrTty2WPpo1AxC",
-          "https://cdn.fs.teachablecdn.com/ZFI0XSK6SJGWLGBiKwLe",
-          "https://cdn.fs.teachablecdn.com/PcNLkfP6Q6o5UqT5ynpw",
-          "https://cdn.fs.teachablecdn.com/yzRoe7AwSrKjWBoruIPg"
+          "https://cdn.fs.teachablecdn.com/PrJcShaQXW34bEg8OEKB",
+          "https://cdn.fs.teachablecdn.com/GUsofTkvQJSMJryVa985",
+          "https://cdn.fs.teachablecdn.com/kJmRv4eOTwK3962LwCqy",
+          "https://cdn.fs.teachablecdn.com/kUtN4pxQR7utSEwoixIQ",
+          "https://cdn.fs.teachablecdn.com/b0S8oT7qSaWGNyymAszE",
+          "https://cdn.fs.teachablecdn.com/yytrCIsLQKeBvSkQWN3c"
         ]
       }
     ]
   },
   {
-    "sectionName": "Course Roundup",
+    "sectionName": "Publishing the Apps",
     "videos": [
       {
-        "name": "Course Roundup (1:56)",
-        "link": "https://pro.academind.com/courses/css-the-complete-guide-2020-incl-flexbox-grid-sass/lectures/13913995",
+        "name": "Module Introduction (1:05)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341803",
         "downloadURLs": [
-          "https://cdn.fs.teachablecdn.com/Z3vJPd0FSsKF2143qDim"
+          "https://cdn.fs.teachablecdn.com/vYkJtWjTaqb03FbVwRJQ"
+        ]
+      },
+      {
+        "name": "Configuring the Apps (2:30)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341807",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/ZsxG3PkDSduuUoUoJuOC"
+        ]
+      },
+      {
+        "name": "Adding Icons & Splash Screens (13:04)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341808",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/DZkdjlUkRxyI4LwEKqKt",
+          "https://cdn.fs.teachablecdn.com/Q8103mmTrOOoMAUhm6Pc"
+        ]
+      },
+      {
+        "name": "Publishing a Web App (5:46)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341806",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/uDdbEhICTnywSglbK5zU"
+        ]
+      },
+      {
+        "name": "Publishing an Android App (3:54)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341804",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/z2uTomilT8uwHk8tr8sf"
+        ]
+      },
+      {
+        "name": "Publishing an iOS App (4:24)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14341805",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/vMUHhWh0QtiXgVmS36UP"
+        ]
+      },
+      {
+        "name": "Module Resources",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14355993"
+      }
+    ]
+  },
+  {
+    "sectionName": "Roundup",
+    "videos": [
+      {
+        "name": "Course Roundup (2:43)",
+        "link": "https://pro.academind.com/courses/ionic-react-build-cross-platform-apps-web-android-ios/lectures/14353016",
+        "downloadURLs": [
+          "https://cdn.fs.teachablecdn.com/zzTcUeHxQ9Ocf9sL0s57"
         ]
       }
     ]
   }
 ]
+
 
 `
 let obj = JSON.parse(stObj);
@@ -1235,7 +1164,7 @@ async function getDownloadURLS() {
       await navigate(chrome, videoArr[j].link, i, j);
     }
   }
-  fs.writeFileSync(rootPath + "//Data.txt", JSON.stringify(obj));
+  fs.writeFileSync(rootPath + "Data.txt", JSON.stringify(obj));
 }
 async function navigate(chrome, url, outerIndex, innerIndex) {
   try {
@@ -1272,17 +1201,17 @@ async function navigate(chrome, url, outerIndex, innerIndex) {
 async function downloadVideos(){
   for (let i = 0; i < obj.length; i++) {
     let videoArr = obj[i].videos;
-    let downloadPath =Path.resolve(  rootPath , obj[i].sectionName);
+    let downloadPath = rootPath + obj[i].sectionName + '/';
     if (!fs.existsSync(downloadPath)) {
       fs.mkdirSync(downloadPath);
     }
     for (let j = 0; j < videoArr.length; j++) {
-      await createDownloadTask(videoArr[j], i, j);
+      await createDownloadTask(videoArr[j], i, j, downloadPath);
     }
   }
 }
 
-async function createDownloadTask(vidObj, outerIndex, innerIndex){
+async function createDownloadTask(vidObj, outerIndex, innerIndex, downloadPath){
   if(vidObj && vidObj.downloadURLs && vidObj.downloadURLs.length > 0){
     const tasks = [] 
     for(let i = 0;i< vidObj.downloadURLs.length; i++){
@@ -1297,9 +1226,8 @@ async function createDownloadTask(vidObj, outerIndex, innerIndex){
               url: url,
               responseType: 'stream'
             })
-            const path = Path.resolve(rootPath, obj[outerIndex].sectionName ,response.headers["content-disposition"].split("filename=")[1].split('"')[1])
-            response.data.pipe(fs.createWriteStream(path))
-      
+            const path = downloadPath + response.headers["content-disposition"].split("filename=")[1].split('"')[1];
+            response.data.pipe(fs.createWriteStream(path));
             return new Promise((resolve, reject) => {
               response.data.on('end', () => {
                 resolve()
