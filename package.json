@@ -9,5 +9,9 @@
   "author": "Ashish Bharadwaj J",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.19.2",
+    "chrome-launcher": "^0.13.4",
+    "chrome-remote-interface": "^0.28.2",
+    "listr": "^0.14.3"
   }
 }
